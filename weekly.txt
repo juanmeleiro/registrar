@@ -9,7 +9,10 @@ Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Events since last report
 ========================
-None.
+* On 2022-09-11, Proposal 8854 was adopted, which deregistered and
+  banned Madrid (see [1]).
+
+[1]: <https://www.mail-archive.com/agora-official@agoranomic.org/msg12599.html>
 
 Players, activity, and registration dates
 =========================================
@@ -19,11 +22,9 @@ The following information from this section is self-ratifying:
   list of players).
 - The value of each instance of the Activity switch.
 
-There are 19 Players.
-
-===================
-Active Players (14)
-===================
+==============
+Active Players
+==============
 
 Player               Registered  Made Active
 ------               ----------  -----------
@@ -35,16 +36,15 @@ G.                   2017-08-25   2021-02-03
 Gaelan               2017-05-15   2021-02-03
 Jason                2019-06-02   2021-02-03
 juan                 2022-03-14   <--
-Madrid               2017-08-25   2021-02-03
 Murphy               2017-12-17   2021-02-03
 nix                  2019-10-18   2021-02-03
 R. Lee               2021-10-22   <--
 secretsnail          2022-01-29   <--
 Vitor Gonçalves      2022-07-23   <--
 
-====================
-Inactive Players (4)
-====================
+================
+Inactive Players
+================
 
 Nickname             Registered  Made Inactive
 --------             ----------  -------------
@@ -71,7 +71,6 @@ G.                   kerim at uw.edu
 Gaelan               gbs at canishe.com
 Jason                jason.e.cobb at gmail.com
 juan                 juan at juanmeleiro.mat.br
-Madrid               madridnomic at gmail.com [1]
 Murphy               murphy.agora at gmail.com [2]
 nix                  nixagora at proton.me [3]
 omd                  comexk at gmail.com [0]
@@ -80,7 +79,6 @@ R. Lee               sarahestrange0 at gmail.com
 secretsnail          secretsnail9 at gmail.com
 Trigon               reuben.staley at gmail.com
 Vitor Gonçalves      vitorg at tilde.team
-
 
 [0] officially, but technically equivalent c.ome.xk at gmail.com
 [1] Formerly cuddlebeam at gmail.com.
@@ -142,7 +140,6 @@ dahuman            2022-04-01
 ais523             2008-04-28
 omd                2007-05-01
 CreateSource       2022-05-13
-Madrid             2017-05-20
 Gaelan             2015-05-27
 Jason              2019-06-02
 R. Lee             2017-06-07

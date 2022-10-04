@@ -9,6 +9,7 @@ Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Events since last report
 ========================
+* On 2022-08-29, nix submitted a Cantus Cygneus. 
 * On 2022-09-11, Proposal 8854 was adopted, which deregistered and
   banned Madrid (see [1]).
 
@@ -37,10 +38,10 @@ Gaelan               2017-05-15   2021-02-03
 Jason                2019-06-02   2021-02-03
 juan                 2022-03-14   <--
 Murphy               2017-12-17   2021-02-03
-nix                  2019-10-18   2021-02-03
 R. Lee               2021-10-22   <--
 secretsnail          2022-01-29   <--
 Vitor Gonçalves      2022-07-23   <--
+ziproot              2022-09-07   <--
 
 ================
 Inactive Players
@@ -72,19 +73,17 @@ Gaelan               gbs at canishe.com
 Jason                jason.e.cobb at gmail.com
 juan                 juan at juanmeleiro.mat.br
 Murphy               murphy.agora at gmail.com [2]
-nix                  nixagora at proton.me [3]
 omd                  comexk at gmail.com [0]
 Pilgore              drpilgore@gmail.com
 R. Lee               sarahestrange0 at gmail.com
 secretsnail          secretsnail9 at gmail.com
 Trigon               reuben.staley at gmail.com
 Vitor Gonçalves      vitorg at tilde.team
+ziproot              agora.ziproot at erine.email
 
 [0] officially, but technically equivalent c.ome.xk at gmail.com
 [1] Formerly cuddlebeam at gmail.com.
 [2] Previously emurphy42 at zoho.com.
-[3] Also nchagora at protonmail.com, nichevans at mailbox.org,
-    and nixnull+agora at protonmail.com
 
 Fora
 ====
@@ -144,7 +143,6 @@ Gaelan             2015-05-27
 Jason              2019-06-02
 R. Lee             2017-06-07
 4st                2022-06-07
-nix                2013-08-14
 Cap'n              2022-08-15
 Pilgore            2022-08-15
 Trigon             2017-09-24

@@ -2,18 +2,25 @@
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2022-08-26
-Date of this report: 2022-10-03
+Date of last report: 2022-10-03
+Date of this report: 2022-10-10
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Events since last report
 ========================
-* On 2022-08-29, nix submitted a Cantus Cygneus. 
-* On 2022-09-11, Proposal 8854 was adopted, which deregistered and
-  banned Madrid (see [1]).
+* [2022-10-05] orb <hereuplay@gmail.com> registered
+* [2022-10-07] Shy Owl <iamashyowl@proton.me> registered.
+* [2022-10-09] nix <agora@nullarch.com> registered.
+* [2022-10-09] secretsnail changed eir name to “snail”.
 
-[1]: <https://www.mail-archive.com/agora-official@agoranomic.org/msg12599.html>
+Other news
+==========
+* As pointed out by G. in 2022-10-06 (Re: BUS: [Registrar] Weekly
+  Report), Pilgore should be a registered player. I'll have em
+  registered here, so this is ratified, as should be. Considering
+  Pilgore has registered and not unregistered, I'll take it that e is
+  consenting to this.
 
 Players, activity, and registration dates
 =========================================
@@ -39,9 +46,13 @@ Jason                2019-06-02   2021-02-03
 juan                 2022-03-14   <--
 Murphy               2017-12-17   2021-02-03
 R. Lee               2021-10-22   <--
-secretsnail          2022-01-29   <--
+snail                2022-01-29   <--
 Vitor Gonçalves      2022-07-23   <--
 ziproot              2022-09-07   <--
+Pilgore              2022-08-15   <--
+orb                  2022-10-05   <--
+Shy Owl              2022-10-07   <--
+nix                  2022-10-09   <--
 
 ================
 Inactive Players
@@ -80,6 +91,9 @@ secretsnail          secretsnail9 at gmail.com
 Trigon               reuben.staley at gmail.com
 Vitor Gonçalves      vitorg at tilde.team
 ziproot              agora.ziproot at erine.email
+orb                  hereuplay@gmail.com
+Shy Owl              iamashyown@proton.me
+nix                  agora@nullarch.com
 
 [0] officially, but technically equivalent c.ome.xk at gmail.com
 [1] Formerly cuddlebeam at gmail.com.

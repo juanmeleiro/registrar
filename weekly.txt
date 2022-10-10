@@ -68,7 +68,6 @@ Trigon               2017-09-24     2022-08-24
 
 Contact information
 ===================
-
 (Required by rule 2139)
 
 Player               Contact
@@ -83,7 +82,7 @@ G.                   kerim at uw.edu
 Gaelan               gbs at canishe.com
 Jason                jason.e.cobb at gmail.com
 juan                 juan at juanmeleiro.mat.br
-Murphy               murphy.agora at gmail.com [2]
+Murphy               murphy.agora at gmail.com
 omd                  comexk at gmail.com [0]
 Pilgore              drpilgore@gmail.com
 R. Lee               sarahestrange0 at gmail.com
@@ -95,13 +94,8 @@ orb                  hereuplay@gmail.com
 Shy Owl              iamashyown@proton.me
 nix                  agora@nullarch.com
 
-[0] officially, but technically equivalent c.ome.xk at gmail.com
-[1] Formerly cuddlebeam at gmail.com.
-[2] Previously emurphy42 at zoho.com.
-
 Fora
 ====
-
 The publicity switch values (Rule 478) are self-ratifying.
 
 Publicity    Location or description                 Typical use
@@ -157,10 +151,10 @@ Gaelan             2015-05-27
 Jason              2019-06-02
 R. Lee             2017-06-07
 4st                2022-06-07
+Vitor Gonçalves    2022-07-23
 Cap'n              2022-08-15
 Pilgore            2022-08-15
 Trigon             2017-09-24
-Vitor Gonçalves    2022-07-23
 
 Watchers
 ========

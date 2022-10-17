@@ -2,25 +2,14 @@
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2022-10-03
-Date of this report: 2022-10-10
+Date of last report: 2022-10-10
+Date of this report: 2022-10-17
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Events since last report
 ========================
-* [2022-10-05] orb <hereuplay@gmail.com> registered
-* [2022-10-07] Shy Owl <iamashyowl@proton.me> registered.
-* [2022-10-09] nix <agora@nullarch.com> registered.
-* [2022-10-09] secretsnail changed eir name to “snail”.
-
-Other news
-==========
-* As pointed out by G. in 2022-10-06 (Re: BUS: [Registrar] Weekly
-  Report), Pilgore should be a registered player. I'll have em
-  registered here, so this is ratified, as should be. Considering
-  Pilgore has registered and not unregistered, I'll take it that e is
-  consenting to this.
+* [2022-10-14] the Astrally Forged registered.
 
 Players, activity, and registration dates
 =========================================
@@ -52,6 +41,7 @@ Pilgore              2022-08-15   <--
 orb                  2022-10-05   <--
 Shy Owl              2022-10-07   <--
 nix                  2022-10-09   <--
+the Astrally Forged  2022-10-14   <--
 
 ================
 Inactive Players
@@ -81,7 +71,7 @@ Gaelan               gbs at canishe.com
 Jason                jason.e.cobb at gmail.com
 juan                 juan at juanmeleiro.mat.br
 Murphy               murphy.agora at gmail.com
-omd                  comexk at gmail.com [0]
+omd                  comexk at gmail.com
 Pilgore              drpilgore@gmail.com
 R. Lee               sarahestrange0 at gmail.com
 snail                secretsnail9 at gmail.com
@@ -91,6 +81,10 @@ ziproot              agora.ziproot at erine.email
 orb                  hereuplay@gmail.com
 Shy Owl              iamashyown@proton.me
 nix                  agora@nullarch.com
+the Astrally Forged  irc://libera.chat/AstrallyForged,isnick [0]
+
+[0]: Also @moonbolt@mst3k.interlinked.me on Fediverse and
+     mailto://theastrallyforged@disroot.org
 
 Fora
 ====
@@ -136,22 +130,27 @@ month and day.
 
 This section is not self-ratifying and may be inaccurate.
 
-Murphy             ? ("< 1996-01-23" in Registrar's monthly report)
-snail              2022-01-29
-G.                 2001-02-04
-juan               2022-03-14
-cuddlybanana       2021-03-16
-dahuman            2022-04-01
-ais523             2008-04-28
-omd                2007-05-01
-CreateSource       2022-05-13
-Gaelan             2015-05-27
-Jason              2019-06-02
-R. Lee             2017-06-07
-Vitor Gonçalves    2022-07-23
-Cap'n              2022-08-15
-Pilgore            2022-08-15
-Trigon             2017-09-24
+Murphy              ? ("< 1996-01-23" in Registrar's monthly report)
+snail               2022-01-29
+G.                  2001-02-04
+juan                2022-03-14
+cuddlybanana        2021-03-16
+dahuman             2022-04-01
+ais523              2008-04-28
+omd                 2007-05-01
+CreateSource        2022-05-13
+Gaelan              2015-05-27
+Jason               2019-06-02
+R. Lee              2017-06-07
+Vitor Gonçalves     2022-07-23
+Cap'n               2022-08-15
+Pilgore             2022-08-15
+Trigon              2017-09-24
+ziproot             2022-09-07
+orb                 2022-10-05
+Shy Owl             2022-10-07
+nix                 2022-10-09
+the Astrally Forged 2022-10-14
 
 Watchers
 ========

@@ -142,6 +142,7 @@ CreateSource        2022-05-13
 Gaelan              2015-05-27
 Jason               2019-06-02
 R. Lee              2017-06-07
+nix                 2017-06-29
 Vitor Gonçalves     2022-07-23
 Cap'n               2022-08-15
 Pilgore             2022-08-15
@@ -149,7 +150,6 @@ Trigon              2017-09-24
 ziproot             2022-09-07
 orb                 2022-10-05
 Shy Owl             2022-10-07
-nix                 2022-10-09
 the Astrally Forged 2022-10-14
 
 Watchers

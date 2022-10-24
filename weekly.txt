@@ -2,14 +2,14 @@
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2022-10-10
-Date of this report: 2022-10-17
+Date of last report: 2022-10-17
+Date of this report: 2022-10-24
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Events since last report
 ========================
-* [2022-10-14] the Astrally Forged registered.
+* [2022-10-19] Aced7 registered.
 
 Players, activity, and registration dates
 =========================================
@@ -42,6 +42,7 @@ orb                  2022-10-05   <--
 Shy Owl              2022-10-07   <--
 nix                  2022-10-09   <--
 the Astrally Forged  2022-10-14   <--
+Aced7                2022-10-19   <--
 
 ================
 Inactive Players
@@ -81,10 +82,8 @@ ziproot              agora.ziproot at erine.email
 orb                  hereuplay@gmail.com
 Shy Owl              iamashyown@proton.me
 nix                  agora@nullarch.com
-the Astrally Forged  irc://libera.chat/AstrallyForged,isnick [0]
-
-[0]: Also @moonbolt@mst3k.interlinked.me on Fediverse and
-     mailto://theastrallyforged@disroot.org
+the Astrally Forged  irc://libera.chat/AstrallyForged,isnick
+Aced7                cadenomic@gmail.com
 
 Fora
 ====
@@ -96,18 +95,11 @@ Public       agora-official at agoranomic.org        official reports
 Public       agora-business at agoranomic.org        other business
 Discussion   agora-discussion at agoranomic.org      discussion
 Discussion   https://discord.gg/JCC6YGc              discussion
-Foreign*     irc://irc.libera.chat:6667/##nomic      discussion
+Foreign      irc://irc.libera.chat:6667/##nomic      discussion
 Public       agora at listserver.tue.nl              backup
-Public       agoranomic at groups.io **              backup
+Public       agoranomic at groups.io *               backup
 
-*This is the current IRC forum. We may replace it with another, but in
-the long run one IRC channel or another will be made a discussion forum.
-
-**The forum is specifically just that email list. From the message that
-made it public: "Note that although groups.io provides many features
-besides email, the forum I am referring to is specifically the email
-list: if something doesn't get to Gio's subscribers by email, it wasn't
-sent via Gio.
+*The forum is specifically just that email list.
 
 Subscribe or unsubscribe from main
 lists:http://www.agoranomic.org/cgi-bin/mailman/listinfo
@@ -116,8 +108,7 @@ Subscribe or unsubscribe from tue.nl backup
 list:http://listserver.tue.nl/mailman/listinfo/agora
 
 The IRC channel does not require subscription; set your IRC client to
-server irc.libera.chat, port 6667, channel ##nomic, and whatever
-nickname you like.
+server irc.libera.chat, port 6667, channel ##nomic.
 
 You can subscribe to GIO by messaging the following email
 main+subscribe at agoranomic.groups.io
@@ -151,6 +142,7 @@ ziproot             2022-09-07
 orb                 2022-10-05
 Shy Owl             2022-10-07
 the Astrally Forged 2022-10-14
+Aced7               2022-10-19
 
 Watchers
 ========

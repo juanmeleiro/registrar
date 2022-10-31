@@ -1,1 +1,4 @@
 [2022-10-09] secretsnail -> snail
+[2022-10-31] CreateSource deregistered for inactivity.
+[2022-10-31] duck deregistered for inactivity.
+[2022-10-31] Trigon deregistered for inactivity.

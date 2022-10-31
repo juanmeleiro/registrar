@@ -2,14 +2,15 @@
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2022-10-17
-Date of this report: 2022-10-24
+Date of last report: 2022-10-24
+Date of this report: 2022-10-31
 
 Archive of reports on the web: https://agoranomic.org/Registrar/
 
 Events since last report
 ========================
-* [2022-10-19] Aced7 registered.
+* Three inactive players have been deregistered (Trigon, duck, and
+  CreateSource). Note: omd cannot be deregistered, as e is the Webmastor.
 
 Players, activity, and registration dates
 =========================================
@@ -48,12 +49,15 @@ Aced7                2022-10-19   <--
 Inactive Players
 ================
 
-Nickname             Registered  Made Inactive
---------             ----------  -------------
-omd                  2011-02-03     2022-03-23
-CreateSource         2022-05-14     2022-08-24
-duck                 2022-03-12     2022-08-24
-Trigon               2017-09-24     2022-08-24
+None.
+
+========================
+Underegisterable Players
+========================
+
+Nickname             Registered  Made Inactive Reason
+--------             ----------  ------------- ------
+omd                  2011-02-03     2022-03-23 Webmastor
 
 
 Contact information
@@ -64,9 +68,7 @@ Player               Contact
 ------               -------
 ais523               callforjudgement at yahoo.co.uk
 Cap'n                acadia_but_real at protonmail.com
-CreateSource         createsource.nomic at gmail.com
 cuddlybanana         rose.strong42 at gmail.com
-duck                 skullcat.test at gmail.com
 G.                   kerim at uw.edu
 Gaelan               gbs at canishe.com
 Jason                jason.e.cobb at gmail.com
@@ -76,7 +78,6 @@ omd                  comexk at gmail.com
 Pilgore              drpilgore@gmail.com
 R. Lee               sarahestrange0 at gmail.com
 snail                secretsnail9 at gmail.com
-Trigon               reuben.staley at gmail.com
 Vitor Gonçalves      vitorg at tilde.team
 ziproot              agora.ziproot at erine.email
 orb                  hereuplay@gmail.com
@@ -129,7 +130,6 @@ cuddlybanana        2021-03-16
 dahuman             2022-04-01
 ais523              2008-04-28
 omd                 2007-05-01
-CreateSource        2022-05-13
 Gaelan              2015-05-27
 Jason               2019-06-02
 R. Lee              2017-06-07
@@ -137,7 +137,6 @@ nix                 2017-06-29
 Vitor Gonçalves     2022-07-23
 Cap'n               2022-08-15
 Pilgore             2022-08-15
-Trigon              2017-09-24
 ziproot             2022-09-07
 orb                 2022-10-05
 Shy Owl             2022-10-07

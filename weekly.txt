@@ -2,15 +2,20 @@
                          The Agoran Directory
 ------------------------------------------------------------------------
 
-Date of last report: 2022-10-24
-Date of this report: 2022-10-31
-
-Archive of reports on the web: https://agoranomic.org/Registrar/
+Date of last report: 2022-10-31
+Date of this report: 2022-11-07
 
 Events since last report
 ========================
-* Three inactive players have been deregistered (Trigon, duck, and
-  CreateSource). Note: omd cannot be deregistered, as e is the Webmastor.
+* Aspen registered.
+* snail intends to deregister the following players for inactivity:
+  - Cap'n
+  - cuddlybanana
+  - Gaelan
+  - Pilgore
+  - R. Lee
+  - Vitor
+  - orb.
 
 Players, activity, and registration dates
 =========================================
@@ -27,29 +32,33 @@ Active Players
 Player               Registered  Made Active
 ------               ----------  -----------
 ais523               2021-06-08   <--
-Cap'n                2022-08-15   <--
-cuddlybanana         2021-03-16   <--
 G.                   2017-08-25   2021-02-03
-Gaelan               2017-05-15   2021-02-03
 Jason                2019-06-02   2021-02-03
 juan                 2022-03-14   <--
 Murphy               2017-12-17   2021-02-03
-R. Lee               2021-10-22   <--
 snail                2022-01-29   <--
-Vitor Gonçalves      2022-07-23   <--
 ziproot              2022-09-07   <--
-Pilgore              2022-08-15   <--
-orb                  2022-10-05   <--
 Shy Owl              2022-10-07   <--
 nix                  2022-10-09   <--
 the Astrally Forged  2022-10-14   <--
 Aced7                2022-10-19   <--
+Aspen                2022-11-04   <--
+
 
 ================
 Inactive Players
 ================
 
-None.
+Player               Registered
+------               ----------
+Cap'n                2022-08-15
+cuddlybanana         2021-03-16
+Gaelan               2017-05-15
+Pilgore              2022-08-15
+R. Lee               2021-10-22
+Vitor Gonçalves      2022-07-23
+orb                  2022-10-05
+
 
 ========================
 Underegisterable Players
@@ -85,6 +94,7 @@ Shy Owl              iamashyown@proton.me
 nix                  agora@nullarch.com
 the Astrally Forged  irc://libera.chat/AstrallyForged,isnick
 Aced7                cadenomic@gmail.com
+Aspen                thoughtsoflifeandlight17 at gmail.com
 
 Fora
 ====
@@ -127,7 +137,6 @@ snail               2022-01-29
 G.                  2001-02-04
 juan                2022-03-14
 cuddlybanana        2021-03-16
-dahuman             2022-04-01
 ais523              2008-04-28
 omd                 2007-05-01
 Gaelan              2015-05-27
@@ -142,6 +151,7 @@ orb                 2022-10-05
 Shy Owl             2022-10-07
 the Astrally Forged 2022-10-14
 Aced7               2022-10-19
+Aspen               2016-09-13
 
 Watchers
 ========

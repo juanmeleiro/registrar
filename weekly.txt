@@ -1,173 +1,118 @@
-------------------------------------------------------------------------
-                         The Agoran Directory
-------------------------------------------------------------------------
-
-Date of last report: 2022-10-31
-Date of this report: 2022-11-07
-
-Events since last report
-========================
-* Aspen registered.
-* snail intends to deregister the following players for inactivity:
-  - Cap'n
-  - cuddlybanana
-  - Gaelan
-  - Pilgore
-  - R. Lee
-  - Vitor
-  - orb.
-
-Players, activity, and registration dates
-=========================================
-
-The following information from this section is self-ratifying:
-- The value of each instance of the Citizenship switch (implied by the
-  list of players).
-- The value of each instance of the Activity switch.
-
-==============
-Active Players
-==============
-
-Player               Registered  Made Active
-------               ----------  -----------
-ais523               2021-06-08   <--
-G.                   2017-08-25   2021-02-03
-Jason                2019-06-02   2021-02-03
-juan                 2022-03-14   <--
-Murphy               2017-12-17   2021-02-03
-snail                2022-01-29   <--
-ziproot              2022-09-07   <--
-Shy Owl              2022-10-07   <--
-nix                  2022-10-09   <--
-the Astrally Forged  2022-10-14   <--
-Aced7                2022-10-19   <--
-Aspen                2022-11-04   <--
+===============================================================================
+Registrar: juan              The Agoran Directory                    2022-11-14
+===============================================================================
 
 
-================
-Inactive Players
-================
+-------------------------------------------------------------------------------
+NEWS & CO
 
-Player               Registered
-------               ----------
-Cap'n                2022-08-15
-cuddlybanana         2021-03-16
-Gaelan               2017-05-15
-Pilgore              2022-08-15
-R. Lee               2021-10-22
-Vitor Gonçalves      2022-07-23
-orb                  2022-10-05
+* [2022-11-07] ziproot was deregistered in a Writ of FAGE.
+
+* [2022-11-13] snail announces the intent to deactivate Shy Owl.
+
+* Formatting has changed. It has been hard to keep everything in sync,
+  so I am putting related information together. Also, I'm simpifying
+  things, and not keeping anything not required by the rules which is
+  easy to look-up.
+
+* Of special note is the removal of birthdays. Historical records are
+  sketchy, and the rules are explicit in encouraging players to announce
+  eir own birthdays. Announcing them here encourages em NOT to do it,
+  and I will not willingly contradict the rules.
+
+* I am removing the list of Watchers. If it is to be brought back, let
+  it be by proposal. Otherwise, it will be mantained even if watchers
+  have ceased to watch the game for a long time.
+
+* In the last report, I indicated snail intended to deregister players. In
+  reality, e intended to deactivate em. This is reflected here, and will
+  self-ratify.
 
 
-========================
-Underegisterable Players
-========================
+-------------------------------------------------------------------------------
+PLAYERS
 
-Nickname             Registered  Made Inactive Reason
---------             ----------  ------------- ------
-omd                  2011-02-03     2022-03-23 Webmastor
+a Player               Registered  Last change Contact
+- ------               ----------  ----------- -------
++ Aced7                2022-10-19       "      cadenomic at gmail.com
++ ais523               2021-06-08       "      callforjudgement at yahoo.co.uk
++ Aspen                2022-11-04       "      thoughtsoflifeandlight17 at gmail.com
++ G.                   2017-08-25  2021-02-03  kerim at uw.edu
++ Gaelan               2017-05-15  2021-02-03  gbs at canishe.com
++ Jason                2019-06-02  2021-02-03  jason.e.cobb at gmail.com
++ juan                 2022-03-14       "      juan at juanmeleiro.mat.br
++ Murphy               2017-12-17  2021-02-03  murphy.agora at gmail.com
++ nix                  2022-10-09       "      agora at nullarch.com
++ Shy Owl              2022-10-07       "      iamashyown at proton.me
++ snail                2022-01-29       "      secretsnail9 at gmail.com
++ the Astrally Forged  2022-10-14       "      irc://libera.chat/AstrallyForged,isnick
+- Cap'n                2022-08-15  2022-07-13  acadia_but_real at protonmail.com
+- cuddlybanana         2021-03-16  2022-07-13  rose.strong42 at gmail.com
+- omd                  2011-02-03  2022-03-23  comexk at gmail.com
+- orb                  2022-10-05  2022-07-13  hereuplay at gmail.com
+- Pilgore              2022-08-15  2022-07-13  drpilgore at gmail.com
+- R. Lee               2021-10-22  2022-07-13  sarahestrange0 at gmail.com
+- Vitor Gonçalves      2022-07-23  2022-07-13  vitorg at tilde.team
+
+Convetions:
+* Player: Latest player name.
+* Registered: Date of latest registration.
+* Last change: date of latest change in Activity.
+* Contact: URI for eir prefered contact method
+
+Legend for symbols:
+a Activity
++ Active
+- Inactive
+" Same value as cell to the left
 
 
-Contact information
-===================
-(Required by rule 2139)
-
-Player               Contact
-------               -------
-ais523               callforjudgement at yahoo.co.uk
-Cap'n                acadia_but_real at protonmail.com
-cuddlybanana         rose.strong42 at gmail.com
-G.                   kerim at uw.edu
-Gaelan               gbs at canishe.com
-Jason                jason.e.cobb at gmail.com
-juan                 juan at juanmeleiro.mat.br
-Murphy               murphy.agora at gmail.com
-omd                  comexk at gmail.com
-Pilgore              drpilgore@gmail.com
-R. Lee               sarahestrange0 at gmail.com
-snail                secretsnail9 at gmail.com
-Vitor Gonçalves      vitorg at tilde.team
-ziproot              agora.ziproot at erine.email
-orb                  hereuplay@gmail.com
-Shy Owl              iamashyown@proton.me
-nix                  agora@nullarch.com
-the Astrally Forged  irc://libera.chat/AstrallyForged,isnick
-Aced7                cadenomic@gmail.com
-Aspen                thoughtsoflifeandlight17 at gmail.com
-
-Fora
-====
-The publicity switch values (Rule 478) are self-ratifying.
+-------------------------------------------------------------------------------
+FORA
 
 Publicity    Location or description                 Typical use
 ---------    -----------------------                 -----------
 Public       agora-official at agoranomic.org        official reports
-Public       agora-business at agoranomic.org        other business
-Discussion   agora-discussion at agoranomic.org      discussion
-Discussion   https://discord.gg/JCC6YGc              discussion
-Foreign      irc://irc.libera.chat:6667/##nomic      discussion
-Public       agora at listserver.tue.nl              backup
 Public       agoranomic at groups.io *               backup
+Public       agora-business at agoranomic.org        other business
+Public       agora at listserver.tue.nl              backup
+Foreign      irc://irc.libera.chat:6667/##nomic      discussion
+Discussion   https://discord.gg/JCC6YGc              discussion
+Discussion   agora-discussion at agoranomic.org      discussion
 
-*The forum is specifically just that email list.
+* The forum is specifically just that email list.
 
-Subscribe or unsubscribe from main
-lists:http://www.agoranomic.org/cgi-bin/mailman/listinfo
+Subscribe or unsubscribe from main lists:
 
-Subscribe or unsubscribe from tue.nl backup
-list:http://listserver.tue.nl/mailman/listinfo/agora
+    http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+Subscribe or unsubscribe from tue.nl backup list:
+
+    http://listserver.tue.nl/mailman/listinfo/agora
 
 The IRC channel does not require subscription; set your IRC client to
 server irc.libera.chat, port 6667, channel ##nomic.
 
 You can subscribe to GIO by messaging the following email
-main+subscribe at agoranomic.groups.io
 
-Birthdays
-=========
+    main+subscribe at agoranomic.groups.io
 
-Registrar's estimates of Players' first dates of registration, sorted by
-month and day.
 
-This section is not self-ratifying and may be inaccurate.
+-------------------------------------------------------------------------------
+BANNED PEOPLE
 
-Murphy              ? ("< 1996-01-23" in Registrar's monthly report)
-snail               2022-01-29
-G.                  2001-02-04
-juan                2022-03-14
-cuddlybanana        2021-03-16
-ais523              2008-04-28
-omd                 2007-05-01
-Gaelan              2015-05-27
-Jason               2019-06-02
-R. Lee              2017-06-07
-nix                 2017-06-29
-Vitor Gonçalves     2022-07-23
-Cap'n               2022-08-15
-Pilgore             2022-08-15
-ziproot             2022-09-07
-orb                 2022-10-05
-Shy Owl             2022-10-07
-the Astrally Forged 2022-10-14
-Aced7               2022-10-19
-Aspen               2016-09-13
+-------------------
+Player  Date of ban
+------  -----------
+Madrid  2022-09-11
+-------------------
 
-Watchers
-========
 
-There are 4 watchers.
+-------------------------------------------------------------------------------
+EDITORIAL
 
-The list of Watchers is not governed by the rules, but is
-traditionally maintained in the Registrar's Report.  If you'd like to
-be listed as a Watcher or removed from the list, feel free to email
-the fora or the Registrar directly.
+For any corrections,
+For any suggestions or complaints of form,
+Please contact the Registrar.
 
-Nickname          Contact                                 Last confirmed
---------          -------                                 --------------
-Dave              davidnicol at gmail.com                 2021-01
-Ørjan             oerjan at nvg.ntnu.no                   2021-06
-Steve             zardoz37 at gmail.com                   2021-06
-ATMunn            iamingodsarmy at gmail.com              2022-03
-
-------------------------------------------------------------------------
+===============================================================================

@@ -1,33 +1,8 @@
 ===============================================================================
-Registrar: juan              The Agoran Directory                    2022-11-14
+Registrar: juan              The Agoran Directory                    2022-11-21
 ===============================================================================
 
-
--------------------------------------------------------------------------------
-NEWS & CO
-
-* [2022-11-07] ziproot was deregistered in a Writ of FAGE.
-
-* [2022-11-13] snail announces the intent to deactivate Shy Owl.
-
-* Formatting has changed. It has been hard to keep everything in sync,
-  so I am putting related information together. Also, I'm simpifying
-  things, and not keeping anything not required by the rules which is
-  easy to look-up.
-
-* Of special note is the removal of birthdays. Historical records are
-  sketchy, and the rules are explicit in encouraging players to announce
-  eir own birthdays. Announcing them here encourages em NOT to do it,
-  and I will not willingly contradict the rules.
-
-* I am removing the list of Watchers. If it is to be brought back, let
-  it be by proposal. Otherwise, it will be mantained even if watchers
-  have ceased to watch the game for a long time.
-
-* In the last report, I indicated snail intended to deregister players. In
-  reality, e intended to deactivate em. This is reflected here, and will
-  self-ratify.
-
+No changes this time.
 
 -------------------------------------------------------------------------------
 PLAYERS

@@ -77,7 +77,7 @@ You can subscribe to GIO by messaging the following email
 BANNED PEOPLE
 
 -------------------
-Player  Date of ban
+Person  Date of ban
 ------  -----------
 Madrid  2022-09-11
 -------------------

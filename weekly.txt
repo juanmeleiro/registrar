@@ -1,8 +1,12 @@
 ===============================================================================
-Registrar: juan              The Agoran Directory                    2022-12-05
+Registrar: juan              The Agoran Directory                    2022-12-12
 ===============================================================================
 
-No news today.
+-------------------------------------------------------------------------------
+NEWS
+
+* [2022-12-10] the Astrally Forged made emself inactive by annoucenment.
+
 
 -------------------------------------------------------------------------------
 PLAYERS
@@ -21,7 +25,7 @@ a Player               Registered  Last change Contact
 + nix                  2022-10-09       "      agora at nullarch.com
 + Shy Owl              2022-10-07       "      iamashyown at proton.me
 + snail                2022-01-29       "      secretsnail9 at gmail.com
-+ the Astrally Forged  2022-10-14       "      irc://libera.chat/AstrallyForged,isnick
+- the Astrally Forged  2022-10-14  2022-12-10  irc://libera.chat/AstrallyForged,isnick
 - Cap'n                2022-08-15  2022-11-13  acadia_but_real at protonmail.com
 - cuddlybanana         2021-03-16  2022-11-13  rose.strong42 at gmail.com
 - omd                  2011-02-03  2022-03-23  comexk at gmail.com
@@ -82,12 +86,6 @@ Person  Date of ban
 ------  -----------
 Madrid  2022-09-11
 -------------------
-
--------------------------------------------------------------------------------
-ERRATA
-
-My last report listed banned people under the column header of
-“Players”. It has now been corrected. Thanks Janet for the CoE.
 
 
 -------------------------------------------------------------------------------

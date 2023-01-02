@@ -1,26 +1,28 @@
-Below is the Registrar's Monthly Report.
+===============================================================================
+Registrar: juan              Arrivals and Departures                 2023-01-02
+===============================================================================
 
-------------------------------------------------------------------------
-Arrivals and Departures
-------------------------------------------------------------------------
-Date of last report: 2022-10-03
-Date of this report: 2022-11-01
+-------------------------------------------------------------------------------
+NEWS
 
-Archive of reports on the web*: https://agoranomic.org/Registrar/
-*not up to date
+* [2022-11-04] Aspen registers.
+* [2022-11-06] snail intends to deactivate Cap'n
+* [2022-11-06] snail intends to deactivate cuddlybanana
+* [2022-11-06] snail intends to deactivate Gaelan
+* [2022-11-06] snail intends to deactivate Pilgore
+* [2022-11-06] snail intends to deactivate R. Lee
+* [2022-11-06] snail intends to deactivate Vitor
+* [2022-11-06] snail intends to deactivate orb.
+* [2022-11-07] ziproot deregistered in a Writ of FAGE.
+* [2022-11-27] Marb <marb@shabu.town> registered.
+* [2022-11-27] Jason changed eir name to Janet
+* [2022-11-27] Janet changed eir email to <agora@randomcat.org>
+* [2022-12-10] the Astrally Forged made emself inactive by announcement
 
-New in this report
-==================
-* [2022-10-05] orb registered
-* [2022-10-07] Shy Owl registered.
-* [2022-10-09] nix registered.
-* [2022-10-09] snail had eir name changed from secretsnail.
-* [2022-10-14] the Astrally Forged registered.
-* [2022-10-19] Aced7 registered.
-* [2022-10-24] Three inactive players were deregistered (Trigon, duck,
-               and CreateSource)
 
-Writs of FAGE (Rule 1789)
+-------------------------------------------------------------------------------
+WRITS OF FAGE
+
 Player            Date
 ------            ----
 Kelly             1995-09-17  
@@ -39,6 +41,9 @@ nix               2022-08-29
 [1] P3 to P100 inclusive each deregistered in writs of FAGE on this
     date.
 
+-------------------------------------------------------------------------------
+HISTORY
+
 Registration history of persons who have registered and deregistered
 at least once (imperfect, corrections welcomed)
 
@@ -48,7 +53,9 @@ at least once (imperfect, corrections welcomed)
 (p)roposal        d(e)stroyed
 (r)atification    (u)known
 e(x)iled          (s)till registered
-(b)anned   Name                       From      Until Notes
+(b)anned
+
+   Name                       From      Until Notes
 u  Alexx                <= 1994-04-05
 u  Andy Latto           <= 1994-04-05
 u  Douglas Jahnke       <= 1994-04-05
@@ -655,3 +662,12 @@ w  ziproot              2022-09-07 2022-11-07
 [46]: Previously emurphy42 at zoho.com
 [47]: Previously known as Jason. Previous email <jason.e.cobb at gmail.com>
 [48]: Also @moonbolt@mst3k.interlinked.me on Fediverse and mailto://theastrallyforged@disroot.org
+
+-------------------------------------------------------------------------------
+EDITORIAL
+
+For any corrections,
+For any suggestions or complaints of form,
+Please contact the Registrar.
+
+===============================================================================

@@ -1,11 +1,17 @@
 ===============================================================================
-Registrar: juan              The Agoran Directory                    2023-01-09
+Registrar: juan              The Agoran Directory                    2023-01-16
 ===============================================================================
 
 -------------------------------------------------------------------------------
 NEWS
 
-No news.
+* The following players have been inactive for more than 60 days:
+  - Cap'n
+  - cuddlybanana
+  - orb
+  - Pilgore
+  - R. Lee
+  - Vitor Gonçalves
 
 
 -------------------------------------------------------------------------------

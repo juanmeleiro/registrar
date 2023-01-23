@@ -5,9 +5,8 @@ Registrar: juan              The Agoran Directory                    2023-01-16
 -------------------------------------------------------------------------------
 NEWS
 
-* The following players have been inactive for more than 60 days:
+* The following players have been deregistered for inactivity:
   - Cap'n
-  - cuddlybanana
   - orb
   - Pilgore
   - R. Lee
@@ -31,14 +30,9 @@ a Player               Registered  Last change Contact
 + nix                  2022-10-09       "      agora at nullarch.com
 + Shy Owl              2022-10-07       "      iamashyown at proton.me
 + snail                2022-01-29       "      secretsnail9 at gmail.com
++ cuddlybanana         2021-03-16  2023-01-16  rose.strong42 at gmail.com
 - the Astrally Forged  2022-10-14  2022-12-10  irc://libera.chat/AstrallyForged,isnick
-- Cap'n                2022-08-15  2022-11-13  acadia_but_real at protonmail.com
-- cuddlybanana         2021-03-16  2022-11-13  rose.strong42 at gmail.com
 - omd                  2011-02-03  2022-03-23  comexk at gmail.com
-- orb                  2022-10-05  2022-11-13  hereuplay at gmail.com
-- Pilgore              2022-08-15  2022-11-13  drpilgore at gmail.com
-- R. Lee               2021-10-22  2022-11-13  sarahestrange0 at gmail.com
-- Vitor Gonçalves      2022-07-23  2022-11-13  vitorg at tilde.team
 
 Convetions:
 * Player: Latest player name.

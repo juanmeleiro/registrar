@@ -1,23 +1,18 @@
 ===============================================================================
-Registrar: juan              The Agoran Directory                    2023-01-16
+Registrar: juan              The Agoran Directory                    2023-01-30
 ===============================================================================
 
 -------------------------------------------------------------------------------
 NEWS
 
-* The following players have been deregistered for inactivity:
-  - Cap'n
-  - orb
-  - Pilgore
-  - R. Lee
-  - Vitor Gonçalves
-
+- 4st is back!
 
 -------------------------------------------------------------------------------
 PLAYERS
 
 a Player               Registered  Last change Contact
 - ------               ----------  ----------- -------
++ 4st                  2023-01-27       "      notorious4st at gmail.com
 + Aced7                2022-10-19       "      cadenomic at gmail.com
 + ais523               2021-06-08       "      callforjudgement at yahoo.co.uk
 + Aspen                2022-11-04       "      thoughtsoflifeandlight17 at gmail.com

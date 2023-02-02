@@ -5,20 +5,10 @@ Registrar: juan              Arrivals and Departures                 2023-01-02
 -------------------------------------------------------------------------------
 NEWS
 
-* [2022-11-04] Aspen registers.
-* [2022-11-06] snail intends to deactivate Cap'n
-* [2022-11-06] snail intends to deactivate cuddlybanana
-* [2022-11-06] snail intends to deactivate Gaelan
-* [2022-11-06] snail intends to deactivate Pilgore
-* [2022-11-06] snail intends to deactivate R. Lee
-* [2022-11-06] snail intends to deactivate Vitor
-* [2022-11-06] snail intends to deactivate orb.
-* [2022-11-07] ziproot deregistered in a Writ of FAGE.
-* [2022-11-27] Marb <marb@shabu.town> registered.
-* [2022-11-27] Jason changed eir name to Janet
-* [2022-11-27] Janet changed eir email to <agora@randomcat.org>
-* [2022-12-10] the Astrally Forged made emself inactive by announcement
-
+* [2023-01-20] Cap'n, orb, Pilgore, R. Lee and Vitor Gonçalves were
+  deregistered due to inactivity.
+* [2023-01-27] 4st registered.
+* [2023-01-31] R. Lee registered.
 
 -------------------------------------------------------------------------------
 WRITS OF FAGE
@@ -593,18 +583,18 @@ s  Janet                2019-06-02            [47]
 s  nix                  2019-10-18
 s  cuddlybanana         2021-03-16
 s  ais523               2021-06-08
-s  R. Lee               2021-10-22
+a  R. Lee               2021-10-22 2023-01-20
 s  secretsnail          2022-01-29
 s  juan                 2022-03-14
 s  dahuman              2022-04-01
 a  CreateSource         2022-05-14 2022-10-31
 s  4st                  2022-06-25
-s  Vitor Gonçalves      2022-07-23
-s  Cap'n                2022-08-15
-s  Pilgore              2022-08-15
+a  Vitor Gonçalves      2022-07-23 2023-01-20
+a  Cap'n                2022-08-15 2023-01-20
+a  Pilgore              2022-08-15 2023-01-20
 w  nix                  2022-08-29 2019-10-18
 b  Madrid               2022-09-11 2017-08-25
-s  orb                  2022-10-05
+a  orb                  2022-10-05 2023-01-20
 s  Shy Owl              2022-10-07
 s  nix                  2022-10-09
 s  the Astrally Forged  2022-10-14            [48]
@@ -613,6 +603,9 @@ a  duck                 2022-03-12 2022-10-31
 s  Aspen                2022-11-07
 s  Marb                 2022-11-27
 w  ziproot              2022-09-07 2022-11-07
+s  4st                  2023-01-27
+s  R. Lee               2023-01-31
+
 [0]: aka Henry
 [1]: aka Henry
 [2]: (Writ of FAGE published 2020-12-1806, resolved by Prop 4882)
@@ -662,6 +655,7 @@ w  ziproot              2022-09-07 2022-11-07
 [46]: Previously emurphy42 at zoho.com
 [47]: Previously known as Jason. Previous email <jason.e.cobb at gmail.com>
 [48]: Also @moonbolt@mst3k.interlinked.me on Fediverse and mailto://theastrallyforged@disroot.org
+
 
 -------------------------------------------------------------------------------
 EDITORIAL

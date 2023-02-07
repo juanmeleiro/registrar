@@ -1,11 +1,11 @@
 ===============================================================================
-Registrar: juan              The Agoran Directory                    2023-01-30
+Registrar: juan              The Agoran Directory                    2023-02-06
 ===============================================================================
 
 -------------------------------------------------------------------------------
 NEWS
 
-- 4st is back!
+- tb148 is now a player!
 
 -------------------------------------------------------------------------------
 PLAYERS
@@ -26,6 +26,7 @@ a Player               Registered  Last change Contact
 + Shy Owl              2022-10-07       "      iamashyown at proton.me
 + snail                2022-01-29       "      secretsnail9 at gmail.com
 + cuddlybanana         2021-03-16  2023-01-16  rose.strong42 at gmail.com
++ tb148                2023-02-06       "      tb148 at proton.me
 - the Astrally Forged  2022-10-14  2022-12-10  irc://libera.chat/AstrallyForged,isnick
 - omd                  2011-02-03  2022-03-23  comexk at gmail.com
 

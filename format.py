@@ -54,10 +54,10 @@ with open("history.tsv", "r") as f:
 
 notes = []
 formatted = []
-entryformat = "{rune: <2} {name: <20} {registration: >10} {deregistration: >10} {notes}"
+entryformat = "{rune: <2} {name: <20} {registration: >10} {deregistration: >10} {contact} {notes}"
 formatter = NotesFormatter()
 
-print(entryformat.format(rune="", name="Name", registration="From", deregistration="Until", notes="Notes"))
+print(entryformat.format(rune="", name="Name", registration="From", deregistration="Until", contact="Contact", notes="Notes"))
 for h in history:
     print(formatter.vformat(entryformat, [], h).strip())
 for i, n in enumerate(formatter.notes):

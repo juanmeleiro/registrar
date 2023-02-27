@@ -1,14 +1,20 @@
 ===============================================================================
-Registrar: juan              The Agoran Directory                    2023-02-20
+Registrar: juan              The Agoran Directory                    2023-02-27
 ===============================================================================
 
 -------------------------------------------------------------------------------
 NEWS
 
-No news.
+* The Agoran Directory now includes a player count, plus a list of
+  which information is included in it and why.
+
+  Note: please submit any corrections to the INTERNAL section, and any
+  suggestions for better names.
 
 -------------------------------------------------------------------------------
 PLAYERS
+
+Active players: 16/18
 
 a Player               Registered  Last change Contact
 - ------               ----------  ----------- -------
@@ -84,6 +90,18 @@ Person  Date of ban
 Madrid  2022-09-11
 -------------------
 
+-------------------------------------------------------------------------------
+INTERNAL
+
+Regarding what information is included in the report and why.
+
+- List of players (R2139)
+- List of players' contact information (R2139)
+- Date of latest registration (R2139)
+- Fora (R2139)
+- Date of latest activation (convenience for deregistrations as per R2646)
+- Number of players (petition by nix on 2023-02-23)
+- Banned people (R2679)
 
 -------------------------------------------------------------------------------
 EDITORIAL

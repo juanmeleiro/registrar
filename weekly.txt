@@ -1,15 +1,12 @@
 ===============================================================================
-Registrar: juan              The Agoran Directory                    2023-02-27
+Registrar: juan              The Agoran Directory                    2023-03-06
 ===============================================================================
 
 -------------------------------------------------------------------------------
 NEWS
 
-* The Agoran Directory now includes a player count, plus a list of
-  which information is included in it and why.
-
-  Note: please submit any corrections to the INTERNAL section, and any
-  suggestions for better names.
+* The Astrally Forged not listed anymore. All current players that could
+  be deregistered are active now! Wow!
 
 -------------------------------------------------------------------------------
 PLAYERS
@@ -34,7 +31,6 @@ a Player               Registered  Last change Contact
 + cuddlybanana         2021-03-16  2023-01-16  rose.strong42 at gmail dot com
 + tb148                2023-02-06       "      tb148 at proton dot me
 + R. Lee               2023-01-31       "      sarahestrange0 at gmail dot com
-- the Astrally Forged  2022-10-14  2022-12-10  irc://libera dot chat/AstrallyForged,isnick
 - omd                  2011-02-03  2022-03-23  comexk at gmail dot com
 
 Convetions:

@@ -1,17 +1,16 @@
 ===============================================================================
-Registrar: juan              The Agoran Directory                    2023-03-06
+Registrar: juan              The Agoran Directory                    2023-03-13
 ===============================================================================
 
 -------------------------------------------------------------------------------
 NEWS
 
-* The Astrally Forged not listed anymore. All current players that could
-  be deregistered are active now! Wow!
+No news.
 
 -------------------------------------------------------------------------------
 PLAYERS
 
-Active players: 16/18
+Active players: 16/17
 
 a Player               Registered  Last change Contact
 - ------               ----------  ----------- -------

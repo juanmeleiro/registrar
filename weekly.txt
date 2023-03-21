@@ -1,11 +1,12 @@
 ===============================================================================
-Registrar: juan              The Agoran Directory                    2023-03-13
+Registrar: juan              The Agoran Directory                    2023-03-21
 ===============================================================================
 
 -------------------------------------------------------------------------------
 NEWS
 
-No news.
+* New arrivals! Yachay Wayllukuq (a.k.a. Yachay) has become a player on
+  the 16th.
 
 -------------------------------------------------------------------------------
 PLAYERS
@@ -30,6 +31,7 @@ a Player               Registered  Last change Contact
 + cuddlybanana         2021-03-16  2023-01-16  rose.strong42 at gmail dot com
 + tb148                2023-02-06       "      tb148 at proton dot me
 + R. Lee               2023-01-31       "      sarahestrange0 at gmail dot com
++ Yachay Wayllukuq     2023-03-16       "      yachaywayllukuq at gmail.com
 - omd                  2011-02-03  2022-03-23  comexk at gmail dot com
 
 Convetions:

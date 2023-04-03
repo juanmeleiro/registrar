@@ -40,7 +40,7 @@ columns = [
 ]
 history = []
 
-with open("history.tsv", "r") as f:
+with open("monthly/history.tsv", "r") as f:
     csv = csv.reader(f, delimiter="\t")
     next(csv)
     for line in csv:

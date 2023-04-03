@@ -6,8 +6,8 @@ begin
 echo 'Date: '(date -R)
 echo 'From: juan <juan@juanmeleiro.mat.br>'
 echo 'To: <agora-official@agoranomic.org>'
-echo 'Subject: [Registrar] Weekly report'
-m4 weekly/weekly.m4
+echo 'Subject: [Registrar] Monthly report: Arrivals and Departures'
+m4 monthly.m4
 end > $tmp
 neomutt -E -H $tmp
 rm $tmp

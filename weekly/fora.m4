@@ -1,12 +1,13 @@
-Publicity    Location or description                 Typical use
----------    -----------------------                 -----------
-Public       agora-official at agoranomic.org        official reports
-Public       agoranomic at groups.io *               backup
-Public       agora-business at agoranomic.org        other business
-Public       agora at listserver.tue.nl              backup
-Foreign      irc://irc.libera.chat:6667/##nomic      discussion
-Discussion   https://discord.gg/JCC6YGc              discussion
-Discussion   agora-discussion at agoranomic.org      discussion
+Publicity    Location or description                    Typical use
+---------    -----------------------                    -----------
+Public       agora-official at agoranomic.org           official reports
+Public       agoranomic at groups.io *                  backup
+Public       agora-business at agoranomic.org           other business
+Foreign      agora at listserver.tue.nl                 backup
+Foreign      irc://irc.libera.chat:6667/##nomic         discussion
+Foreign      matrix:r/#agoranomiccommunity:mozilla.org  discussion
+Discussion   https://discord.gg/JCC6YGc                 discussion
+Discussion   agora-discussion at agoranomic.org         discussion
 
 * The forum is specifically just that email list.
 
@@ -24,3 +25,11 @@ server irc.libera.chat, port 6667, channel ##nomic.
 You can subscribe to GIO by messaging the following email
 
     main+subscribe at agoranomic.groups.io
+
+There is also a Matrix foreign forum:
+
+    https://matrix.to/#/#agoranomiccommunity:mozilla.org
+    matrix:r/#agoranomiccommunity:mozilla.org?via=mozilla.org&via=matrix.org&via=gharbeia.net
+    matrix:roomid/gRbsbOgIxyniozlrXO:mozilla.org?via=mozilla.org&via=matrix.org&via=gharbeia.net
+
+(Hopefully one of the links should work)

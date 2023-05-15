@@ -1,13 +1,13 @@
 Publicity    Location or description                    Typical use
 ---------    -----------------------                    -----------
 Public       agora-official at agoranomic.org           official reports
-Public       agoranomic at groups.io *                  backup
 Public       agora-business at agoranomic.org           other business
+Discussion   agora-discussion at agoranomic.org         discussion
+Discussion   https://discord.gg/JCC6YGc                 discussion
+Foreign      agoranomic at groups.io *                  backup
 Foreign      agora at listserver.tue.nl                 backup
 Foreign      irc://irc.libera.chat:6667/##nomic         discussion
 Foreign      matrix:r/#agoranomiccommunity:mozilla.org  discussion
-Discussion   https://discord.gg/JCC6YGc                 discussion
-Discussion   agora-discussion at agoranomic.org         discussion
 
 * The forum is specifically just that email list.
 

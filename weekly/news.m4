@@ -1,1 +1,1 @@
-No news.
+We have three new players! Welcome inalienableWright, blob and beokirby!

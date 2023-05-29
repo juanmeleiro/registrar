@@ -3,9 +3,10 @@ Active players: esyscmd(awk 'BEGIN {flag=0}; /^$/ {flag=0}; /^+/ && flag; /^-[- 
 a Player               Registered  Last change Contact
 - ------               ----------  ----------- -------
 + 4st                  2023-01-27       "      notorious4st at gmail dot com
++ Anneke-Constantine   2023-05-23       "      agora.quarentine at gmail dot com
 + Aspen                2022-11-04       "      thoughtsoflifeandlight17 at gmail dot com
 + G.                   2017-08-25  2021-02-03  kerim at uw dot edu
-+ Janet                2019-06-02  2021-02-03  agora at randomcat dot org
++ Janet                2019-06-02  2021-02-03  janet.agora at unspecified dot systems
 + Murphy               2017-12-17  2021-02-03  murphy.agora at gmail dot com
 + Yachay Wayllukuq     2023-03-16       "      yachaywayllukuq at gmail.com
 + ais523               2021-06-08       "      callforjudgement at yahoo.co dot uk
@@ -23,6 +24,12 @@ a Player               Registered  Last change Contact
 - Shy Owl              2022-10-07  2023-04-03  iamashyown at proton dot me
 - omd                  2011-02-03  2022-03-23  comexk at gmail dot com
 - tb148                2023-02-06  2023-04-03  tb148 at proton dot me
+
+WARNING: Player name “blob” refers to the currently registered one,
+who became a player on 2023-05-18, and not blob the player from many
+years ago. They are different people, to the best of my judgment. This
+warning will remain necessary pending decision on how to handle clashing
+player names. Do not complain; comply.
 
 Convetions:
 * Player: Latest player name.

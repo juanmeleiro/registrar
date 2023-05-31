@@ -8,7 +8,7 @@ a Player               Registered  Last change Contact
 + G.                   2017-08-25  2021-02-03  kerim at uw dot edu
 + Janet                2019-06-02  2021-02-03  janet.agora at unspecified dot systems
 + Murphy               2017-12-17  2021-02-03  murphy.agora at gmail dot com
-+ Yachay Wayllukuq     2023-03-16       "      yachaywayllukuq at gmail.com
+- Yachay Wayllukuq     2023-03-16  2023-05-31  yachaywayllukuq at gmail.com
 + ais523               2021-06-08       "      callforjudgement at yahoo.co dot uk
 + beokirby             2023-05-18       "      beokirbyagora at gmail dot com
 + blob                 2023-05-18       "      cearguinzoni1 at gmail dot com

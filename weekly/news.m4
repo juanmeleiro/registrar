@@ -1,6 +1,4 @@
-* We have a new player! Welcome, Anneke-Constantine.
+* This is a correction to the previous report, where blob's email was
+  listed incorrectly.
 
-* Janet has changed eir email. Mind it when contacting em.
-
-* There's still controversy around player blob, regarding eir name clash
-  with old-time player also named blob.
+* As a bonus, I'm already including Yachay's deactivation.

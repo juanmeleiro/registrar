@@ -11,7 +11,7 @@ a Player               Registered  Last change Contact
 + Yachay Wayllukuq     2023-03-16       "      yachaywayllukuq at gmail.com
 + ais523               2021-06-08       "      callforjudgement at yahoo.co dot uk
 + beokirby             2023-05-18       "      beokirbyagora at gmail dot com
-+ blob                 2023-05-18       "      cearguizoni1 at gmail dot com
++ blob                 2023-05-18       "      cearguinzoni1 at gmail dot com
 + cuddlybanana         2021-03-16  2023-01-16  rose.strong42 at gmail dot com
 + inalienableWright    2023-05-16       "      inalienablewright at mailfence dot com
 + juan                 2022-03-14       "      juan at juanmeleiro.mat dot br

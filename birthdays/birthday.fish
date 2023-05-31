@@ -36,8 +36,9 @@ set MONTH (env LANG=en date +"%B" -d "$year-$month-$day")
 set DATEORD (ord $day)
 set COUNT (math "$year - $birthyear")
 set COUNTORD (ord "$COUNT")
+set DAY (string trim -l -c '0' $day)
 
-set DATE "$day$DATEORD of $MONTH of $year"
+set DATE "The $DAY$DATEORD of $MONTH of $year"
 set DATELEN (string length "$DATE")
 set DATEPAD (repeat (math "floor(($WIDTH - $DATELEN)/2)") " ")
 echo $DATEPAD

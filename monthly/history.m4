@@ -9,4 +9,4 @@ at least once (imperfect, corrections welcomed)
 e(x)iled          (s)till registered
 (b)anned
 
-esyscmd(`python3 monthly/format.py')
+esyscmd(`lua monthly/format.lua')

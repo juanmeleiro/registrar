@@ -1,5 +1,5 @@
 json = require "json"
-fn = "players.json"
+fn = "monthly/players.json"
 
 f = io.open(fn, "r")
 j = f:read("*all")
@@ -37,6 +37,9 @@ for n,h in pairs(players) do
 			f = "  ({reason}) {name} <{contact}> ({registration}--{deregistration})\n"
 		end
 		io.write(format(f, e))
+		if e.observations then
+			io.write(format("      {observations}\n", e))
+		end
 		-- io.write(string.format("  (%s) %s <%s> (%s--%s)\n",
 		--                        e.reason,
 		--                        e.name,

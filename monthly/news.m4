@@ -1,11 +1,10 @@
-* We've had a bunch of players become inactive:
-  - Aced7
-  - Gaelan
-  - Marb
-  - Shy Own
-  - tb148
-  - R. Lee
+We have new players! Welcome
 
-  Thanks snail for your service.
+* inalienableWright
+* blob (not that one)
+* beokirby
+* Anneke-Constantine
 
-* We've had a Cantus Cygneus hit-and-run by misterious jimmy
+Note that Janet has changed eir email, so be aware when contacting em.
+
+Also, Yachay has deactivated emself. Wish em a good vacation.

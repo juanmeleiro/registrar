@@ -1,5 +1,5 @@
 json = require "json"
-fn = "monthly/players.json"
+fn = "players.json"
 
 f = io.open(fn, "r")
 j = f:read("*all")

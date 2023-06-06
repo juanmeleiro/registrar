@@ -41,10 +41,18 @@ set DAY (string trim -l -c '0' $day)
 set DATE "The $DAY$DATEORD of $MONTH of $year"
 set DATELEN (string length "$DATE")
 set DATEPAD (repeat (math "floor(($WIDTH - $DATELEN)/2)") " ")
-echo $DATEPAD
 
+set tmp (mktemp)
+begin
+echo 'Date: '(date -R)
+echo 'From: juan <juan@juanmeleiro.mat.br>'
+echo 'To: <agora-official@agoranomic.org>'
+echo 'Subject: [Registrar] Birthday Announcement'
 m4 --define=DATE="$DATEPAD$DATE" \
    --define=PLAYER="$name" \
    --define=COUNT="$COUNT$COUNTORD" \
    template
+end > $tmp
+neomutt -E -H $tmp
+rm $tmp
 

@@ -21,9 +21,9 @@
     {
       "contact": "notorious4st at gmail.com",
       "name": "4st",
-      "reason": "s",
+      "reason": "r",
       "registration": "2022-06-25",
-      "active": true
+      "deregistration": "2022-10-11"
     },
     {
       "contact": "notorious4st at gmail.com",
@@ -3946,9 +3946,9 @@
     {
       "contact": "hdrussell at outlook.com",
       "name": "dahuman",
-      "reason": "s",
-      "active": true,
-      "registration": "2022-04-01"
+      "reason": "a",
+      "registration": "2022-04-01",
+      "deregistration": "2022-08-24"
     }
   ],
   "davidcjackman": [
@@ -4313,9 +4313,9 @@
     {
       "contact": "nixagora at protonmail.com",
       "name": "nix",
-      "reason": "s",
-      "active": true,
-      "registration": "2019-10-18"
+      "reason": "w",
+      "registration": "2019-10-18",
+      "deregistration": "2022-08-29"
     },
     {
       "contact": "nixagora at protonmail.com",

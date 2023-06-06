@@ -22,13 +22,15 @@
       "contact": "notorious4st at gmail.com",
       "name": "4st",
       "reason": "s",
-      "registration": "2022-06-25"
+      "registration": "2022-06-25",
+      "active": true
     },
     {
       "contact": "notorious4st at gmail.com",
       "name": "4st",
       "reason": "s",
-      "registration": "2023-01-27"
+      "registration": "2023-01-27",
+      "active": true
     }
   ],
   "AFO": [
@@ -61,7 +63,9 @@
       "contact": "cadenomic at gmail.com",
       "name": "Aced7",
       "reason": "s",
-      "registration": "2022-10-19"
+      "registration": "2022-10-19",
+      "latest": "2023-04-03",
+      "active": false
     }
   ],
   "Aenet": [
@@ -192,7 +196,8 @@
       "contact": "agora.quarentine at gmail.com",
       "name": "Anneke-Constantine",
       "reason": "s",
-      "registration": "2023-05-23"
+      "registration": "2023-05-23",
+      "active": true
     }
   ],
   "Anthony": [
@@ -244,6 +249,7 @@
       "contact": "thoughtsoflifeandlight17 at gmail.com",
       "name": "Aspen",
       "reason": "s",
+      "active": true,
       "registration": "2022-11-07"
     }
   ],
@@ -1077,7 +1083,9 @@
       "contact": "kerim at uw.edu",
       "name": "G.",
       "reason": "s",
-      "registration": "2017-08-25"
+      "active": true,
+      "registration": "2017-08-25",
+      "latest": "2021-02-03"
     }
   ],
   "Gaelan": [
@@ -1087,7 +1095,9 @@
       "name": "Gaelan",
       "observations": "Previously known as Gaelan Steele",
       "reason": "s",
-      "registration": "2017-05-15"
+      "registration": "2017-05-15",
+      "latest": "2023-04-03",
+      "active": false
     },
     {
       "contact": "gbs at canishe.com",
@@ -1503,7 +1513,9 @@
       "name": "Janet",
       "observations": "Previously known as Jason. Previous email <jason.e.cobb at gmail.com>",
       "reason": "s",
-      "registration": "2019-06-02"
+      "active": true,
+      "registration": "2019-06-02",
+      "latest": "2021-02-03"
     }
   ],
   "Jason2": [
@@ -1907,7 +1919,9 @@
       "contact": "marb at shabu.town",
       "name": "Marb",
       "reason": "s",
-      "registration": "2022-11-27"
+      "registration": "2022-11-27",
+      "latest": "2023-04-03",
+      "active": false
     }
   ],
   "Marc Slager": [
@@ -2025,7 +2039,9 @@
       "name": "Murphy",
       "observations": "Previously emurphy42 at zoho.com",
       "reason": "s",
-      "registration": "2017-12-17"
+      "active": true,
+      "registration": "2017-12-17",
+      "latest": "2021-02-03"
     }
   ],
   "Nameless": [
@@ -2546,7 +2562,9 @@
       "contact": "sarahestrange0 at gmail.com",
       "name": "R. Lee",
       "reason": "s",
-      "registration": "2023-01-31"
+      "registration": "2023-01-31",
+      "latest": "2023-04-03",
+      "active": false
     },
     {
       "contact": "vijarada at gmail.com",
@@ -2849,7 +2867,9 @@
       "contact": "iamashyowl at proton.me",
       "name": "Shy Owl",
       "reason": "s",
-      "registration": "2022-10-07"
+      "registration": "2022-10-07",
+      "latest": "2023-04-03",
+      "active": false
     }
   ],
   "Siege": [
@@ -3014,7 +3034,9 @@
       "name": "TB148",
       "observations": "Initially known as Anthony Brown",
       "reason": "s",
-      "registration": "2023-02-06"
+      "registration": "2023-02-06",
+      "latest": "2023-04-03",
+      "active": false
     }
   ],
   "Taral": [
@@ -3638,7 +3660,9 @@
       "name": "Yachay Wayllukuq",
       "observations": "a.k.a. Yachay",
       "reason": "s",
-      "registration": "2023-03-16"
+      "registration": "2023-03-16",
+      "latest": "2023-05-31",
+      "active": false
     }
   ],
   "Yally": [
@@ -3764,6 +3788,7 @@
       "contact": "callforjudgement at yahoo.co.uk",
       "name": "ais523",
       "reason": "s",
+      "active": true,
       "registration": "2021-06-08"
     }
   ],
@@ -3865,6 +3890,7 @@
       "contact": "beokirbyagora at gmail.com",
       "name": "beokirby",
       "reason": "s",
+      "active": true,
       "registration": "2023-05-18"
     }
   ],
@@ -3875,6 +3901,7 @@
       "name": "blob",
       "observations": "Not the same blob as that other one",
       "reason": "s",
+      "active": true,
       "registration": "2023-05-18"
     }
   ],
@@ -3910,7 +3937,9 @@
       "contact": "rose.strong42 at gmail.com",
       "name": "cuddlybanana",
       "reason": "s",
-      "registration": "2021-03-16"
+      "active": true,
+      "registration": "2021-03-16",
+      "latest": "2023-01-16"
     }
   ],
   "dahuman": [
@@ -3918,6 +3947,7 @@
       "contact": "hdrussell at outlook.com",
       "name": "dahuman",
       "reason": "s",
+      "active": true,
       "registration": "2022-04-01"
     }
   ],
@@ -4125,6 +4155,7 @@
       "contact": "inalienablewright at mailfence.com",
       "name": "innalienableWright",
       "reason": "s",
+      "active": true,
       "registration": "2023-05-16"
     }
   ],
@@ -4160,6 +4191,7 @@
       "contact": "juan at juanmeleiro.mat.br",
       "name": "juan",
       "reason": "s",
+      "active": true,
       "registration": "2022-03-14"
     }
   ],
@@ -4282,6 +4314,7 @@
       "contact": "nixagora at protonmail.com",
       "name": "nix",
       "reason": "s",
+      "active": true,
       "registration": "2019-10-18"
     },
     {
@@ -4295,6 +4328,7 @@
       "contact": "agora at nullarch.com",
       "name": "nix",
       "reason": "s",
+      "active": true,
       "registration": "2022-10-09"
     }
   ],
@@ -4334,11 +4368,13 @@
     },
     {
       "contact": "comexk at gmail.com",
-      "deregistration": "",
       "name": "omd",
       "observations": "officially, but technically equivalent c.ome.xk at gmail.com",
       "reason": "s",
-      "registration": "2011-02-03"
+      "registration": "2011-02-03",
+      "latest": "2022-03-23",
+      "protected": true,
+      "active": false
     }
   ],
   "orb": [
@@ -4527,6 +4563,7 @@
       "name": "snail",
       "observations": "Previously known as secretsnail",
       "reason": "s",
+      "active": true,
       "registration": "2022-01-29"
     }
   ],

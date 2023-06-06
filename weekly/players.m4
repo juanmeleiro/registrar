@@ -1,29 +1,6 @@
-Active players: esyscmd(awk 'BEGIN {flag=0}; /^$/ {flag=0}; /^+/ && flag; /^-[- ]+$/ {flag=1};' __file__ | wc -l | tr -d '\n')/esyscmd(awk 'BEGIN {flag=0}; /^$/ {flag=0}; flag; /^-[- ]+$/ {flag=1};' __file__ | wc -l | tr -d '\n')
+Active players: esyscmd(jq -r '[.[][] | select(.reason == "s")] | "\([.[] | select(.active == true)] | length)/\(length)"' players.json)dnl
 
-a Player               Registered  Last change Contact
-- ------               ----------  ----------- -------
-+ 4st                  2023-01-27       "      notorious4st at gmail dot com
-+ Anneke-Constantine   2023-05-23       "      agora.quarentine at gmail dot com
-+ Aspen                2022-11-04       "      thoughtsoflifeandlight17 at gmail dot com
-+ G.                   2017-08-25  2021-02-03  kerim at uw dot edu
-+ Janet                2019-06-02  2021-02-03  janet.agora at unspecified dot systems
-+ Murphy               2017-12-17  2021-02-03  murphy.agora at gmail dot com
-- Yachay Wayllukuq     2023-03-16  2023-05-31  yachaywayllukuq at gmail.com
-+ ais523               2021-06-08       "      callforjudgement at yahoo.co dot uk
-+ beokirby             2023-05-18       "      beokirbyagora at gmail dot com
-+ blob                 2023-05-18       "      cearguinzoni1 at gmail dot com
-+ cuddlybanana         2021-03-16  2023-01-16  rose.strong42 at gmail dot com
-+ inalienableWright    2023-05-16       "      inalienablewright at mailfence dot com
-+ juan                 2022-03-14       "      juan at juanmeleiro.mat dot br
-+ nix                  2022-10-09       "      agora at nullarch dot com
-+ snail                2022-01-29       "      secretsnail9 at gmail dot com
-- Aced7                2022-10-19  2023-04-03  cadenomic at gmail dot com
-- Gaelan               2017-05-15  2023-04-03  gbs at canishe dot com
-- Marb                 2022-11-27  2023-04-03  marb at shabu dot town
-- R. Lee               2023-01-31  2023-04-03  sarahestrange0 at gmail dot com
-- Shy Owl              2022-10-07  2023-04-03  iamashyown at proton dot me
-- omd                  2011-02-03  2022-03-23  comexk at gmail dot com
-- tb148                2023-02-06  2023-04-03  tb148 at proton dot me
+esyscmd(jq -r '[.[][] | select(.reason == "s")] | sort_by(.active | not)[] | "\(if .active then "+" else "-" end)=\(.name)=\(.registration)=\(.latest // "    \"     ")=\(.contact)"' players.json | columnate -s = -n a Player Registration Latest Contact)dnl
 
 WARNING: Player name “blob” refers to the currently registered one,
 who became a player on 2023-05-18, and not blob the player from many
@@ -34,7 +11,7 @@ player names. Do not complain; comply.
 Convetions:
 * Player: Latest player name.
 * Registered: Date of latest registration.
-* Last change: Date of latest change in Activity.
+* Latest: Date of latest change in Activity.
 * Contact: URI for eir prefered contact method
 
 Legend for symbols:

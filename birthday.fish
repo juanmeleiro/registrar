@@ -15,7 +15,7 @@ function ord -a num
 	end
 end
 
-fzf < list |
+fzf < birthdays/list |
 read date name
 
 echo $date | read -d '-' birthyear month day

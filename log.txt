@@ -45,3 +45,4 @@
 [2023-05-22] Janet Cobb changed eir email to <janet.agora@unspecified.systems>
 [2023-05-23] Anneke-Constantine <agora.quarentine@gmail.com> registers.
 [2023-05-31] Yachay Wayllukuq deactivates emself.
+[2023-06-07] Fixed entries for dahuman, 4st, Anti-Cleisthenes and nix

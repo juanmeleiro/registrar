@@ -62,10 +62,9 @@
     {
       "contact": "cadenomic at gmail.com",
       "name": "Aced7",
-      "reason": "s",
+      "reason": "a",
       "registration": "2022-10-19",
-      "latest": "2023-04-03",
-      "active": false
+      "deregistration": "2023-06-12"
     }
   ],
   "Aenet": [
@@ -1918,10 +1917,9 @@
     {
       "contact": "marb at shabu.town",
       "name": "Marb",
-      "reason": "s",
+      "reason": "a",
       "registration": "2022-11-27",
-      "latest": "2023-04-03",
-      "active": false
+      "deregistration": "2023-06-12"
     }
   ],
   "Marc Slager": [
@@ -2561,10 +2559,9 @@
     {
       "contact": "sarahestrange0 at gmail.com",
       "name": "R. Lee",
-      "reason": "s",
+      "reason": "a",
       "registration": "2023-01-31",
-      "latest": "2023-04-03",
-      "active": false
+      "deregistration": "2023-06-12"
     },
     {
       "contact": "vijarada at gmail.com",
@@ -2866,10 +2863,9 @@
     {
       "contact": "iamashyowl at proton.me",
       "name": "Shy Owl",
-      "reason": "s",
+      "reason": "a",
       "registration": "2022-10-07",
-      "latest": "2023-04-03",
-      "active": false
+      "deregistration": "2023-06-12"
     }
   ],
   "Siege": [
@@ -3033,10 +3029,9 @@
       "deregistration": "",
       "name": "TB148",
       "observations": "Initially known as Anthony Brown",
-      "reason": "s",
+      "reason": "a",
       "registration": "2023-02-06",
-      "latest": "2023-04-03",
-      "active": false
+      "deregistration": "2023-06-12"
     }
   ],
   "Taral": [

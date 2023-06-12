@@ -1,0 +1,39 @@
+From juan at juanmeleiro.mat.br  Tue Feb  7 12:07:23 2023
+From: juan at juanmeleiro.mat.br (juan)
+Date: Tue, 7 Feb 2023 09:07:23 -0300
+Subject: OFF: [Registrar] Weekly report (errata)
+In-Reply-To: <20230207115940.uwo6whwxuiwjanan@grimnir.localdomain>
+References: <20230207005243.b4hczipg73wjflcw@grimnir.localdomain>
+ <05a372a0-77d9-ec47-4b8c-e91d7751921e@nullarch.com>
+ <20230207115940.uwo6whwxuiwjanan@grimnir.localdomain>
+Message-ID: <20230207120723.auota4af2eqny7hf@grimnir.localdomain>
+
+Let it be known.
+
+juan via agora-business [2023-02-07 08:59]:
+> nix via agora-business [2023-02-07 01:31]:
+> > On 2/6/23 18:52, juan via agora-official wrote:
+> > > ===============================================================================
+> > > Registrar: juan              The Agoran Directory                    2023-02-06
+> > > ===============================================================================
+> > CoE: This is missing R. Lee, who registered here:
+> > https://www.mail-archive.com/agora-business at agoranomic.org/msg43807.html
+> 
+> Accepted. Correction incoming.
+
+diff --git a/weekly.txt b/weekly.txt
+index 5504a6b..5c9664d 100644
+--- a/weekly.txt
++++ b/weekly.txt
+@@ -27,6 +27,7 @@ a Player               Registered  Last change Contact
+ + snail                2022-01-29       "      secretsnail9 at gmail.com
+ + cuddlybanana         2021-03-16  2023-01-16  rose.strong42 at gmail.com
+ + tb148                2023-02-06       "      tb148 at proton.me
+++ R. Lee               2023-01-31       "      sarahestrange0 at gmail dot com
+ - the Astrally Forged  2022-10-14  2022-12-10  irc://libera.chat/AstrallyForged,isnick
+ - omd                  2011-02-03  2022-03-23  comexk at gmail.com
+      
+-- 
+juan
+Registrar
+

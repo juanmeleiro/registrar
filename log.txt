@@ -48,3 +48,4 @@
 [2023-06-01] Published monthly report.
 [2023-06-05] Published weekly report.
 [2023-06-07] Fixed entries for dahuman, 4st, Anti-Cleisthenes and nix
+[2023-06-12] Published weekly report.

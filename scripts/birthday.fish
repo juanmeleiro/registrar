@@ -51,7 +51,7 @@ echo 'Subject: [Registrar] Birthday Announcement'
 m4 --define=DATE="$DATEPAD$DATE" \
    --define=PLAYER="$name" \
    --define=COUNT="$COUNT$COUNTORD" \
-   template
+   birthdays/template
 end > $tmp
 neomutt -E -H $tmp
 rm $tmp

@@ -10,4 +10,4 @@ echo 'Subject: [Registrar] Monthly report: Arrivals and Departures'
 m4 monthly/monthly.m4
 end > $tmp
 neomutt -E -H $tmp
-rm $tmp
+mv $tmp archive/(date --iso-8601=date)-monthly.txt

@@ -1090,13 +1090,12 @@
   "Gaelan": [
     {
       "contact": "gbs at canishe.com",
-      "deregistration": "",
       "name": "Gaelan",
       "observations": "Previously known as Gaelan Steele",
       "reason": "s",
       "registration": "2017-05-15",
-      "latest": "2023-04-03",
-      "active": false
+      "latest": "2023-06-06",
+      "active": true
     },
     {
       "contact": "gbs at canishe.com",

@@ -1,4 +1,10 @@
-* This is a correction to the previous report, where blob's email was
-  listed incorrectly.
+Some players were deregistered due to inactivity. They were:
 
-* As a bonus, I'm already including Yachay's deactivation.
+* Aced7
+* Marb
+* R. Lee
+* Shy Owl
+* tb148
+
+See you around.
+

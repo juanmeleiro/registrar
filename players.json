@@ -4321,9 +4321,9 @@
     {
       "contact": "agora at nullarch.com",
       "name": "nix",
-      "reason": "s",
-      "active": true,
-      "registration": "2022-10-09"
+      "reason": "d",
+      "registration": "2022-10-09",
+      "deregistration": "2023-06-13"
     }
   ],
   "o": [

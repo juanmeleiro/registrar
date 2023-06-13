@@ -1,0 +1,118 @@
+===============================================================================
+Registrar: juan              The Agoran Directory                    2023-04-03
+===============================================================================
+
+-------------------------------------------------------------------------------
+NEWS
+
+* snail deactivated (with notice) the following players:
+  - Aced7
+  - Gaelan
+  - Marb
+  - Shy Owl
+  - tb148
+  - R. Lee
+
+  For all of the above, remember that you CAN activate yourself by
+  simply announcing it (R2646).
+
+-------------------------------------------------------------------------------
+PLAYERS
+
+Active players: 11/18
+
+a Player               Registered  Last change Contact
+- ------               ----------  ----------- -------
++ 4st                  2023-01-27       "      notorious4st at gmail dot com
++ Aspen                2022-11-04       "      thoughtsoflifeandlight17 at gmail dot com
++ G.                   2017-08-25  2021-02-03  kerim at uw dot edu
++ Janet                2019-06-02  2021-02-03  agora at randomcat dot org
++ Murphy               2017-12-17  2021-02-03  murphy.agora at gmail dot com
++ Yachay Wayllukuq     2023-03-16       "      yachaywayllukuq at gmail.com
++ ais523               2021-06-08       "      callforjudgement at yahoo.co dot uk
++ cuddlybanana         2021-03-16  2023-01-16  rose.strong42 at gmail dot com
++ juan                 2022-03-14       "      juan at juanmeleiro.mat dot br
++ nix                  2022-10-09       "      agora at nullarch dot com
++ snail                2022-01-29       "      secretsnail9 at gmail dot com
+- Aced7                2022-10-19  2023-04-03  cadenomic at gmail dot com
+- Gaelan               2017-05-15  2023-04-03  gbs at canishe dot com
+- Marb                 2022-11-27  2023-04-03  marb at shabu dot town
+- R. Lee               2023-01-31  2023-04-03  sarahestrange0 at gmail dot com
+- Shy Owl              2022-10-07  2023-04-03  iamashyown at proton dot me
+- omd                  2011-02-03  2022-03-23  comexk at gmail dot com
+- tb148                2023-02-06  2023-04-03  tb148 at proton dot me
+
+Convetions:
+* Player: Latest player name.
+* Registered: Date of latest registration.
+* Last change: Date of latest change in Activity.
+* Contact: URI for eir prefered contact method
+
+Legend for symbols:
+a Activity
++ Active
+- Inactive
+" Same value as cell to the left
+
+
+-------------------------------------------------------------------------------
+FORA
+
+Publicity    Location or description                 Typical use
+---------    -----------------------                 -----------
+Public       agora-official at agoranomic.org        official reports
+Public       agoranomic at groups.io *               backup
+Public       agora-business at agoranomic.org        other business
+Public       agora at listserver.tue.nl              backup
+Foreign      irc://irc.libera.chat:6667/##nomic      discussion
+Discussion   https://discord.gg/JCC6YGc              discussion
+Discussion   agora-discussion at agoranomic.org      discussion
+
+* The forum is specifically just that email list.
+
+Subscribe or unsubscribe from main lists:
+
+    http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+Subscribe or unsubscribe from tue.nl backup list:
+
+    http://listserver.tue.nl/mailman/listinfo/agora
+
+The IRC channel does not require subscription; set your IRC client to
+server irc.libera.chat, port 6667, channel ##nomic.
+
+You can subscribe to GIO by messaging the following email
+
+    main+subscribe at agoranomic.groups.io
+
+-------------------------------------------------------------------------------
+BANNED PEOPLE
+
+-------------------
+Person  Date of ban
+------  -----------
+Madrid  2022-09-11
+-------------------
+
+-------------------------------------------------------------------------------
+INTERNAL
+
+Regarding what information is included in the report and why.
+
+- List of players (R2139)
+- List of players' contact information (R2139)
+- Date of latest registration (R2139)
+- Fora (R2139)
+- Date of latest activation (convenience for deregistrations as per R2646)
+- Number of players (petition by nix on 2023-02-23)
+- Banned people (R2679)
+
+-------------------------------------------------------------------------------
+EDITORIAL
+
+For any corrections,
+For any suggestions or complaints of form,
+Please contact the Registrar.
+
+
+===============================================================================

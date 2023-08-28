@@ -96,6 +96,76 @@
   ],
   "Alexis": [
     {
+      "contact": "scshunt at csclub.uwaterloo.ca",
+      "deregistration": "2011-01-26",
+      "name": "scshunt",
+      "reason": "v",
+      "registration": "2009-03-07"
+    },
+    {
+      "contact": "scshunt at csclub.uwaterloo.ca",
+      "deregistration": "2013-01-12",
+      "name": "scshunt",
+      "reason": "v",
+      "registration": "2011-03-03"
+    },
+    {
+      "contact": "scshunt at csclub.uwaterloo.ca",
+      "deregistration": "2013-04-30",
+      "name": "scshunt",
+      "reason": "r",
+      "registration": "2013-04-01"
+    },
+    {
+      "contact": "scshunt at csclub.uwaterloo.ca",
+      "deregistration": "2013-05-06",
+      "name": "scshunt",
+      "reason": "r",
+      "registration": "2013-04-30"
+    },
+    {
+      "contact": "scshunt at csclub.uwaterloo.ca",
+      "deregistration": "2013-05-12",
+      "name": "scshunt",
+      "reason": "r",
+      "registration": "2013-05-09"
+    },
+    {
+      "contact": "scshunt at csclub.uwaterloo.ca",
+      "deregistration": "20 2013-05",
+      "name": "scshunt",
+      "reason": "r",
+      "registration": "2013-05-13"
+    },
+    {
+      "contact": "scshunt at csclub.uwaterloo.ca",
+      "deregistration": "28 2013-05",
+      "name": "scshunt",
+      "reason": "r",
+      "registration": "2013-05-26"
+    },
+    {
+      "contact": "scshunt at csclub.uwaterloo.ca",
+      "deregistration": "2014-08-22",
+      "name": "scshunt",
+      "reason": "v",
+      "registration": "2014-01-02"
+    },
+    {
+      "contact": "scshunt at csclub.uwaterloo.ca",
+      "deregistration": "2015-04-06",
+      "name": "scshunt",
+      "reason": "v",
+      "registration": "2014-10-15"
+    },
+    {
+      "contact": "scshunt at csclub.uwaterloo.ca",
+      "deregistration": "2015-08-10",
+      "name": "scshunt",
+      "reason": "d",
+      "registration": "2015-04-23"
+    },
+    {
       "contact": "alercah at gmail.com",
       "deregistration": "2017-01-08",
       "name": "Alexis",
@@ -1052,6 +1122,42 @@
   "G.": [
     {
       "contact": "kerim at u.washington.edu",
+      "deregistration": "2003-03-24",
+      "name": "Goethe",
+      "reason": "v",
+      "registration": "2001-02-04"
+    },
+    {
+      "contact": "kerim at u.washington.edu",
+      "deregistration": "2007-01-22",
+      "name": "Goethe",
+      "observations": "(Writ of FAGE published 2020-12-1806, resolved by Prop 4882)",
+      "reason": "v",
+      "registration": "2003-07-14"
+    },
+    {
+      "contact": "kerim at u.washington.edu",
+      "deregistration": "2007-05-14",
+      "name": "Goethe",
+      "reason": "v",
+      "registration": "2007-02-23"
+    },
+    {
+      "contact": "kerim at u.washington.edu",
+      "deregistration": "2008-05-16",
+      "name": "Goethe",
+      "reason": "v",
+      "registration": "2007-10-27"
+    },
+    {
+      "contact": "kerim at u.washington.edu",
+      "deregistration": "2009-04-01",
+      "name": "Goethe",
+      "reason": "v",
+      "registration": "2008-06-19"
+    },
+    {
+      "contact": "kerim at u.washington.edu",
       "deregistration": "2009-08-10",
       "name": "G.",
       "reason": "v",
@@ -1137,44 +1243,6 @@
       "name": "Goddess Eris",
       "reason": "v",
       "registration": "2000-04-03"
-    }
-  ],
-  "Goethe": [
-    {
-      "contact": "kerim at u.washington.edu",
-      "deregistration": "2003-03-24",
-      "name": "Goethe",
-      "reason": "v",
-      "registration": "2001-02-04"
-    },
-    {
-      "contact": "kerim at u.washington.edu",
-      "deregistration": "2007-01-22",
-      "name": "Goethe",
-      "observations": "(Writ of FAGE published 2020-12-1806, resolved by Prop 4882)",
-      "reason": "v",
-      "registration": "2003-07-14"
-    },
-    {
-      "contact": "kerim at u.washington.edu",
-      "deregistration": "2007-05-14",
-      "name": "Goethe",
-      "reason": "v",
-      "registration": "2007-02-23"
-    },
-    {
-      "contact": "kerim at u.washington.edu",
-      "deregistration": "2008-05-16",
-      "name": "Goethe",
-      "reason": "v",
-      "registration": "2007-10-27"
-    },
-    {
-      "contact": "kerim at u.washington.edu",
-      "deregistration": "2009-04-01",
-      "name": "Goethe",
-      "reason": "v",
-      "registration": "2008-06-19"
     }
   ],
   "Golem-1-50": [
@@ -2576,14 +2644,12 @@
       "name": "V.J. Rada",
       "reason": "v",
       "registration": "2017-09-05"
-    }
-  ],
-  "R. Lee (55 times)": [
+    },
     {
       "contact": "edwardostrange at gmail.com",
       "deregistration": "2020-06-30",
-      "name": "R. Lee (55 times)",
-      "observations": "(The previous two lines represent 56 total deregistrations of R. Lee. / Later changed to SarahEstrange0 at gmail.com.",
+      "name": "R. Lee",
+      "observations": "(55 deregistrations)",
       "reason": "x",
       "registration": "2020-06-30"
     }
@@ -3025,12 +3091,11 @@
   "TB148": [
     {
       "contact": "tb148 at proton.me",
-      "deregistration": "",
+      "deregistration": "2023-06-12",
       "name": "TB148",
       "observations": "Initially known as Anthony Brown",
       "reason": "a",
-      "registration": "2023-02-06",
-      "deregistration": "2023-06-12"
+      "registration": "2023-02-06"
     }
   ],
   "Taral": [
@@ -3654,8 +3719,8 @@
       "observations": "a.k.a. Yachay",
       "reason": "s",
       "registration": "2023-03-16",
-      "latest": "2023-06-29",
-      "active": false
+      "latest": "2023-08-18",
+      "active": true
     }
   ],
   "Yally": [
@@ -4477,78 +4542,6 @@
       "registration": "2012-05-18"
     }
   ],
-  "scshunt": [
-    {
-      "contact": "scshunt at csclub.uwaterloo.ca",
-      "deregistration": "2011-01-26",
-      "name": "scshunt",
-      "reason": "v",
-      "registration": "2009-03-07"
-    },
-    {
-      "contact": "scshunt at csclub.uwaterloo.ca",
-      "deregistration": "2013-01-12",
-      "name": "scshunt",
-      "reason": "v",
-      "registration": "2011-03-03"
-    },
-    {
-      "contact": "scshunt at csclub.uwaterloo.ca",
-      "deregistration": "2013-04-30",
-      "name": "scshunt",
-      "reason": "r",
-      "registration": "2013-04-01"
-    },
-    {
-      "contact": "scshunt at csclub.uwaterloo.ca",
-      "deregistration": "2013-05-06",
-      "name": "scshunt",
-      "reason": "r",
-      "registration": "2013-04-30"
-    },
-    {
-      "contact": "scshunt at csclub.uwaterloo.ca",
-      "deregistration": "2013-05-12",
-      "name": "scshunt",
-      "reason": "r",
-      "registration": "2013-05-09"
-    },
-    {
-      "contact": "scshunt at csclub.uwaterloo.ca",
-      "deregistration": "20 2013-05",
-      "name": "scshunt",
-      "reason": "r",
-      "registration": "2013-05-13"
-    },
-    {
-      "contact": "scshunt at csclub.uwaterloo.ca",
-      "deregistration": "28 2013-05",
-      "name": "scshunt",
-      "reason": "r",
-      "registration": "2013-05-26"
-    },
-    {
-      "contact": "scshunt at csclub.uwaterloo.ca",
-      "deregistration": "2014-08-22",
-      "name": "scshunt",
-      "reason": "v",
-      "registration": "2014-01-02"
-    },
-    {
-      "contact": "scshunt at csclub.uwaterloo.ca",
-      "deregistration": "2015-04-06",
-      "name": "scshunt",
-      "reason": "v",
-      "registration": "2014-10-15"
-    },
-    {
-      "contact": "scshunt at csclub.uwaterloo.ca",
-      "deregistration": "2015-08-10",
-      "name": "scshunt",
-      "reason": "d",
-      "registration": "2015-04-23"
-    }
-  ],
   "snail": [
     {
       "contact": "secretsnail9 at gmail.com",
@@ -4676,13 +4669,20 @@
       "registration": "2021-11-12"
     }
   ],
-  "twg": [
+  "Kate": [
     {
       "contact": "me at timon.red",
       "deregistration": "2020-12-27",
       "name": "twg",
       "reason": "a",
       "registration": "2018-05-24"
+    },
+    {
+      "contact": "kate.agora at katherina.rocks",
+      "name": "Kate",
+      "registration": "2023-08-21",
+      "active": true,
+      "reason": "s"
     }
   ],
   "w1n5t0n": [
@@ -4761,13 +4761,22 @@
       "registration": "2016-11-06"
     }
   ],
-    "Anti-Cleisthenes": [
-	{
-	"contact": "agoranepitaph at gmail.com",
-	"registration": "2022-09-09",
-	"name": "Anti-Cleisthenes",
-	"reason": "r",
-	"deregistration": "2022-10-03"
+  "Anti-Cleisthenes": [
+    {
+      "contact": "agoranepitaph at gmail.com",
+      "registration": "2022-09-09",
+      "name": "Anti-Cleisthenes",
+      "reason": "r",
+      "deregistration": "2022-10-03"
     }
-    ]
+  ],
+  "kiako": [
+    {
+      "contact": "its.kiako@gmail.com",
+      "registration": "2023-08-05",
+      "name": "kiako",
+      "reason": "s",
+      "active": true
+    }
+  ]
 }

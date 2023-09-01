@@ -125,7 +125,7 @@ if args.command == "monthly" then
    end
    hist:close()
 
-   os.execute(string.format("m4 %s monthly/monthly.m4 > %s", m4flags(defs), fns.tmp))
+   os.execute(string.format("m4 %s templates/monthly/monthly.m4 > %s", m4flags(defs), fns.tmp))
 
    if args.p then
 	  os.execute(string.format("cat %s", fns.tmp))
@@ -152,7 +152,7 @@ elseif args.command == "weekly" then
 	  MAILDATE = os.date("%a, %d %b %Y %T %z"),
    }
 
-   os.execute(string.format("m4 %s weekly/weekly.m4 > %s", m4flags(defs), fns.tmp))
+   os.execute(string.format("m4 %s templates/weekly/weekly.m4 > %s", m4flags(defs), fns.tmp))
    if args.p then
 	  os.execute(string.format("cat %s", fns.tmp))
 	  os.remove(fns.tmp)

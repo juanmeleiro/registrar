@@ -4,8 +4,12 @@ define(shl, `-------------------------------------------------------------------
 define(module, shl`$1
 
 include($2)')dnl
+Date: MAILDATE
+`To: <agora-official@agoranomic.org>'
+`From: juan <juan@juanmeleiro.mat.br>'
+`Subject: [Registrar] Weekly report' 
 dhl
-`Registrar: juan              The Agoran Directory                    'esyscmd(date +%Y-%m-%d | tr -d '\n')
+`Registrar: juan              The Agoran Directory                    'YEAR-MONTH-DAY
 dhl
 
 module(NEWS, weekly/news.m4)

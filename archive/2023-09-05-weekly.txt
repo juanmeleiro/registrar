@@ -1,0 +1,133 @@
+Date: Tue, 5 Sep 2023 09:43:20 -0300
+From: juan <juan@juanmeleiro.mat.br>
+To: agora-official@agoranomic.org
+Subject: [Registrar] Weekly report
+Message-ID: <20230905124312.2bq3474phxlr5ynb@grimnir>
+
+===============================================================================
+Registrar: juan              The Agoran Directory                    2023-09-05
+===============================================================================
+
+-------------------------------------------------------------------------------
+NEWS
+
+No news.
+-------------------------------------------------------------------------------
+PLAYERS
+
+Active players: 17/18
+
+a Player             Registration Latest     Contact                               
+- ------------------ ------------ ---------- ------------------------------------- 
++ kiako              2023-08-05       "      its.kiako@gmail.com                   
++ juan               2022-03-14       "      juan at juanmeleiro.mat.br            
++ Murphy             2017-12-17   2021-02-03 murphy.agora at gmail.com             
++ blob               2023-05-18       "      cearguinzoni1 at gmail.com            
++ Anneke-Constantine 2023-05-23       "      agora.quarentine at gmail.com         
++ Kate               2023-08-21       "      kate.agora at katherina.rocks         
++ innalienableWright 2023-05-16       "      inalienablewright at mailfence.com    
++ Yachay Wayllukuq   2023-03-16   2023-08-18 yachaywayllukuq at gmail.com          
++ Aspen              2022-11-07       "      thoughtsoflifeandlight17 at gmail.com 
++ ais523             2021-06-08       "      callforjudgement at yahoo.co.uk       
++ G.                 2017-08-25   2021-02-03 kerim at uw.edu                       
++ Janet              2019-06-02   2021-02-03 janet.agora at unspecified.systems    
++ beokirby           2023-05-18       "      beokirbyagora at gmail.com            
++ snail              2022-01-29       "      secretsnail9 at gmail.com             
++ 4st                2023-01-27       "      notorious4st at gmail.com             
++ cuddlybanana       2021-03-16   2023-01-16 rose.strong42 at gmail.com            
++ Gaelan             2017-05-15   2023-06-06 gbs at canishe.com                    
+- omd                2011-02-03   2022-03-23 comexk at gmail.com                   
+
+WARNING: Player name “blob” refers to the currently registered one,
+who became a player on 2023-05-18, and not blob the player from many
+years ago. They are different people, to the best of my judgment. This
+warning will remain necessary pending decision on how to handle clashing
+player names. Do not complain; comply.
+
+Convetions:
+* Player: Latest player name.
+* Registered: Date of latest registration.
+* Latest: Date of latest change in Activity.
+* Contact: URI for eir prefered contact method
+
+Legend for symbols:
+a Activity
++ Active
+- Inactive
+" Same value as cell to the left
+
+
+-------------------------------------------------------------------------------
+FORA
+
+Publicity    Location or description                    Typical use
+---------    -----------------------                    -----------
+Public       agora-official at agoranomic.org           official reports
+Public       agora-business at agoranomic.org           other business
+Discussion   agora-discussion at agoranomic.org         discussion
+Discussion   https://discord.gg/JCC6YGc                 discussion
+Foreign      agoranomic at groups.io *                  backup
+Foreign      agora at listserver.tue.nl                 backup
+Foreign      irc://irc.libera.chat:6667/##nomic         discussion
+Foreign      matrix:r/#agoranomiccommunity:mozilla.org  discussion
+
+* The forum is specifically just that email list.
+
+Subscribe or unsubscribe from main lists:
+
+    http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+Subscribe or unsubscribe from tue.nl backup list:
+
+    http://listserver.tue.nl/mailman/listinfo/agora
+
+The IRC channel does not require subscription; set your IRC client to
+server irc.libera.chat, port 6667, channel ##nomic.
+
+You can subscribe to GIO by messaging the following email
+
+    main+subscribe at agoranomic.groups.io
+
+There is also a Matrix foreign forum:
+
+    https://matrix.to/#/#agoranomiccommunity:mozilla.org
+    matrix:r/#agoranomiccommunity:mozilla.org?via=mozilla.org&via=matrix.org&via=gharbeia.net
+    matrix:roomid/gRbsbOgIxyniozlrXO:mozilla.org?via=mozilla.org&via=matrix.org&via=gharbeia.net
+
+(Hopefully one of the links should work)
+
+-------------------------------------------------------------------------------
+BANNED PEOPLE
+
+-------------------
+Person  Date of ban
+------  -----------
+Madrid  2022-09-11
+-------------------
+
+-------------------------------------------------------------------------------
+INTERNAL
+
+Regarding what information is included in the report and why.
+
+- List of players (R2139)
+- List of players' contact information (R2139)
+- Date of latest registration (R2139)
+- Fora (R2139)
+- Date of latest activation (convenience for deregistrations as per R2646)
+- Number of players (petition by nix on 2023-02-23)
+- Banned people (R2679)
+
+-------------------------------------------------------------------------------
+EDITORIAL
+
+For any corrections,
+For any suggestions or complaints of form,
+Please contact the Registrar.
+
+
+===============================================================================
+
+-- 
+juan
+Registrar, Buttonmastor, Absurdor

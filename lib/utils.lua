@@ -9,13 +9,23 @@ function die(err, msg)
 end
 
 function yn(prompt)
-	meaning = {Y = true, y = true, n = false, N = false}
+	local meaning = {
+		Y = true,
+		y = true,
+		yes = true,
+		Yes = true,
+		n = false,
+		N = false,
+		No = false,
+		no = false
+	}
+	local ans
 	while meaning[ans] == nil do
 		io.write(prompt)
 		io.flush() -- For some reason, prompt doesn't show up without this
-		ans = io.read(1)
+		ans = io.read()
 	end
-	return ans
+	return meaning[ans]
 end
 
 function decodewith(decoder, fn)

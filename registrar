@@ -27,6 +27,7 @@ deregister_cmd:option("-m", "Message ID of deregistration (without 'message://' 
 
 local register_cmd = parser:command("register", "Register player")
 register_cmd:argument("name", "The name of the player")
+register_cmd:argument("contact", "URL (or plain email address) to contact player")
 register_cmd:argument("date", "Time stamp of registration (seconds after epoch)")
 register_cmd:option("-m", "Message ID of registration (without 'message://' prefix)")
 

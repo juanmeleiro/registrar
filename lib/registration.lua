@@ -67,10 +67,19 @@ function _M.register(args, players, log, ts)
 		contact = args.contact,
 		latest = os.date("%Y-%m-%d", args.date)
 	}
+	local ev = {
+		what = "register",
+		who = args.name,
+		when = args.date,
+		where = args.m,
+		whence = args.contact
+	}
 	if not args.p then
 		table.insert(players[args.name], reg)
+		table.insert(log, ev)
 	else
 		io.write(pprint.pprint(reg))
+		io.write(pprint.pprint(ev))
 	end
 end
 

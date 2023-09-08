@@ -25,7 +25,11 @@ deregister_cmd:argument("date", "Time stamp of deregistration (seconds after epo
    :convert(tonumber)
 deregister_cmd:option("-m", "Message ID of deregistration (without 'message://' prefix)")
 
-parser:command("register", "Register player")
+local register_cmd = parser:command("register", "Register player")
+register_cmd:argument("name", "The name of the player")
+register_cmd:argument("date", "Time stamp of registration (seconds after epoch)")
+register_cmd:option("-m", "Message ID of registration (without 'message://' prefix)")
+
 parser:command("activate", "Activate player")
 parser:command("deactivate", "Deactivate player")
 parser:command("rename", "Rename player")
@@ -43,8 +47,6 @@ local players = decodewith(json.decode, fns.players)
 local log = decodewith(json.decode, fns.log)
 
 -- Process
-
--- commands[args.command](fns, args, players, log)
 
 if args.command == "monthly" then
 	local hist = io.open(fns.history, "w")
@@ -125,26 +127,7 @@ elseif args.command == "birthday" then
 	io.write("Birthdays not implemented. Use registrar.fish\n")
 
 elseif args.command == "register" then
-	local exists = false
-	-- Check if player name exists
-	for p, h in pairs(players) do
-		for _,e in ipairs(h) do
-			if e.name == args.name then
-				exists = true
-				break
-			end
-		end
-	end
-	-- If not, register
-	players[args.name] = players[args.name] or {}
-	table.insert(players[args.name], {{
-			name = args.name,
-			registration = args.date,
-			active = true,
-			reason = "s",
-			contact = args.contact
-	}})
-
+	registration.register(args, players, log)
 elseif args.command == "deregister" then
    registration.deregister(args, players, log)
 else

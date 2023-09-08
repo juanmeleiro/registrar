@@ -39,7 +39,39 @@ function _M.deregister(args, players, log)
 end
 
 function _M.register(args, players, log, ts)
-	return
+	local exists = nil
+	-- Check if player name exists
+	for p, h in pairs(players) do
+		if table.query(h, function (x) return x.name == args.name end) then
+			if table.query(h, function (x) return x.reason == "s" end) then
+				die(string.format("Error: player '%s' exists and is registered.", p))
+			else
+				exists = p
+				break
+			end
+		end
+	end
+	if exists then
+		if yn(string.format("Player exists under name '%s'. Proceed? [yn] ", exists)) and not args.p then
+			players[args.name] = players[exists]
+			players[exists] = nil
+		end
+	else
+		players[args.name] = {}
+	end
+	local reg = {
+		name = args.name,
+		registration = os.date("%Y-%m-%d", args.date),
+		active = true,
+		reason = "s",
+		contact = args.contact,
+		latest = os.date("%Y-%m-%d", args.date)
+	}
+	if not args.p then
+		table.insert(players[args.name], reg)
+	else
+		io.write(pprint.pprint(reg))
+	end
 end
 
 return _M

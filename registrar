@@ -1,0 +1,158 @@
+#!/usr/bin/lua5.4
+local argparse = require "argparse"
+local json = require "json"
+local path = require "path"
+
+require "lib.utils"
+registration = require "lib.registration"
+report = require "lib.report"
+
+local parser = argparse("registrar", "Manage Agora's registrar duties")
+parser:flag("-p", "Pretend: only show what would be done")
+
+parser:command_target("command")
+
+parser:command("monthly", "Generate and send registrar monthly report")
+parser:command("weekly", "Generate and send registrar weekly report")
+
+local birthday_cmd = parser:command("birthday", "Announce a player's birthday")
+birthday_cmd:flag("-p", "Pretent: generate and print only.")
+birthday_cmd:argument("name", "The name of the player")
+
+local deregister_cmd = parser:command("deregister", "Deregister player")
+deregister_cmd:argument("name", "The name of the player")
+deregister_cmd:argument("date", "Time stamp of deregistration (seconds after epoch)")
+   :convert(tonumber)
+deregister_cmd:option("-m", "Message ID of deregistration (without 'message://' prefix)")
+
+parser:command("register", "Register player")
+parser:command("activate", "Activate player")
+parser:command("deactivate", "Deactivate player")
+parser:command("rename", "Rename player")
+parser:command("readdress", "Change player's address")
+
+-- Deserialize
+local fns = {
+	players = "players.json",
+	log = "log.json",
+	tmp = ".tmp",
+	history = ".hist"
+}
+local args = parser:parse()
+local players = decodewith(json.decode, fns.players)
+local log = decodewith(json.decode, fns.log)
+
+-- Process
+
+-- commands[args.command](fns, args, players, log)
+
+if args.command == "monthly" then
+	local hist = io.open(fns.history, "w")
+
+	defs = {
+		YEAR = os.date("%Y"),
+		MONTH = os.date("%m"),
+		DAY = os.date("%d"),
+		MAILDATE = os.date("%a, %d %b %Y %T %z"),
+		PLAYERS = string.format("include(%s)", fns.history)
+	}
+	for n,h in pairs(players) do
+		hist:write("===============\n"..n.."\n")
+		for _,e in ipairs(h) do
+			if e.reason == "s" then
+				f = "  ({reason}) {name} <{contact}> ({registration}--now)\n"
+			else
+				f = "  ({reason}) {name} <{contact}> ({registration}--{deregistration})\n"
+			end
+			hist:write(format(f, e))
+			if e.observations then
+				hist:write(format("      {observations}\n", e))
+			end
+		end
+		hist:write("\n")
+	end
+	hist:close()
+
+	os.execute(string.format("m4 %s templates/monthly/monthly.m4 > %s", m4flags(defs), fns.tmp))
+
+	if args.p then
+		os.execute(string.format("cat %s", fns.tmp))
+		os.remove(fns.tmp)
+	else
+		os.execute(string.format("vis %s", fns.tmp))
+		os.execute(string.format("neomutt -H %s -E", fns.tmp))
+		if yn("Archive report? [Yn] ") then
+			table.insert(log, {
+							 when = os.time(),
+							 what = "monthly"
+			})
+			os.rename(tmpname, os.date("archive/%F-monthly.txt"))
+		else
+			os.remove(fns.tmp)
+		end
+	end
+	os.remove(fns.history)
+
+elseif args.command == "weekly" then
+	defs = {
+		YEAR = os.date("%Y"),
+		MONTH = os.date("%m"),
+		DAY = os.date("%d"),
+		MAILDATE = os.date("%a, %d %b %Y %T %z"),
+	}
+
+	os.execute(string.format("m4 %s templates/weekly/weekly.m4 > %s", m4flags(defs), fns.tmp))
+	if args.p then
+		os.execute(string.format("cat %s", fns.tmp))
+		os.remove(fns.tmp)
+	else
+		os.execute(string.format("vis %s", fns.tmp))
+		os.execute(string.format("neomutt -H %s -E", fns.tmp))
+		if yn("Archive report? [Yn] ") then
+			table.insert(log, {
+							 when = os.time(),
+							 what = "weekly",
+							 height = height,
+			})
+			os.rename(tmpname, os.date("archive/%F-weekly.txt"))
+		else
+			os.remove(fns.tmp)
+		end
+	end
+	os.remove(fns.history)
+
+elseif args.command == "birthday" then
+	io.write("Birthdays not implemented. Use registrar.fish\n")
+
+elseif args.command == "register" then
+	local exists = false
+	-- Check if player name exists
+	for p, h in pairs(players) do
+		for _,e in ipairs(h) do
+			if e.name == args.name then
+				exists = true
+				break
+			end
+		end
+	end
+	-- If not, register
+	players[args.name] = players[args.name] or {}
+	table.insert(players[args.name], {{
+			name = args.name,
+			registration = args.date,
+			active = true,
+			reason = "s",
+			contact = args.contact
+	}})
+
+elseif args.command == "deregister" then
+   registration.deregister(args, players, log)
+else
+	io.write("Not implemented.")
+
+end
+
+-- Serialize
+encodewith(json.encode, fns.players, players)
+encodewith(json.encode, fns.log, log)
+encodewith(json.encode, fns.log, log)

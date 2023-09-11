@@ -89,7 +89,7 @@ if args.command == "monthly" then
 							 when = os.time(),
 							 what = "monthly"
 			})
-			os.rename(tmpname, os.date("archive/%F-monthly.txt"))
+			os.rename(fns.tmp, os.date("archive/%F-monthly.txt"))
 		else
 			os.remove(fns.tmp)
 		end

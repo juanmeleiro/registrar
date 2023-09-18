@@ -121,7 +121,7 @@ elseif args.command == "weekly" then
 							 what = "weekly",
 							 height = height,
 			})
-			os.rename(tmpname, os.date("archive/%F-weekly.txt"))
+			os.rename(fns.tmp, os.date("archive/%F-weekly.txt"))
 		else
 			os.remove(fns.tmp)
 		end

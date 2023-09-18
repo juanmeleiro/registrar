@@ -4,9 +4,10 @@ local json = require "json"
 local path = require "path"
 
 require "lib.utils"
-registration = require "lib.registration"
-report = require "lib.report"
-birthday = require "lib.birthday"
+local registration = require "lib.registration"
+local report = require "lib.report"
+local birthday = require "lib.birthday"
+local activity = require "lib.activity"
 
 local parser = argparse("registrar", "Manage Agora's registrar duties")
 parser:flag("-p", "Pretend: only show what would be done")
@@ -35,8 +36,18 @@ register_cmd:option("-m", "Message ID of registration (without 'message://' pref
 local birthday_cmd = parser:command("birthday", "Announce player's birthday")
 birthday_cmd:argument("name", "The name of the player")
 
--- parser:command("activate", "Activate player")
--- parser:command("deactivate", "Deactivate player")
+local activate_cmd = parser:command("activate", "Activate player")
+activate_cmd:argument("name", "The name of the player")
+activate_cmd:argument("when", "When they were activated (seconds after epoch)")
+	:convert(tonumber)
+activate_cmd:option("-m", "Message ID of activation (without 'message://' prefix)")
+
+local deactivate_cmd = parser:command("deactivate", "Deactivate player")
+deactivate_cmd:argument("name", "The name of the player")
+deactivate_cmd:argument("when", "When they were deactivated (seconds after epoch)")
+	:convert(tonumber)
+deactivate_cmd:option("-m", "Message ID of deactivation (without 'message://' prefix)")
+
 -- parser:command("rename", "Rename player")
 -- parser:command("readdress", "Change player's address")
 
@@ -134,9 +145,13 @@ elseif args.command == "deregister" then
 	registration.deregister(args, players, log)
 elseif args.command == "birthday" then
 	birthday(args, players, log)
+elseif args.command == "activate" then
+	activity.activate(args, players, log)
+elseif args.command == "deactivate" then
+	activity.deactivate(args, players, log)
+	pprint.pprint(players["juan"][1])
 else
 	io.write("Not implemented.")
-
 end
 
 -- Serialize

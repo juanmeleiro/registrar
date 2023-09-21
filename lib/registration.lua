@@ -83,4 +83,22 @@ function _M.register(args, players, log, ts)
 	end
 end
 
+function _M.rename(args, players, log)
+	die(not players[args.who], string.format("No player '%s'.", args.who))
+	local h = table.query(players[args.who], function (h) return h.reason == "s" end)
+	die(not h, "Player is not registered.")
+	h.name = args.whither
+	players[args.whither] = players[args.who]
+	players[args.who] = nil
+	table.insert(log, {what="rename", who=args.who, whither=args.whither, where=args.m, when=os.time()})
+end
+
+function _M.readdress(args, players, log)
+	die(not players[args.who], string.format("No player '%s'.", args.who))
+	local h = table.query(players[args.who], function (h) return h.reason == "s" end)
+	die(not h, "Player is not registered.")
+	h.contact = args.whither
+	table.insert(log, {what="readdress", who=args.who, whither=args.whither, where=args.m, when=os.time()})
+end
+
 return _M

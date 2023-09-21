@@ -48,8 +48,15 @@ deactivate_cmd:argument("when", "When they were deactivated (seconds after epoch
 	:convert(tonumber)
 deactivate_cmd:option("-m", "Message ID of deactivation (without 'message://' prefix)")
 
--- parser:command("rename", "Rename player")
--- parser:command("readdress", "Change player's address")
+local rename_cmd = parser:command("rename", "Rename player")
+rename_cmd:argument("who", "Current player name")
+rename_cmd:argument("whither", "New player name")
+rename_cmd:option("-m", "Message ID of renaming (without 'message://' prefix)")
+
+local readdress_cmd = parser:command("readdress", "Change player's address")
+readdress_cmd:argument("who", "Player to be readdressed")
+readdress_cmd:argument("whither", "New address")
+readdress_cmd:option("-m", "Message ID of readdressing (without 'message://' prefix)")
 
 -- Deserialize
 local fns = {
@@ -149,7 +156,10 @@ elseif args.command == "activate" then
 	activity.activate(args, players, log)
 elseif args.command == "deactivate" then
 	activity.deactivate(args, players, log)
-	pprint.pprint(players["juan"][1])
+elseif args.command == "rename" then
+   registration.rename(args, players, log)
+elseif args.command == "readdress" then
+   registration.readdress(args, players, log)
 else
 	io.write("Not implemented.")
 end

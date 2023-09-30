@@ -1,4 +1,6 @@
 #!/usr/bin/lua5.4
+-- -*- mode: lua; -*-
+
 local argparse = require "argparse"
 local json = require "json"
 local path = require "path"
@@ -168,3 +170,50 @@ end
 encodewith(json.encode, fns.players, players)
 encodewith(json.encode, fns.log, log)
 encodewith(json.encode, fns.log, log)
+
+-- Do git stuff
+
+local gitactions = {
+	monthly = {
+		files = {"archive/", "log.json"},
+		message = function (args) return "Publish monthly report" end
+	},
+	weekly = {
+		files = {"archive/", "log.json"},
+		message = function (args) return "Publish weekly report" end
+	},
+	register = {
+		files = {"players.json", "log.json"},
+		message = function (args) return string.format("Register %s", args.who) end
+	},
+	deregister = {
+		files = {"players.json", "log.json"},
+		message = function (args) return string.format("Deregister %s", args.who) end
+	},
+	birthday = {
+		files = {"archive/", "log.json"},
+		message = function (args) return string.format("Announce %s's birthday", args.who) end
+	},
+	activate = {
+		files = {"players.json", "log.json"},
+		message = function (args) return string.format("Make %s active", args.who) end
+	},
+	deactivate = {
+		files = {"players.json", "log.json"},
+		message = function (args) return string.format("Make %s inactive", args.who) end
+	},
+	rename = {
+		files = {"players.json", "log.json"},
+		message = function (args) return string.format("Rename %s to %s", args.who, args.whither) end
+	},
+	readdress = {
+		files = {"players.json", "log.json"},
+		message = function (args) return string.format("Change %s's address", args.who) end
+	}
+}
+
+local action = gitactions[args.command]
+for _,f in ipairs(action.files) do
+	os.execute(string.format("git add %s", f))
+end
+os.execute(string.format("git commit -m '%s'", action.message(args)))

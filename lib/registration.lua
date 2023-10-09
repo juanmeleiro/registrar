@@ -98,7 +98,7 @@ function _M.readdress(args, players, log)
 	local h = table.query(players[args.who], function (h) return h.reason == "s" end)
 	die(not h, "Player is not registered.")
 	h.contact = args.whither
-	table.insert(log, {what="readdress", who=args.who, whither=args.whither, where=args.m, when=os.time()})
+	table.insert(log, {what="readdress", who=args.who, whither=args.whither, where=args.m, when=args.when})
 end
 
 return _M

@@ -58,6 +58,7 @@ rename_cmd:option("-m", "Message ID of renaming (without 'message://' prefix)")
 local readdress_cmd = parser:command("readdress", "Change player's address")
 readdress_cmd:argument("who", "Player to be readdressed")
 readdress_cmd:argument("whither", "New address")
+readdress_cmd:argument("when", "When the message was received")
 readdress_cmd:option("-m", "Message ID of readdressing (without 'message://' prefix)")
 
 -- Deserialize
@@ -216,4 +217,4 @@ local action = gitactions[args.command]
 for _,f in ipairs(action.files) do
 	os.execute(string.format("git add %s", f))
 end
-os.execute(string.format("git commit -m '%s'", action.message(args)))
+os.execute(string.format("git commit -m \"%s\"", action.message(args)))

@@ -53,8 +53,10 @@ function _M.register(args, players, log, ts)
 	end
 	if exists then
 		if yn(string.format("Player exists under name '%s'. Proceed? [yn] ", exists)) and not args.p then
-			players[args.name] = players[exists]
-			players[exists] = nil
+			if args.name ~= exists then
+			  players[args.name] = players[exists]
+			  players[exists] = nil
+			end
 		end
 	else
 		players[args.name] = {}

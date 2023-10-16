@@ -8,7 +8,7 @@ years ago. They are different people, to the best of my judgment. This
 warning will remain necessary pending decision on how to handle clashing
 player names. Do not complain; comply.
 
-Convetions:
+Conventions:
 * Player: Latest player name.
 * Registered: Date of latest registration.
 * Latest: Date of latest change in Activity.

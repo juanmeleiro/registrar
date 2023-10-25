@@ -17,7 +17,8 @@ parser:flag("-p", "Pretend: only show what would be done")
 parser:command_target("command")
 
 parser:command("monthly", "Generate and send registrar monthly report")
-parser:command("weekly", "Generate and send registrar weekly report")
+local weekly_cmd = parser:command("weekly", "Generate and send registrar weekly report")
+weekly_cmd:flag("-p", "Pretend: generate and print only")
 
 local birthday_cmd = parser:command("birthday", "Announce a player's birthday")
 birthday_cmd:flag("-p", "Pretent: generate and print only.")
@@ -64,9 +65,7 @@ readdress_cmd:option("-m", "Message ID of readdressing (without 'message://' pre
 -- Deserialize
 local fns = {
 	players = "players.json",
-	log = "log.json",
-	tmp = ".tmp",
-	history = ".hist"
+	log = "log.json"
 }
 local args = parser:parse()
 local players = decodewith(json.decode, fns.players)
@@ -75,80 +74,9 @@ local log = decodewith(json.decode, fns.log)
 -- Process
 
 if args.command == "monthly" then
-	local hist = io.open(fns.history, "w")
-
-	defs = {
-		YEAR = os.date("%Y"),
-		MONTH = os.date("%m"),
-		DAY = os.date("%d"),
-		MAILDATE = os.date("%a, %d %b %Y %T %z"),
-		PLAYERS = string.format("include(%s)", fns.history)
-	}
-	for n,h in pairs(players) do
-		hist:write("===============\n"..n.."\n")
-		for _,e in ipairs(h) do
-			if e.reason == "s" then
-				f = "  ({reason}) {name} <{contact}> ({registration}--now)\n"
-			else
-				f = "  ({reason}) {name} <{contact}> ({registration}--{deregistration})\n"
-			end
-			hist:write(format(f, e))
-			if e.observations then
-				hist:write(format("      {observations}\n", e))
-			end
-		end
-		hist:write("\n")
-	end
-	hist:close()
-
-	os.execute(string.format("m4 %s templates/monthly/monthly.m4 > %s", m4flags(defs), fns.tmp))
-
-	if args.p then
-		os.execute(string.format("cat %s", fns.tmp))
-		os.remove(fns.tmp)
-	else
-		os.execute(string.format("vis %s", fns.tmp))
-		os.execute(string.format("neomutt -H %s -E", fns.tmp))
-		if yn("Archive report? [Yn] ") then
-			table.insert(log, {
-							 when = os.time(),
-							 what = "monthly"
-			})
-			os.rename(fns.tmp, os.date("archive/%F-monthly.txt"))
-		else
-			os.remove(fns.tmp)
-		end
-	end
-	os.remove(fns.history)
-
+	report.monthly(args, players, log)
 elseif args.command == "weekly" then
-	defs = {
-		YEAR = os.date("%Y"),
-		MONTH = os.date("%m"),
-		DAY = os.date("%d"),
-		MAILDATE = os.date("%a, %d %b %Y %T %z"),
-	}
-
-	os.execute(string.format("m4 %s templates/weekly/weekly.m4 > %s", m4flags(defs), fns.tmp))
-	if args.p then
-		os.execute(string.format("cat %s", fns.tmp))
-		os.remove(fns.tmp)
-	else
-		os.execute(string.format("vis %s", fns.tmp))
-		os.execute(string.format("neomutt -H %s -E", fns.tmp))
-		if yn("Archive report? [Yn] ") then
-			table.insert(log, {
-							 when = os.time(),
-							 what = "weekly",
-							 height = height,
-			})
-			os.rename(fns.tmp, os.date("archive/%F-weekly.txt"))
-		else
-			os.remove(fns.tmp)
-		end
-	end
-	os.remove(fns.history)
-
+	report.weekly(args, players, log)
 elseif args.command == "register" then
 	registration.register(args, players, log)
 elseif args.command == "deregister" then
@@ -213,8 +141,10 @@ local gitactions = {
 	}
 }
 
-local action = gitactions[args.command]
-for _,f in ipairs(action.files) do
-	os.execute(string.format("git add %s", f))
-end
-os.execute(string.format("git commit -m \"%s\"", action.message(args)))
+-- if not args.p then
+-- 	local action = gitactions[args.command]
+-- 	for _,f in ipairs(action.files) do
+-- 		os.execute(string.format("git add %s", f))
+-- 	end
+-- 	os.execute(string.format("git commit -m \"%s\"", action.message(args)))
+-- end

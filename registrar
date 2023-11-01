@@ -92,7 +92,7 @@ elseif args.command == "rename" then
 elseif args.command == "readdress" then
    registration.readdress(args, players, log)
 else
-	io.write("Not implemented.")
+	io.write("Not implemented.\n")
 end
 
 -- Serialize

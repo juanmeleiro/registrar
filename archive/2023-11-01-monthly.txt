@@ -1,0 +1,1858 @@
+Date: Wed, 1 Nov 2023 11:07:56 -0300
+From: juan <juan@juanmeleiro.mat.br>
+To: agora-official@agoranomic.org
+Subject: [Registrar] Monthly report: Arrivals and Departures
+Message-ID: <tlrcg45emdanh2xgww5kvq3m2be6iwhbp7rlrrw53xlqcef2vq@nl32ddhpingw>
+Mail-Followup-To: agora-official@agoranomic.org
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-Mutt-Resume-Draft: 1
+
+===============================================================================
+Registrar: juan              Arrivals and Departures                 2023-11-01
+===============================================================================
+
+-------------------------------------------------------------------------------
+EVENTS
+
+* 2023-10-02 17:20 Monthly report
+* 2023-10-02 17:21 Weekly report
+* 2023-10-04 02:14 Registered Zipzap
+* 2023-10-04 21:46 Changed 4st's address
+* 2023-10-07 09:40 Deactivated Yachay Wayllukuq
+* 2023-10-07 09:40 Deactivated innalienableWright
+* 2023-10-07 09:40 Deactivated beokirby
+* 2023-10-09 17:24 Weekly report
+* 2023-10-12 19:20 Registered nix
+* 2023-10-16 10:36 Weekly report
+* 2023-10-23 11:49 Changed Aris's name from 'Aspen'
+* 2023-10-23 12:12 Weekly report
+* 2023-10-28 14:41 Activated Yachay Wayllukuq
+* 2023-10-30 16:37 Weekly report
+
+
+-------------------------------------------------------------------------------
+EDITORIAL
+
+For any corrections,
+For any suggestions or complaints of form,
+Please contact the Registrar.
+
+-------------------------------------------------------------------------------
+WRITS OF FAGE
+
+
+PLAYER    DATE
+--------  ----------
+Kelly     1995-09-17
+Andre     1999-02-13
+BobTHJ    2008-01-16
+P1        2008-11-05
+P2        2008-11-05
+P3-P100   2008-11-06
+Wooble    2011-09-01
+G.        2017-06-29
+Telnaior  2019-01-29
+nix       2019-10-18
+Warrigal  2020-04-23
+Aspen     2022-04-08
+nix       2022-08-29
+ziproot   2022-11-07
+jimmy     2023-04-09
+
+
+-------------------------------------------------------------------------------
+HISTORY
+
+Registration history of persons who have registered and deregistered
+at least once (imperfect, corrections welcomed)
+
+(a)bandoned       (l)awless
+(v)oluntary       (d)eported
+(w)rit of FAGE    deregistered emself by mista(k)e
+(p)roposal        d(e)stroyed
+(r)atification    (u)known
+e(x)iled          (s)till registered
+(b)anned
+
+===============
+Arkady
+  (a) Arkady <arkadyenglish+agora at gmail.com> (2011-07-18--2013-05-21)
+
+===============
+j
+  (a) j <agora at jaycampbell.com> (2009-12-13--2009-06-05)
+
+===============
+kiako
+  (s) kiako <its.kiako@gmail.com> (2023-08-05--now)
+
+===============
+moonroof
+  (a) moonroof <roycewoodspam at gmail.com> (2012-07-13--2013-05-21)
+
+===============
+Harlequin
+  (u) Harlequin <charlequin at yahoo.com> (1997-01--1998-11-27)
+  (u) Harlequin <charlequin at yahoo.com> (2000-01-10--2001-08-20)
+
+===============
+tris
+  (a) tris <trstnbrdwg0 at gmail.com> (2021-11-12--2022-04-08)
+
+===============
+Larry Smithmier
+  (u) Larry Smithmier <smithmierjr at uamont.edu> (<= 1994-04-05--unknown)
+
+===============
+Jim
+  (u) Jim <jcs at zycor.lgc.com> (<= 1994-04-05--nil)
+
+===============
+Human Point Four
+  (p) Human Point Four <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+t
+  (a) t <scurra at iki.fi> (1999-10-14--2005-01-05)
+
+===============
+Shelvacu
+  (a) Shelvacu <agora at shelvacu.com> (2020-08-08--2020-11-20)
+      Also known as Shel.
+
+===============
+Levi
+  (v) Levi <levi.stephen at optusnet.com.au> (2007-03-07--2008-02-17)
+
+===============
+P1 - P100
+  (d) P1 - P100 <c/o comex> (2008-11-16--2008-11-25)
+
+===============
+ehird
+  (k) ehird <penguinofthegods at gmail.com> (2008-05-08--2008-06-24)
+  (v) ehird <penguinofthegods at googlemail.com> (2008-08-09--2009-01-26)
+  (v) ehird <penguinofthegods at googlemail.com> (2009-02-26--2011-10-14)
+  (v) ehird <penguinofthegods at gmail.com> (2011-12-05--2012-02-28)
+  (v) ehird <penguinofthegods at googlemail.com> (2012-04-09--2012-09-28)
+  (a) ehird <penguinofthegods at gmail.com> (2013-01-29--2014-02-12)
+
+===============
+Lance
+  (u) Lance <lab at biostat.mc.duke.edu> (<= 1994-04-05--unknown)
+
+===============
+Grech
+  (u) Grech <xe5j0y4halv3ev001 at sneakemail.com> (2001-02-05--2001-09-10)
+
+===============
+teucer
+  (a) teucer <teucer at pobox.com> (2009-06-04--2009-11-14)
+  (a) teucer <teucer at pobox.com> (2013-08-05--2014-02-12)
+
+===============
+dcuman
+  (u) dcuman <shodan at indirect.com> (<= 1996-01-31--1996-04-23)
+
+===============
+Luke Lockhart
+  (a) Luke Lockhart <luke.lockhart at gmail.com> (2009-06-04--2009-09-27)
+
+===============
+RedKnight
+  (a) RedKnight <redwallknight at hotmail.com> (2002-07-21--2006-01-19)
+
+===============
+Garth
+  (u) Garth <> (1995-09--1995-10)
+
+===============
+kcnomic
+  (a) kcnomic <kcnomic at gmail.com> (2012-03-25--2012-10-19)
+
+===============
+Magu
+  (a) Magu <mschmahl at acsalaska.net> (2003-12-24--2004-04-11)
+
+===============
+beokirby
+  (s) beokirby <beokirbyagora at gmail.com> (2023-05-18--now)
+
+===============
+Wofi
+  (a) Wofi <wofi253 at yahoo.com> (2011-03-30--2011-06-26)
+
+===============
+elJefe
+  (u) elJefe <eljefe at eastpac.com> (1995-11-22--nil)
+  (v) elJefe <eljefe at eastpac.com> (1996-01--2000-04-16)
+
+===============
+Ludwig
+  (a) Ludwig <tysger.nomic at gmail.com> (2013-04-08--2014-05-06)
+
+===============
+P.S.S.
+  (a) P.S.S. <pscriboniusscholasticus at gmail.com> (2017-04-16--2019-09-22)
+      also known as Publius Scribonius Scholasticus / officially, but technically equivalent: p.scribonius.scholasticus at googlemail.com
+  (v) P.S.S. <p.scribonius.scholasticus at gmail.com> (2020-03-01--2020-12-31)
+      also known as Publius Scribonius Scholasticus
+
+===============
+Rance
+  (a) Rance <rance_28 at yahoo.com> (2019-04-09--2020-04-23)
+
+===============
+Peter
+  (p) Peter <civilianjones at gmail.com> (2006-12-24--2007-05-31)
+
+===============
+scat
+  (a) scat <agora at lesidhetree.com> (2012-05-18--2013-04-07)
+      Also schrodingers.katana at gmail.com
+
+===============
+R. Lee
+  (v) R. Lee <edwardostrange at gmail.com> (2017-12-29--2019-07-29)
+      also known as V.J. Rada/Later changed to SarahEstrange0 at gmail.com.
+  (v) R. Lee <edwardostrange at gmail.com> (2019-12-29--2020-01-25)
+      Later changed to SarahEstrange0 at gmail.com.
+  (r) R. Lee <edwardostrange at gmail.com> (2020-02-28--2020-03-01)
+      Later changed to SarahEstrange0 at gmail.com.
+  (x) R. Lee <edwardostrange at gmail.com> (2020-03-16--2020-06-30)
+      Later changed to SarahEstrange0 at gmail.com.
+  (v) R. Lee <Sarahestrange0 at gmail.com> (2020-06-30--2021-09-19)
+  (a) R. Lee <Sarahestrange0 at gmail.com> (2021-10-22--2023-01-20)
+  (a) R. Lee <sarahestrange0 at gmail.com> (2023-01-31--2023-06-12)
+  (v) V.J. Rada <vijarada at gmail.com> (2017-06-07--2017-08-11)
+      later known as R. Lee
+  (v) V.J. Rada <vijarada at gmail.com> (2017-09-05--2017-11-28)
+  (x) R. Lee <edwardostrange at gmail.com> (2020-06-30--2020-06-30)
+      (55 deregistrations)
+
+===============
+Craig
+  (a) Craig <raganok at intrex.net> (2002-04-25--2003-03-09)
+  (a) Craig <teucer at pobox.com> (2009-01-03--2009-04-19)
+
+===============
+Tcbapo
+  (a) Tcbapo <tcbapoagora at gmail.com> (2020-01-28--2020-07-12)
+
+===============
+Caste8d
+  (d) Caste8d <c/o C-walker> (2009-06-18--2009-06-18)
+      Questioned
+  (d) Caste8d <c/o C-walker?> (2009-06-18--2009-07-10)
+      Questioned
+
+===============
+"I create a Slave Golem whose name is the full body of this message.\n(Preemptive arguments: It's not confusing, merely long.)\nOn Fri, Jun 8, 2012 at 7:16 PM, Pavitra <celestialcognit...@gmail.com> wrote:\n> On 06/08/2012 07:03 PM, John Smith wrote:\n>> For good measure, I transfer Scapegoat to Pavitra.\n>\n> I transfer Scapegoat to the number four hundred forty-one thousand three\n> hundred forty-four."
+  (v) "I create a Slave Golem whose name is the full body of this message.\n(Preemptive arguments: It's not confusing, merely long.)\nOn Fri, Jun 8, 2012 at 7:16 PM, Pavitra <celestialcognit...@gmail.com> wrote:\n> On 06/08/2012 07:03 PM, John Smith wrote:\n>> For good measure, I transfer Scapegoat to Pavitra.\n>\n> I transfer Scapegoat to the number four hundred forty-one thousand three\n> hundred forty-four." <c/o omd> (2012-06-08--2012-07-13)
+
+===============
+Mr. Incredible
+  (v) Mr. Incredible <c/o omd> (2012-02-16--2012-02-17)
+
+===============
+redtara
+  (a) redtara <redxtara at gmail.com> (2021-10-07--2022-04-08)
+      Formerly Ienpw III
+
+===============
+Proglet
+  (a) Proglet <proglet at usa.net> (1998-11-09--1999-01-15)
+
+===============
+solublefish
+  (u) solublefish <WGarner at Empirix.com> (2001-03-31--2001-11-12)
+
+===============
+woggle
+  (a) woggle <woggling at gmail.com> (2007-12-23--2010-01-26)
+  (a) woggle <woggling at gmail.com> (2007-12-23--2010-10-11)
+  (a) woggle <woggling at gmail.com> (2011-05-30--2012-10-19)
+  (d) woggle <woggling at gmail.com> (2013-01-19--2015-08-10)
+
+===============
+Annabel
+  (v) Annabel <lenore at sdf.lonestar.org> (1999-07-29--1999-10-01)
+  (v) Annabel <lenore at sdf.lonestar.org> (2001-05-16--2001-05-31)
+
+===============
+Darth Cliche
+  (v) Darth Cliche <kennercat at gmail.com> (2009-07-24--2009-07-31)
+  (a) Darth Cliche <kennercat at gmail.com> (2009-09-22--2010-01-26)
+  (a) Darth Cliche <kennercat at gmail.com> (2010-12-16--2011-04-06)
+
+===============
+Caste8b
+  (d) Caste8b <c/o C-walker> (2009-06-18--2009-06-18)
+      Questioned
+  (d) Caste8b <c/o C-walker?> (2009-06-18--2009-07-10)
+      Questioned
+
+===============
+Zefram
+  (u) Zefram <zefram at tao.co.uk> (<= 1995-06-16--1995-12)
+  (v) Zefram <zefram at tao.co.uk> (1996-01-4--1997-10-29)
+  (a) Zefram <zefram at fysh.org> (2007-01-10--2009-02-16)
+
+===============
+Yang Corp
+  (p) Yang Corp <> (2007-05-21--2007-05-31)
+
+===============
+Eritivus
+  (r) Eritivus <eritivus at gmail.com> (2014-10-11--11 2014-10)
+  (v) Eritivus <eritivus at gmail.com> (2014-10-19--2014-12-16)
+
+===============
+Cuddlebeam
+  (v) Cuddlebeam <cuddlebeam at googlemail.com> (2017-05-20--2017-07-21)
+
+===============
+Epaeris
+  (a) Epaeris <hermitchipmunk at gmail.com> (2010-04-18--2010-09-07)
+
+===============
+allispaul
+  (a) allispaul <allispaul at gmail.com> (2009-06-03--2009-11-14)
+  (a) allispaul <allispaul at gmail.com> (2010-02-26--2010-09-07)
+
+===============
+Kenyon
+  (a) Kenyon <kprater3.14 at gmail.com> (2018-02-27--2018-10-16)
+
+===============
+Brian Greer
+  (u) Brian Greer <> (1995-08--nil)
+
+===============
+Blob
+  (u) Blob <malcolmr at cse.unsw.edu.au> (1996-01-06--1996-03-31)
+  (u) Blob <malcolmr at cse.unsw.edu.au> (1996-11--<=1997-11-20)
+  (u) Blob <malcolmr at cse.unsw.edu.au> (1997-11-20--2001-09-10)
+  (a) Blob <malcolmr at cse.unsw.edu.au> (2003-01-21--2004-02-22)
+
+===============
+aranea
+  (d) aranea <aranea at aixea.de> (2014-08-31--2017-05-31)
+
+===============
+Vitor Gonçalves
+  (a) Vitor Gonçalves <vitorg at tilde.team> (2022-07-23--2023-01-20)
+
+===============
+Chester Mealer
+  (v) Chester Mealer <cdm014 at gmail.com> (2014-07-03--2014-10-24)
+
+===============
+Caste8c
+  (d) Caste8c <c/o C-walker> (2009-06-18--2009-06-18)
+      Questioned
+  (d) Caste8c <c/o C-walker?> (2009-06-18--2009-07-10)
+      Questioned
+
+===============
+Kelly
+  (w) Kelly <> (1995-11-07--1995-09-17)
+      The date for Kelly's Writ was recorded as 1995-09-17, and the correct one is unknown
+  (u) Kelly <> (1995-11-17--1996-07-29)
+  (u) Kelly <> (1996-10--1996-11-07)
+  (u) Kelly <> (1997-03--1999-04-12)
+  (u) Kelly <kmartin at pyrzqxgl.org> (2000-05-01--2001-07-10)
+
+===============
+Human Point Six
+  (p) Human Point Six <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Livenomic Partn...
+  (d) Livenomic Partn... <livenomic at nomictools.com> (2009-09-17--2009-10-10)
+
+===============
+gazebo_dude
+  (v) gazebo_dude <no.spoon.neo at gmail.com> (2005-03-12--2005-04-11)
+
+===============
+Wooble
+  (v) Wooble <geoffspear at gmail.com> (2007-07-03--2007-09-30)
+  (l) Wooble <geoffspear at gmail.com> (2007-11-16--2009-10-17)
+  (v) Wooble <geoffspear at gmail.com> (2009-11-17--2010-01-30)
+  (v) Wooble <geoffspear at gmail.com> (2010-03-21--2010-04-01)
+  (k) Wooble <geoffspear at gmail.com> (2010-05-02--2010-11-22)
+  (v) Wooble <geoffspear at gmail.com> (2010-12-22--2011-01-31)
+  (v) Wooble <geoffspear at gmail.com> (2011-03-03--2011-04-15)
+  (v) Wooble <geoffspear at gmail.com> (2011-05-17--2011-06-28)
+  (w) Wooble <wooble at nomictools.com> (2011-07-29--2011-09-01)
+  (v) Wooble <wooble at nomictools.com> (2011-10-03--2013-08-12)
+  (v) Wooble <wooble at nomictools.com> (2013-10-24--2014-02-28)
+
+===============
+hedgehogcull
+  (a) hedgehogcull <jon at peekee.co.uk> (2007-08-16--2008-02-01)
+
+===============
+Gondolier
+  (a) Gondolier <gondola43 at gmail.com> (2011-06-24--2011-11-11)
+
+===============
+CoCo
+  (u) CoCo <> (1995-10--1995-11)
+  (u) CoCo <> (1995-12-03--nil)
+
+===============
+Cole Jackson
+  (a) Cole Jackson <colejackson at gmail.com> (2014-01-26--2014-05-06)
+
+===============
+Shy Owl
+  (a) Shy Owl <shy.owlman at gmail.com> (2020-11-11--2021-05-01)
+  (v) Shy Owl <shy.owlman at gmail.com> (2021-10-03--2021-11-03)
+  (a) Shy Owl <iamashyowl at proton.me> (2022-10-07--2023-06-12)
+
+===============
+Anti-Cleisthenes
+  (r) Anti-Cleisthenes <agoranepitaph at gmail.com> (2022-09-09--2022-10-03)
+
+===============
+KoJen
+  (u) KoJen <cogen at ll.mit.edu> (1996-01-01--nil)
+  (v) KoJen <cogen at ll.mit.edu> (1996-01-2--1997-06-12)
+
+===============
+Spitemaster
+  (a) Spitemaster <bennerguy at gmail.com> (2009-03-07--2009-09-27)
+  (a) Spitemaster <bennerguy at gmail.com> (2010-03-08--2010-09-07)
+
+===============
+Stuart
+  (v) Stuart <stuart.presnell at bristol.ac.uk> (2001-02-24--2001-04-26)
+
+===============
+Yally
+  (a) Yally <aarongoldfein at gmail.com> (2009-02-07--2014-07-22)
+  (d) Yally <aarongoldfein at gmail.com> (2016-07-11--2017-05-31)
+
+===============
+Michael
+  (v) Michael <michael.norrish at nicta.com.au> (1993-06-29--2007-03-13)
+
+===============
+Dvorak Herring
+  (a) Dvorak Herring <dvorak.herring at gmail.com> (2008-09-10--2009-09-27)
+
+===============
+harblcat
+  (a) harblcat <cblair1986 at gmail.com> (2008-11-28--2009-04-19)
+
+===============
+arkestra
+  (p) arkestra <arkestra at gmail.com> (2006-03-02--2007-05-31)
+  (a) arkestra <arkestra at gmail.com> (2008-07-31--2009-01-12)
+  (a) arkestra <arkestra at gmail.com> (2013-06-28--2014-02-12)
+
+===============
+Human Point Eleven
+  (p) Human Point Eleven <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Zipzap
+  (s) Zipzap <itszipzap@gmail.com> (2023-10-04--now)
+
+===============
+Normish Partnership 2
+  (d) Normish Partnership 2 <root at normish.org> (2008-08-12--2010-01-17)
+
+===============
+Duane
+  (u) Duane <duanew at atlas.com> (<= 1994-04-05--unknown)
+
+===============
+Swann
+  (u) Swann <saswann at gwis.com> (1995-11-14--1996-02-23)
+  (a) Swann <saswann at gwis.com> (1997-10-29--1998-09-15)
+
+===============
+Rodlen
+  (a) Rodlen <rodlenjack at gmail.com> (2009-03-24--2009-11-14)
+
+===============
+Goddess Eris
+  (v) Goddess Eris <taral at taral.net> (2000-04-03--2006-12-13)
+
+===============
+Left Hand
+  (d) Left Hand <c/o Murphy> (2008-01-12--2008-12-08)
+
+===============
+Sprocklem
+  (d) Sprocklem <sprocklem at gmail.com> (2013-10-19--2017-09-10)
+
+===============
+Alice
+  (u) Alice <cat at orion.mrc.unm.edu> (<= 1994-04-05--unknown)
+
+===============
+omd
+  (v) omd <comexk at gmail.com> (2007-05-01--2010-12-27)
+      Cantus Cygneus submitted 25 Dec, published 28 Dec, but omd deregistered voluntarily 27 Dec
+  (s) omd <comexk at gmail.com> (2011-02-03--now)
+      officially, but technically equivalent c.ome.xk at gmail.com
+
+===============
+avpx
+  (a) avpx <nickv111 at gmail.com> (2007-11-24--2008-10-24)
+
+===============
+ProofTechnique
+  (d) ProofTechnique <jhenahan at me.com> (2017-09-23--2017-11-16)
+
+===============
+Beefurabi
+  (l) Beefurabi <david at kasey.umkc.edu> (1999-04-19--1999-09-07)
+
+===============
+Tweedledee
+  (e) Tweedledee <c/o G.> (2012-02-16--2012-02-22)
+  (e) Tweedledee <?> (2013-01-28--2013-04-20)
+
+===============
+stadjer
+  (d) stadjer <stadjernomic at gmail.com> (2015-03-23--2015-08-10)
+
+===============
+Cap'n
+  (a) Cap'n <acadia_but_real at protonmail.com> (2022-08-15--2023-01-20)
+
+===============
+Einstein
+  (u) Einstein <> (1995-10--nil)
+
+===============
+Shredder
+  (a) Shredder <geoff at geoffschmidt.com> (2014-01-30--2014-05-06)
+
+===============
+Aced7
+  (a) Aced7 <cadenomic at gmail.com> (2022-10-19--2023-06-12)
+
+===============
+Kirt
+  (u) Kirt <dankmyer at ac.grin.edu> (<= 1994-04-05--nil)
+
+===============
+Human Point Thirteen
+  (p) Human Point Thirteen <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+JTAC
+  (a) JTAC <hmcl.supv at gmail.com> (2021-01-03--2021-06-30)
+
+===============
+Marc Slager
+  (u) Marc Slager <> (1995-11-22--1995-12)
+
+===============
+Jeremy
+  (a) Jeremy <koojeremy at gmail.com> (2008-01-28--2008-06-20)
+
+===============
+Lindrum
+  (u) Lindrum <lindrum at panix.com> (2001-02-09--2001-11-01)
+
+===============
+Caste8e
+  (d) Caste8e <c/o C-walker> (2009-06-18--2009-06-18)
+      Questioned
+  (d) Caste8e <c/o C-walker?> (2009-06-18--2009-07-10)
+      Questioned
+
+===============
+G.
+  (v) Goethe <kerim at u.washington.edu> (2001-02-04--2003-03-24)
+  (v) Goethe <kerim at u.washington.edu> (2003-07-14--2007-01-22)
+      (Writ of FAGE published 2020-12-1806, resolved by Prop 4882)
+  (v) Goethe <kerim at u.washington.edu> (2007-02-23--2007-05-14)
+  (v) Goethe <kerim at u.washington.edu> (2007-10-27--2008-05-16)
+  (v) Goethe <kerim at u.washington.edu> (2008-06-19--2009-04-01)
+  (v) G. <kerim at u.washington.edu> (2009-05-04--2009-08-10)
+  (v) G. <kerim at u.washington.edu> (2009-10-29--2011-08-09)
+  (v) G. <kerim at u.washington.edu> (2011-10-18--2014-08-11)
+  (w) G. <kerim at u.washington.edu> (2017-06-29--2017-06-29)
+  (d) G. <kerim at uw.edu> (2017-08-25--2023-08-30)
+
+===============
+Phoenix
+  (a) Phoenix <benuphoenix2 at gmail.com> (2009-12-17--2010-06-15)
+
+===============
+The Host
+  (-) The Host <c/o Levi and Murphy> (2007-08-21--2007-08-30)
+
+===============
+Trigon
+  (a) Trigon <reuben.staley at gmail.com> (2017-09-24--2022-10-31)
+
+===============
+Macross
+  (v) Macross <macross at bellatlantic.net> (1998-05-21--1999-03-22)
+
+===============
+gavin
+  (a) gavin <hawkblack13 at gmail.com> (2008-10-17--2009-02-16)
+
+===============
+Yin Corp
+  (p) Yin Corp <> (2007-05-21--2007-05-31)
+
+===============
+davidcjackman
+  (a) davidcjackman <davidcjackman at gmail.com> (2012-01-02--2012-10-19)
+
+===============
+Anthony
+  (u) Anthony <abriggs at iinet.net.au> (2000-02-11--2001-09-10)
+
+===============
+Jacob Arduino
+  (a) Jacob Arduino <jacobarduino at gmail.com> (2018-11-12--2019-11-19)
+
+===============
+Jester
+  (v) Jester <KJarvis at interworx.com.au> (1998-01-2--1998-05-01)
+
+===============
+Kyle Anderson
+  (v) Kyle Anderson <kyescott513c at gmail.com> (2017-08-23--24 2017-08)
+
+===============
+the Warrigal
+  (v) the Warrigal <tannerswett at gmail.com> (2014-08-05--2014-11-24)
+
+===============
+Tiger
+  (a) Tiger <jonatan.kilhamn at gmail.com> (2009-02-02--2011-03-08)
+      Later switched to natalie.kilhamn at gmail.com
+  (v) Tiger <jonatan.kilhamn at gmail.com> (2011-07-12--2012-01-26)
+      Later switched to natalie.kilhamn at gmail.com
+  (d) Tiger <jonatan.kilhamn at gmail.com> (2013-12-17--2015-08-10)
+      Later switched to natalie.kilhamn at gmail.com
+
+===============
+IBA
+  (d) IBA <c/o comex?> (2009-08-21--2010-03-02)
+
+===============
+Bayes
+  (d) Bayes <> (2008-10-01--2009-05-26)
+
+===============
+Roujo
+  (v) Roujo <jonathan.rouillard at gmail.com> (2010-12-16--2017-05-27)
+
+===============
+Madrid
+  (b) Madrid <cuddlebeam at gmail.com> (2017-08-25--2022-09-11)
+
+===============
+cuddlybanana
+  (s) cuddlybanana <rose.strong42 at gmail.com> (2021-03-16--now)
+
+===============
+Ur
+  (e) Ur <?> (2012-03-31--2013-01-22)
+
+===============
+Surprise
+  (a) Surprise <surprisenomic at gmail.com> (2021-06-20--2022-02-22)
+
+===============
+Falsifian
+  (v) Falsifian <agora at falsifian.org> (2019-02-13--2022-02-22)
+
+===============
+Gaelan
+  (s) Gaelan <gbs at canishe.com> (2017-05-15--now)
+      Previously known as Gaelan Steele
+  (d) Gaelan Steele <gbs at canishe.com> (2015-05-27--2015-08-10)
+
+===============
+Stella?
+  (u) Stella? <kunne at cernvm.cern.ch> (<= 1994-04-05--unknown)
+
+===============
+Ubercrow
+  (a) Ubercrow <unicationsmith2009 at gmail.com> (2021-01-11--2021-08-24)
+
+===============
+TB148
+  (a) TB148 <tb148 at proton.me> (2023-02-06--2023-06-12)
+      Initially known as Anthony Brown
+
+===============
+Zachary Watterson
+  (d) Zachary Watterson <tannerswett at gmail.com> (2017-03-26--2017-08-27)
+      also known as Gumball
+
+===============
+Agora Nomic
+  (d) Agora Nomic <?> (2011-06-23--2013-04-22)
+
+===============
+Benbot²
+  (a) Benbot² <benjaminfrancisrodriguez at gmail.com> (2021-10-03--2022-04-08)
+
+===============
+Nicol
+  (u) Nicol <dnicol at primus.cstp.umkc.edu> (<= 1994-04-05--unknown)
+
+===============
+Douglas Jahnke
+  (u) Douglas Jahnke <chaotic at ksuvm.ksu.edu> (<= 1994-04-05--nil)
+
+===============
+Time Agent
+  (a) Time Agent <dAndreasen at pctb.com> (1998-01-16--1998-04-16)
+
+===============
+a person announcing support or intent to do so
+  (e) a person announcing support or intent to do so <c/o G.> (2012-09-28--2013-01-22)
+
+===============
+Edmond Dantes
+  (a) Edmond Dantes <dmarketdantes at gmail.com> (2009-08-02--2009-11-17)
+
+===============
+Bernie
+  (a) Bernie <hidreigon at gmail.com> (2019-04-06--2020-04-23)
+
+===============
+Sonny Jim
+  (a) Sonny Jim <sonny_jim at studiofrobel.com> (2012-01-23--2012-10-19)
+
+===============
+Flameshadowxeroshin
+  (a) Flameshadowxeroshin <Flameshadowxeroshin at gmail.com> (2010-11-10--2011-04-06)
+  (a) Flameshadowxeroshin <Flameshadowxeroshin at gmail.com> (2011-07-05--2011-12-08)
+
+===============
+D. Margaux
+  (a) D. Margaux <dmargaux000 at gmail.com> (2018-08-25--2020-11-29)
+      Also known as D Margaux.
+
+===============
+Fool
+  (a) Fool <fool1901 at gmail.com> (2013-06-24--2014-07-22)
+
+===============
+Hālian
+  (p) Hālian <halian at safiria.net> (2018-10-20--2019-09-18)
+
+===============
+Florw
+  (a) Florw <florwx at gmail.com> (2011-04-13--2011-07-31)
+  (a) Florw <florwx at gmail.com> (2012-03-17--2012-10-19)
+
+===============
+Maud
+  (v) Maud <m.slone at gmail.com> (1999-04-20--2006-12-13)
+  (v) Maud <m.slone at gmail.com> (2007-03-07--2007-05-14)
+
+===============
+Pilgore
+  (a) Pilgore <drpilgore at gmail.com> (2022-08-15--2023-01-20)
+
+===============
+Ben Daniel
+  (a) Ben Daniel <ben at bendaniel.us> (2009-04-28--2009-08-24)
+
+===============
+Henri
+  (d) Henri <henrib736 at gmail.com> (2013-05-07--31 2017-05)
+
+===============
+Blaise
+  (-) Blaise <bmbuck at 14850.com> (2001-09-10--2002-03-11)
+
+===============
+Bank of Agora
+  (d) Bank of Agora <c/o Ivan Hope CXXVII> (2008-04-14--2008-06-29)
+
+===============
+duck
+  (a) duck <> (2022-03-12--2022-10-31)
+
+===============
+Kolja
+  (a) Kolja <kolja_nomic at yahoo.de> (2004-02-03--2006-01-19)
+
+===============
+Peekee
+  (u) Peekee <pkpeekee at hotmail.com> (1998-12-25--2001-10-07)
+  (a) Peekee <peekee at blueyonder.co.uk> (2002-09-06--2004-04-11)
+  (v) Peekee <agora at peekee.co.uk> (2007-08-03--2007-08-12)
+  (a) Peekee <agora at peekee.co.uk> (2007-09-11--2008-03-31)
+
+===============
+Joe [57]
+  (a) Joe [57] <arran.soule at gmail.com> (2021-01-19--2021-08-24)
+      Slam_Joe_Jr_Supreme
+
+===============
+pikhq
+  (a) pikhq <josiahw at gmail.com> (2007-09-16--2009-02-16)
+  (a) pikhq <josiahw at gmail.com> (2009-03-10--2009-11-14)
+  (a) pikhq <josiahw at gmail.com> (2011-10-21--19 2012-10)
+  (a) pikhq <agora at ada.pikhq.com> (2019-10-20--2020-05-30)
+
+===============
+Human Point Nine
+  (p) Human Point Nine <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Ian Cabell
+  (a) Ian Cabell <ian at yak.net> (1996-01-02--nil)
+
+===============
+else...if
+  (u) else...if <htowsner at stanford.edu> (1996-07-30--1996-08-21)
+      aka Henry
+  (v) else...if <htowsner at stanford.edu> (2000-04-15--2000-05-21)
+      aka Henry
+
+===============
+Tyler
+  (a) Tyler <tylermeady at gmail.com> (2020-06-06--2020-11-20)
+
+===============
+Doug
+  (u) Doug <dchatham at utk.edu> (<= 1996-02-02--1996-04-13)
+
+===============
+TABBAT
+  (a) TABBAT <tabchesnut at gmail.com> (2022-02-07--2022-06-04)
+
+===============
+The Hanging Judge
+  (-) The Hanging Judge <c/o Zefram and comex> (2007-05-22--2007-06-09)
+
+===============
+Timothy
+  (u) Timothy <timothy.ferguson at jcu.edu.au> (<= 1994-09-12--nil)
+
+===============
+Vir
+  (a) Vir <eer at nwu.edu> (1997-09-4--1998-01-13)
+
+===============
+ais523
+  (v) ais523 <ais523 at bham.ac.uk> (2008-04-28--2011-02-04)
+  (v) ais523 <ais523 at alumni.bham.ac.uk> (2011-03-20--2017-09-23)
+      also callforjudgement at yahoo.co.uk
+  (s) ais523 <callforjudgement at yahoo.co.uk> (2021-06-08--now)
+
+===============
+L
+  (a) L <prmcd16 at yahoo.com> (2018-09-20--2019-08-24)
+
+===============
+Coren
+  (u) Coren <coren at teleport.com> (<= 1996-02-21--1996-03)
+  (a) Coren <coren at teleport.com> (1996-09--1996-12-20)
+
+===============
+SaltWater
+  (u) SaltWater <gorgonne at becker.u.washington.edu> (1995-12-11--nil)
+
+===============
+Narcisse
+  (u) Narcisse <hap at iglou.com> (1996-04--1996-05-21)
+
+===============
+Mask
+  (a) Mask <OatmealSurprise at protonmail.com> (2021-07-03--2021-09-05)
+
+===============
+0x44
+  (v) 0x44 <bnomic at indistinct.org> (2008-10-10--2008-12-30)
+
+===============
+Machiavelli
+  (v) Machiavelli <swettt at mail.gvsu.edu> (2009-09-01--2012-02-29)
+  (v) Machiavelli <swettt at mail.gvsu.edu> (2012-04-25--2013-08-25)
+
+===============
+Pavitra
+  (a) Pavitra <celestialcognition at gmail.com> (2007-08-10--2007-12-20)
+  (v) Pavitra <celestialcognition at gmail.com> (2008-01-25--2010-04-14)
+
+===============
+Aenet
+  (a) Aenet <aidananthony14 at gmail.com> (2021-03-16--2021-08-24)
+
+===============
+Eileen
+  (e) Eileen <c/o Pavitra> (2012-06-05--2013-01-22)
+
+===============
+aperfectring
+  (a) aperfectring <jstefek at gmail.com> (2013-08-15--2014-05-06)
+
+===============
+Jeffrey S.
+  (u) Jeffrey S. <> (--1995-10-25)
+
+===============
+Randy Olsha
+  (a) Randy Olsha <moronservices at gmail.com> (2009-04-06--2009-08-17)
+
+===============
+ehrid
+  (d) ehrid <c/o ehird> (2008-06-09--2008-06-27)
+
+===============
+Sheeple
+  (v) Sheeple <c/o ehird> (2008-11-16--2008-12-01)
+
+===============
+Kolja A.
+  (v) Kolja A. <herrmanns at rhein-neckar.netsurf.de> (1997-07-02--1999-12-16)
+
+===============
+juan
+  (s) juan <juan at juanmeleiro.mat.br> (2022-03-14--now)
+
+===============
+Human Point Three
+  (p) Human Point Three <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+dahuman
+  (a) dahuman <hdrussell at outlook.com> (2022-04-01--2022-08-24)
+
+===============
+Human Point Two
+  (d) Human Point Two <c/o OscarMeyr> (2007-04-29--2008-01-02)
+  (d) Human Point Two <quazienomic at gmail.com> (2008-06-20--2009-05-26)
+
+===============
+Zyborg
+  (a) Zyborg <zyborgmao at gmail.com> (2020-06-21--2020-11-20)
+
+===============
+cdm014
+  (a) cdm014 <cdm014 at gmail.com> (2008-06-17--2009-01-12)
+
+===============
+Nathan
+  (a) Nathan <nathans.agora.email at gmail.com> (2020-08-19--2022-02-22)
+
+===============
+ATMunn
+  (v) ATMunn <iamingodsarmy at gmail.com> (2017-09-21--2018-02-09)
+  (v) ATMunn <iamingodsarmy at gmail.com> (2018-03-11--2022-03-14)
+
+===============
+Alexx
+  (u) Alexx <alexx at world.std.com> (<= 1994-04-05--nil)
+
+===============
+loh
+  (v) loh <loh at lohnet.org> (2001-01-19--2001-05-23)
+
+===============
+Sci_Guy12
+  (d) Sci_Guy12 <jwc.science at gmail.com> (2016-07-14--2017-05-31)
+
+===============
+Protection Racket
+  (p) Protection Racket <c/o BobTHJ> (2008-06-23--2009-02-22)
+
+===============
+Calabresi
+  (a) Calabresi <mcdaniel at law.harvard.edu> (1997-12-05--nil)
+
+===============
+Ian
+  (u) Ian <oneiros at ferret.lmh.ox.ac.uk> (2001-04-02--2001-10-08)
+
+===============
+bd_
+  (a) bd_ <bdonlan at fushizen.net> (2007-06-20--2007-12-20)
+
+===============
+P2
+  (w) P2 <c/o comex> (2008-11-05--2008-11-05)
+
+===============
+Yachay Wayllukuq
+  (s) Yachay Wayllukuq <yachaywayllukuq at gmail.com> (2023-03-16--now)
+      a.k.a. Yachay
+
+===============
+Joe Piercey
+  (d) Joe Piercey <joerpiercey at gmail.com> (2014-10-15--2015-08-10)
+
+===============
+Reformed Bank of Agora
+  (p) Reformed Bank of Agora <c/o BobTHJ> (2008-06-23--2009-02-22)
+
+===============
+Pineapple P
+  (a) Pineapple P <pineapple at fysh.org> (2007-02-26--2009-02-16)
+
+===============
+P2P Partnership
+  (d) P2P Partnership <c/o root> (2007-12-22--2008-01-02)
+
+===============
+Human Point Seven
+  (p) Human Point Seven <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+oklopol
+  (a) oklopol <oklopol at gmail.com> (2008-10-07--2009-02-16)
+
+===============
+David
+  (u) David <David.Dickens at pepperdine.edu> (2000-12-18--2001-09-10)
+
+===============
+grok
+  (v) grok <grokagora at gmail.com> (2017-05-18--2017-05-29)
+  (v) grok <grokagora at gmail.com> (2017-07-24--2017-09-27)
+  (a) grok <grokagora at gmail.com> (2020-05-20--2021-05-01)
+
+===============
+o
+  (a) o <owen at grimoire.ca> (2016-07-12--2018-10-16)
+  (a) o <owen at grimoire.ca> (2019-05-23--2020-04-09)
+
+===============
+BigBobBingo !
+  (a) BigBobBingo ! <arran.soule at gmail.com> (2021-09-22--2022-04-08)
+
+===============
+Oerjan
+  (u) Oerjan <> (1995-09--1995-12)
+  (u) Oerjan <> (1996-01-03--nil)
+  (u) Oerjan <> (1996-04--2000-03-22)
+  (a) Oerjan <oerjan at nvg.ntnu.no> (2000-07-15--2004-11-14)
+
+===============
+Karl Anderson
+  (u) Karl Anderson <karl at reed.edu> (<= 1994-04-05--nil)
+
+===============
+Olipro
+  (a) Olipro <olipro+agora at gmail.com> (2008-07-07--2008-12-07)
+
+===============
+Ted
+  (e) Ted <c/o Italy> (2013-01-16--16 2013-01)
+
+===============
+JonnyRotten
+  (a) JonnyRotten <jon.gilmour at gmail.com> (2009-07-30--2009-11-17)
+
+===============
+Second System Effect
+  (v) Second System Effect <c/o Murphy> (2007-05-13--2007-05-20)
+
+===============
+Charles
+  (d) Charles <charles.w.walker at gmail.com> (2016-07-11--2017-05-31)
+
+===============
+Gustalff Zibrowski
+  (u) Gustalff Zibrowski <clarkc at cpsc.ucalgary.ca> (<= 1994-04-05--unknown)
+
+===============
+Greycell
+  (u) Greycell <dshannon at ga.com.au> (1996-03--1996-03-21)
+
+===============
+ironiridis
+  (v) ironiridis <ironiridis at gmail.com> (2015-05-01--2015-07-29)
+
+===============
+Alexis
+  (v) scshunt <scshunt at csclub.uwaterloo.ca> (2009-03-07--2011-01-26)
+  (v) scshunt <scshunt at csclub.uwaterloo.ca> (2011-03-03--2013-01-12)
+  (r) scshunt <scshunt at csclub.uwaterloo.ca> (2013-04-01--2013-04-30)
+  (r) scshunt <scshunt at csclub.uwaterloo.ca> (2013-04-30--2013-05-06)
+  (r) scshunt <scshunt at csclub.uwaterloo.ca> (2013-05-09--2013-05-12)
+  (r) scshunt <scshunt at csclub.uwaterloo.ca> (2013-05-13--20 2013-05)
+  (r) scshunt <scshunt at csclub.uwaterloo.ca> (2013-05-26--28 2013-05)
+  (v) scshunt <scshunt at csclub.uwaterloo.ca> (2014-01-02--2014-08-22)
+  (v) scshunt <scshunt at csclub.uwaterloo.ca> (2014-10-15--2015-04-06)
+  (d) scshunt <scshunt at csclub.uwaterloo.ca> (2015-04-23--2015-08-10)
+  (v) Alexis <alercah at gmail.com> (2016-09-14--2017-01-08)
+  (v) Alexis <alercah at gmail.com> (2017-09-27--2018-02-28)
+  (v) Alexis <alercah at gmail.com> (2020-01-06--2020-05-03)
+
+===============
+Taral
+  (v) Taral <taralx at gmail.com> (2007-04-28--2011-02-04)
+
+===============
+Corona
+  (a) Corona <liliumalbum.agora at gmail.com> (2017-11-17--2019-08-24)
+
+===============
+D. Wet
+  (v) D. Wet <d.wet at nomica.nl> (2021-07-27--2021-09-26)
+
+===============
+Ivan Hope CXXVII
+  (k) Ivan Hope CXXVII <ihope127 at gmail.com> (2008-01-30--2008-07-14)
+  (k) Ivan Hope CXXVII <ihope127 at gmail.com> (2008-08-16--2008-10-07)
+
+===============
+sproingie
+  (p) sproingie <cja987 at gmail.com> (2006-12-20--2007-05-31)
+
+===============
+Xanadu
+  (u) Xanadu <A.Bishop at student.anu.edu.au> (1995-10-26--nil)
+
+===============
+Morendil
+  (u) Morendil <laurent at netdive.com> (<= 1995-10-11--<=1997-11-03)
+  (l) Morendil <laurent at netdive.com> (1997-11-03--1999-06-28)
+
+===============
+TAL
+  (u) TAL <kunne at ipno.in2p3.fr> (1995-08--nil)
+
+===============
+Razl
+  (-) Razl <agora at peng.dyndns.org> (2001-02-08--2002-03-25)
+
+===============
+OscarMeyr
+  (a) OscarMeyr <ke3om at verizon.net> (2002-03-04--2009-09-27)
+  (v) OscarMeyr <ben.dov.schultz at gmail.com> (2013-07-09--2014-01-28)
+
+===============
+Teh Cltohed Mna Ni Teh Drak Woh Wtaches Adn Nevre Sasy A Wrod Execpt Wehn Psoessed Yb Dmeons Mcuhly Precocupied
+  (v) Teh Cltohed Mna Ni Teh Drak Woh Wtaches Adn Nevre Sasy A Wrod Execpt Wehn Psoessed Yb Dmeons Mcuhly Precocupied <penguinofthegods at gmail.com> (2008-05-08--2008-06-24)
+
+===============
+Tweedledum
+  (e) Tweedledum <c/o G.> (2012-02-16--2012-02-22)
+  (e) Tweedledum <?> (2013-01-28--2013-04-20)
+
+===============
+Andre
+  (v) Andre <engels at win.tue.nl> (1994-11--1998-01-22)
+  (w) Andre <engels at win.tue.nl> (1998-11-28--1999-02-13)
+  (v) Andre <engels at win.tue.nl> (2000-08-18--2000-12-06)
+
+===============
+Cecilius
+  (v) Cecilius <cecilius at vivace.homelinux.net> (2002-12-04--2003-08-10)
+  (v) Cecilius <organist at gmail.com> (2006-12-22--2007-03-23)
+
+===============
+PNP
+  (d) PNP <perlnomic at nomictools.com> (2008-01-21--2009-06-28)
+
+===============
+Noah
+  (a) Noah <blackbeangirl919 at gmail.com> (2021-01-14--2021-06-30)
+
+===============
+ziproot
+  (w) ziproot <agora.ziproot at erine.email> (2022-09-07--2022-11-07)
+
+===============
+Veggiekeks
+  (d) Veggiekeks <martinjroensch at gmail.com> (2017-05-25--2017-09-15)
+
+===============
+Anneke-Constantine
+  (s) Anneke-Constantine <agora.quarentine at gmail.com> (2023-05-23--now)
+
+===============
+Liberonscien
+  (a) Liberonscien <x1122334455 at Writing.Com> (2014-04-23--2014-07-22)
+      also x1122334455
+
+===============
+snail
+  (s) snail <secretsnail9 at gmail.com> (2022-01-29--now)
+      Previously known as secretsnail
+
+===============
+Elde
+  (u) Elde <elde at hurricane.net> (<= 1997-04-16--1997-10-04)
+
+===============
+P3-P100
+  (w) P3-P100 <c/o comex> (2008-11-06--2008-11-06)
+      Each P deregistered in a Writ of FAGE on the recorded date
+
+===============
+Phlogistique
+  (a) Phlogistique <rnoe.rubinstein at gmail.com> (2012-06-25--2013-05-21)
+  (v) Phlogistique <noe.rubinstein at gmail.com> (2014-01-30--2014-02-28)
+
+===============
+Schrodinger's Cat
+  (a) Schrodinger's Cat <schrodingers.katana at gmail.com> (2008-06-12--2008-10-24)
+  (a) Schrodinger's Cat <schrodingers.katana at gmail.com> (2008-11-17--2009-11-17)
+  (a) Schrodinger's Cat <agora at lesidhetree.com> (2013-09-15--2014-05-06)
+
+===============
+Sherlock
+  (v) Sherlock <jfry77 at yahoo.com> (1998-01-16--1998-05-14)
+  (v) Sherlock <jfry77 at yahoo.com> (2000-01-31--2000-07-25)
+  (v) Sherlock <jfry77 at yahoo.com> (2003-01-29--2005-06-21)
+  (v) Sherlock <jfry77 at yahoo.com> (2006-02-04--2007-05-14)
+
+===============
+Math321
+  (a) Math321 <math321 at ymail.com> (2011-06-28--2011-12-08)
+
+===============
+Bögtil
+  (v) Bögtil <stefan.fjellander at gmail.com> (2020-05-22--2020-06-20)
+
+===============
+S.
+  (u) S. <bookfool2001 at hotmail.com> (2001-05-30--2001-11-17)
+
+===============
+Dave Bowen
+  (u) Dave Bowen <david.bowen at cray.com> (<= 1994-04-05--unknown)
+  (u) Dave Bowen <david.bowen at cray.com> (<=1995-01-10--1996-02-21)
+
+===============
+ais523's imaginary friend
+  (e) ais523's imaginary friend <?> (2012-06-29--2013-04-20)
+
+===============
+JonRock
+  (u) JonRock <> (--1995-10)
+
+===============
+Tristan Bredeweg
+  (d) Tristan Bredeweg <trstnbrdwg0 at gmail.com> (2015-07-28--2015-08-10)
+
+===============
+neil
+  (a) neil <neil at s-z.org> (2001-06-24--2003-03-02)
+
+===============
+Khoyo
+  (a) Khoyo <khoyobegenn at gmail.com> (2013-11-13--2015-07-16)
+
+===============
+FSX
+  (v) FSX <flameshadowxeroshin at gmail.com> (2012-01-09--2012-02-28)
+  (a) FSX <flameshadowxeroshin at gmail.com> (2012-04-03--2014-02-12)
+
+===============
+Marb
+  (a) Marb <marb at shabu.town> (2022-11-27--2023-06-12)
+
+===============
+Number Two
+  (e) Number Two <c/o Murphy> (2012-02-17--2012-06-05)
+
+===============
+Telna
+  (v) Telna <agoratelna at iprimus.com.au> (2021-06-14--2021-10-26)
+      Formerly Telnaior
+  (a) Telnaior <JDGA at iinet.net.au> (2013-10-18--2014-05-06)
+  (a) Telnaior <jdga at iinet.net.au> (2019-01-15--nil)
+  (w) Telnaior <jdga at iinet.net.au> (2019-01-29--2019-01-29)
+  (a) Telnaior <jdga at iinet.net.au> (2019-01-29--2019-09-22)
+  (a) Telnaior <JDGA at iinet.net.au> (2020-03-21--2020-11-29)
+
+===============
+Andy Latto
+  (u) Andy Latto <andyl at harlequin.com> (<= 1994-04-05--nil)
+
+===============
+CreateSource
+  (a) CreateSource <createsource.nomic at gmail.com> (2022-05-14--2022-10-31)
+
+===============
+Sir Toby
+  (a) Sir Toby <jjweston at kenny.sir-toby.com> (2002-02-03--2005-05-20)
+  (a) Sir Toby <jjweston at gmail.com> (2008-09-10--2009-04-19)
+
+===============
+Jumble
+  (a) Jumble <notajumbleofnumbers at gmail.com> (2021-03-21--2021-10-22)
+
+===============
+Sam (disputed)
+  (v) Sam (disputed) <c/o Walker> (2013-08-14--2014-03-26)
+
+===============
+cctoide
+  (a) cctoide <cctoide at gmail.com> (2008-06-30--2008-11-16)
+
+===============
+Eric Scheirer
+  (u) Eric Scheirer <escheire at cim470.mitre.org> (<= 1994-04-05--unknown)
+
+===============
+Susan
+  (u) Susan <> (1995--nil)
+
+===============
+Murphy
+  (v) Murphy <emurphy42 at socal.rr.com> (< 1996-01-23--2007-09-24)
+  (d) Murphy <emurphy42 at zoho.com> (2007-10-27--2017-11-17)
+  (s) Murphy <murphy.agora at gmail.com> (2017-12-17--now)
+      Previously emurphy42 at zoho.com
+
+===============
+jimmy
+  (w) jimmy <bibbapblap2 at gmail.com> (2023-04-09--2023-04-09)
+
+===============
+Schneidster
+  (u) Schneidster <Et3schneid at aol.com> (1999-06-12--2001-09-10)
+
+===============
+Fred
+  (a) Fred <zarathustraincandenza at gmail.com> (2020-07-03--2020-11-20)
+
+===============
+Lucidiot
+  (a) Lucidiot <Lucidot at brainshit.fr> (2020-11-08--2021-06-30)
+
+===============
+BobTHJ
+  (v) BobTHJ <pidgepot at gmail.com> (2007-04-30--2007-10-01)
+  (w) BobTHJ <pidgepot at gmail.com> (2007-11-05--2008-01-16)
+  (a) BobTHJ <pidgepot at gmail.com> (2008-01-17--2010-08-01)
+  (a) BobTHJ <pidgepot at gmail.com> (2010-12-28--2011-06-26)
+  (a) BobTHJ <pidgepot at gmail.com> (2011-07-13--2011-12-08)
+  (a) BobTHJ <pidgepot at gmail.com> (2012-06-03--2013-04-07)
+
+===============
+Primo Corporation
+  (d) Primo Corporation <c/o BobTHJ> (2007-05-11--2007-10-23)
+
+===============
+Arufonsu
+  (v) Arufonsu <swettt at mail.gvsu.edu> (2013-12-15--29 2013-12)
+
+===============
+sukil
+  (a) sukil <sukiletxe+agora at gmail.com> (2020-02-12--2020-11-29)
+
+===============
+Sgeo
+  (a) Sgeo <sgeoster at gmail.com> (2008-06-27--2011-07-31)
+  (a) Sgeo <sgeoster at gmail.com> (2011-10-21--2014-02-12)
+  (a) Sgeo <sgeoster at gmail.com> (2022-01-28--2022-06-04)
+
+===============
+Wes
+  (u) Wes <wesc at ichips.intel.com> (<= 1994-04-05--nil)
+  (v) Wes <wesc at antitribu.com> (<= 1995-11-08--1996-02-21)
+  (u) Wes <gecko at magika.com> (1996-03-06--nil)
+  (u) Wes <wesc at antitribu.com> (1999-05-18--2001-09-07)
+  (a) Wes <netgecko99 at yahoo.com> (2004-04-12--2004-11-14)
+  (a) Wes <wesc at antitribu.com> (2013-01-29--2014-02-12)
+
+===============
+ChrisM
+  (v) ChrisM <cmonsour at Princeton.EDU> (<= 1995-10-23--1997-11-11)
+
+===============
+pTang
+  (a) pTang <nau at treyarch.com> (2000-09-21--2002-05-12)
+
+===============
+Pat
+  (a) Pat <zettels_traum at tutanota.com> (2021-07-23--2022-02-22)
+
+===============
+Solider-*-*
+  (e) Solider-*-* <c/o Pavitra> (2013-01-16--16 2013-01)
+      Many entities; effectiveness disputed.
+
+===============
+Crito
+  (v) Crito <dalbertz at mrb.state.ma.us> (1997-02-19--2002-05-29)
+
+===============
+favor
+  (v) favor <chess at watson.ibm.com> (<= 1995-11-7--1997-06-12)
+
+===============
+cmealerjr
+  (a) cmealerjr <cdm014 at gmail.com> (2009-01-26--2009-06-05)
+
+===============
+gwen
+  (a) gwen <quazienomic at gmail.com> (2009-05-06--2009-09-27)
+
+===============
+Ienpw III
+  (a) Ienpw III <james.m.beirne at gmail.com> (2009-08-04--2010-06-15)
+  (a) Ienpw III <james.m.beirne at gmail.com> (2010-10-02--2011-03-08)
+  (a) Ienpw III <james.m.beirne at gmail.com> (2013-05-14--2014-02-12)
+  (d) Ienpw III <james.m.beirne at gmail.com> (2014-10-08--2015-08-10)
+  (d) Ienpw III <james.m.beirne at gmail.com> (2017-05-21--2017-11-16)
+
+===============
+Human Point Twelve
+  (p) Human Point Twelve <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Novalis
+  (u) Novalis <turnerd at reed.edu> (2000-02-14--2001-09-10)
+
+===============
+The Colonel
+  (v) The Colonel <blafard at uclink4.berkeley.edu> (1999-08-07--1999-08-08)
+
+===============
+Janet
+  (s) Janet <janet.agora at unspecified.systems> (2019-06-02--now)
+      Previously known as Jason. Previous email <jason.e.cobb at gmail.com>
+
+===============
+天火狐
+  (a) 天火狐 <draconicdarkness at gmail.com> (2016-11-06--2019-02-03)
+      Alternative/transliteration: Tenhigitsune
+
+===============
+modulus
+  (a) modulus <david at miradoiro.com> (2009-04-22--2009-08-24)
+
+===============
+Billy Pilgrim
+  (a) Billy Pilgrim <bad.leprechaun at gmail.com> (2008-10-22--2009-06-05)
+
+===============
+pokes
+  (a) pokes <pokes at botnoise.org> (2017-12-11--2019-02-03)
+
+===============
+GreyKnight
+  (p) GreyKnight <greyknight3 at yahoo.com> (2006-09-06--2007-05-31)
+
+===============
+Walker
+  (v) Walker <charles.w.walker at googlemail.com> (2009-04-25--2009-10-24)
+  (v) Walker <charles.w.walker at googlemail.com> (2009-12-05--2010-01-30)
+  (a) Walker <charles.w.walker at gmail.com> (2011-03-19--2014-02-12)
+  (a) Walker <charles.w.walker at gmail.com> (2014-03-26--2014-07-22)
+  (a) Walker <charles.w.walker at gmail.com> (2019-06-02--2020-04-17)
+
+===============
+Thimblefox
+  (a) Thimblefox <brianblomlie at icloud.com> (2014-02-14--2014-05-06)
+
+===============
+Ziggy
+  (v) Ziggy <me at davidglasser.net> (2001-01-14--2001-07-09)
+
+===============
+Ouri
+  (a) Ouri <ouri.poupko at gmail.com> (2018-04-03--2018-10-16)
+
+===============
+Chuck
+  (a) Chuck <games_na at chuckcarroll.org> (1993-09-01--2001-06-08)
+
+===============
+AFO
+  (u) AFO <c/o Murphy> (2007-09-17--2009-02-11)
+
+===============
+Siege
+  (a) Siege <thesiege at gmail.com> (2008-11-26--2009-11-14)
+
+===============
+Palnatoke
+  (v) Palnatoke <palnatoke at get2net.dk> (1999-07-27--2001-03-27)
+
+===============
+Ozymandias
+  (a) Ozymandias <ozymandias.haynes at gmail.com> (2012-06-28--2013-04-07)
+
+===============
+blob
+  (s) blob <cearguinzoni1 at gmail.com> (2023-05-18--now)
+      Not the same blob as that other one
+
+===============
+Human Point Five
+  (p) Human Point Five <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Kate
+  (a) twg <me at timon.red> (2018-05-24--2020-12-27)
+  (s) Kate <kate.agora at katherina.rocks> (2023-08-21--now)
+
+===============
+thespyguy
+  (a) thespyguy <thespyguy at gmail.com> (2009-05-19--2009-09-27)
+
+===============
+Max Schutz
+  (a) Max Schutz <maxschutz777 at gmail.com> (2012-11-05--2014-02-12)
+
+===============
+Waggie
+  (v) Waggie <dgwagner at math.uwaterloo.ca> (<= 1994-04-05--nil)
+
+===============
+Turiski
+  (a) Turiski <turiski.nomic at gmail.com> (2011-04-20--2011-12-08)
+  (v) Turiski <turiski.nomic at gmail.com> (2013-07-26--30 2013-07)
+
+===============
+Pascal
+  (u) Pascal <jreed at waun.tdsnet.com> (1995--1995-08)
+  (u) Pascal <jreed at waun.tdsnet.com> (1995-11-15--1996-01-21)
+
+===============
+William Eisenburg
+  (a) William Eisenburg <william.eisenberg at gmail.com> (2013-08-14--2014-05-06)
+
+===============
+Human Point Ten
+  (p) Human Point Ten <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Iammars
+  (a) Iammars <iammars21 at gmail.com> (2007-12-09--2008-10-02)
+
+===============
+the Astrally Forged
+  (a) the Astrally Forged <irc://libera.chat/AstrallyForged,isnick> (2022-10-14--2023-02-21)
+      Also @moonbolt@mst3k.interlinked.me on Fediverse and mailto://theastrallyforged@disroot.org
+
+===============
+Human Point Fourteen
+  (p) Human Point Fourteen <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+orb
+  (a) orb <hereuplay at gmail.com> (2022-10-05--2023-01-20)
+
+===============
+Human Point Eight
+  (p) Human Point Eight <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Baron von Vaderham
+  (a) Baron von Vaderham <davidseeber at outlook.com> (2019-02-04--2020-11-29)
+
+===============
+Matt
+  (u) Matt <pardo at gibbs.oit.unc.edu> (<= 1994-04-05--nil)
+
+===============
+SeventeenMachine
+  (a) SeventeenMachine <17sagoranomicinbox at gmail.com> (2021-04-17--2022-02-22)
+
+===============
+Caste8a
+  (d) Caste8a <c/o C-walker> (2009-06-18--2009-06-18)
+      Questioned
+  (d) Caste8a <c/o C-walker?> (2009-06-18--2009-07-10)
+      Questioned
+
+===============
+innalienableWright
+  (s) innalienableWright <inalienablewright at mailfence.com> (2023-05-16--now)
+
+===============
+Caste8f
+  (d) Caste8f <c/o C-walker> (2009-06-18--2009-06-18)
+      Questioned
+  (d) Caste8f <c/o C-walker?> (2009-06-18--2009-07-10)
+      Questioned
+
+===============
+The President
+  (v) The President <c/o the Speaker> (2011-03-03 or 2011-07-31--2012-05-13)
+
+===============
+Lindar
+  (a) Lindar <lindarthebard at gmail.com> (2013-07-08--2014-02-12)
+
+===============
+root
+  (v) root <kellyia at udel.edu> (2001-05-13--2006-12-18)
+  (v) root <ian.g.kelly at gmail.com> (2007-05-22--2009-01-26)
+  (v) root <ian.g.kelly at gmail.com> (2009-03-27--2009-05-26)
+  (v) root <ian.g.kelly at gmail.com> (2011-06-29--2011-06-29)
+
+===============
+Tekneek
+  (d) Tekneek <tekgora at theglycerintekneek.com2015-06-12> (2017-05-31--nil)
+
+===============
+Tarhalindur
+  (a) Tarhalindur <ahzin23 at icstudents.org> (2018-10-31--2019-07-13)
+
+===============
+Jason2
+  (u) Jason2 <> (1995--nil)
+
+===============
+Agora's Child
+  (d) Agora's Child <agoras-child at googlegroups.com> (2007-12-03--2008-01-02)
+
+===============
+Nameless
+  (v) Nameless <pr76952a at hotmail.com> (2009-04-22--2009-05-13)
+
+===============
+babelian
+  (d) babelian <kumarraja.ajay at gmail.com> (2017-07-29--2017-09-15)
+
+===============
+Pakaran
+  (l) Pakaran <windrunner at gmail.com> (2002-10-04--2005-04-07)
+
+===============
+WALRUS
+  (d) WALRUS <c/o pikhq> (2007-12-20--2008-01-02)
+
+===============
+Yoz420
+  (v) Yoz420 <tlifschitz at empirix.com> (2001-03-08--2001-06-26)
+
+===============
+SCHWA
+  (d) SCHWA <c/o Warrigal?> (2009-06-28--2009-11-14)
+
+===============
+Vlad
+  (a?) Vlad <c647100 at showme.missouri.edu> (1995-11-14--1996-01-01)
+  (u) Vlad <c647100 at showme.missouri.edu> (1996-01--1996-02-21)
+  (v) Vlad <c647100 at showme.missouri.edu> (1999-01-28--1999-06-20)
+
+===============
+Warrigal, the
+  (d) Warrigal, the <tannerswett at gmail.com> (2015-04-25--2017-05-31)
+      previously Alfonso Machiavelli, the Warrigal
+
+===============
+Droowl
+  (a) Droowl <droowl at gmail.com> (2011-06-04--2011-12-08)
+
+===============
+Tiger Jr.
+  (d) Tiger Jr. <c/o Tiger> (2009-06-18--2009-06-18)
+      Questioned
+  (d) Tiger Jr. <c/o Tiger?> (2009-06-18--2009-07-10)
+      Questioned
+
+===============
+Hooloovoo
+  (u) Hooloovoo <mhui421 at hotmail.com> (2001-02-22--2001-10-08)
+
+===============
+FKA441344
+  (a) FKA441344 <441344 at gmail.com> (2012-01-13--2013-04-07)
+  (a) FKA441344 <441344 at gmail.com> (2013-07-02--2014-02-12)
+
+===============
+lee
+  (v) lee <lee at pyrzqxgl.org> (1998-07-18--1999-02-08)
+  (u) lee <lee at pyrzqxgl.org> (1999-06-04--2000-09-02)
+  (u) lee <lee at pyrzqxgl.org> (2000-12-13--2001-07-08)
+
+===============
+Quazie
+  (p) Quazie <quazienomic at gmail.com> (2005-02-15--2007-10-18)
+  (a) Quazie <quazienomic at gmail.com> (2008-06-05--2009-01-12)
+  (a) Quazie <quazienomic at gmail.com> (2009-04-27--2010-01-26)
+  (a) Quazie <quazienomic at gmail.com> (2011-04-12--2011-07-31)
+  (a) Quazie <quazienomic at gmail.com> (2017-04-15--2018-10-16)
+
+===============
+w1n5t0n
+  (a) w1n5t0n <chuckles11489 at gmail.com> (2008-11-30--2009-05-17)
+
+===============
+4st
+  (r) 4st <notorious4st at gmail.com> (2022-06-25--2022-10-11)
+  (s) 4st <4st.nomic@gmail.com> (2023-01-27--now)
+
+===============
+Ghost
+  (u) Ghost <labrown at dg-rtp.dg.com> (<= 1996-02-21--1996-03-25)
+  (v) Ghost <spambait3 at yahoo.com> (2012-03-31--2012-03-31)
+
+===============
+Keba
+  (a) Keba <agora at kebay.org> (2010-08-12--2011-03-08)
+
+===============
+Riail
+  (v) Riail <cpatti at gmail.com> (2004-05-19--2005-07-29)
+
+===============
+doopy
+  (a) doopy <groberts80906 at gmail.com> (2008-06-15--2008-11-16)
+
+===============
+The Diplomat
+  (e) The Diplomat <c/o Blognomic (blognomic.com)> (2012-03-31--2012-06-05)
+
+===============
+People's Bank of Agora
+  (a) People's Bank of Agora <c/o PNP?> (2008-10-14--2009-11-14)
+
+===============
+Warrigal
+  (v) Warrigal <ihope127+w at gmail.com> (2008-11-06--2009-02-13)
+  (v) Warrigal <ihope127+w at gmail.com> (2009-03-16--2009-07-06)
+  (v) Warrigal <ihope127+ at gmail.com> (2009-08-06--2009-08-06)
+  (w) Warrigal <tannerswett at gmail.com> (2020-01-24--2020-04-23)
+
+===============
+Vanyel
+  (a) Vanyel <dpb at cs.brown.edu> (<= 1996-02-21--1997-12-05)
+
+===============
+Cainech
+  (a) Cainech <cainech at hotmail.com> (2004-02-09--2004-06-19)
+
+===============
+zeckalpha
+  (a) zeckalpha <zeckalpha at gmail.com> (2009-05-30--2009-11-14)
+
+===============
+Elysion
+  (u) Elysion <elysion at mindspring.com> (1999-02-23--2001-11-01)
+  (v) Elysion <boehmejo at msu.edu> (2004-02-10--2004-09-09)
+  (a) Elysion <boehmejo at msu.edu> (2008-10-20--2009-04-07)
+
+===============
+P1
+  (w) P1 <c/o comex> (2008-11-05--2008-11-05)
+
+===============
+Aris
+  (w) Aspen <thoughtsoflifeandlight17 at gmail.com> (2016-09-13--2022-04-08)
+      Formerly Aris
+  (s) Aris <thoughtsoflifeandlight17 at gmail.com> (2022-11-07--now)
+
+===============
+Trapdoorspyder
+  (a) Trapdoorspyder <tdsagora at gmail.com> (2021-09-25--2022-04-08)
+
+===============
+Golem-1-50
+  (v) Golem-1-50 <c/o FKA441344> (2012-03-04--2012-03-05)
+
+===============
+Philomory
+  (a) Philomory <philomory at gmail.com> (2013-10-18--2014-05-06)
+
+===============
+the Cayman Islands
+  (e) the Cayman Islands <c/o G.> (2012-05-04--2013-01-22)
+
+===============
+wutold
+  (u) wutold <> (1995-10--1995-10)
+
+===============
+Our Lady of Perpetual Responsibility
+  (e) Our Lady of Perpetual Responsibility <?> (2012-06-30--2013-01-22)
+
+===============
+nix
+  (v) nch <nichdel at gmail.com> (2019-07-14--2019-07-25)
+      known as nichdel, nch, then later (in 2020) nix
+  (a) nichdel <nichdel at gmail.com> (2013-08-14--2014-05-06)
+  (v) nichdel <nichdel at gmail.com> (2014-10-15--2015-04-06)
+  (v) nichdel <nichdel at gmail.com> (2015-12-01--2017-05-29)
+  (a) nichdel <nichdel at gmail.com> (2017-06-29--2019-05-24)
+      known as nichdel, nch, then later (in 2020) nix
+  (w) nix <nixagora at protonmail.com> (2019-10-18--2022-08-29)
+  (w) nix <nixagora at protonmail.com> (2022-08-29--2019-10-18)
+  (d) nix <agora at nullarch.com> (2022-10-09--2023-06-13)
+  (s) nix <agora@nullarch.com> (2023-10-12--now)
+
+===============
+Jtael
+  (u) Jtael <mhough at leland.stanford.edu> (<= 1996-02-21--1996-07-24)
+
+===============
+Evantine
+  (u) Evantine <gordonhogenson at hotmail.com> (2001-02-09--2001-11-01)
+
+===============
+Scapegoat
+  (v) Scapegoat <c/o the number 441,344> (2012-06-08--2012-08-06)
+
+===============
+Big Brother
+  (d) Big Brother <c/o comex> (2007-09-17--2008-01-02)
+      (Big Brother's registration status was UNDETERMINED per CFJ 1744)
+
+===============
+Andon
+  (a) Andon <aozeba at gmail.com> (2010-03-01--2010-09-07)
+
+===============
+Steve
+  (a) Steve <gardner at sng.its.monash.edu.au> (1994-07-01--2004-06-19)
+
+===============
+tmanthe2nd
+  (d) tmanthe2nd <trstnbrdwg0 at gmail.com> (2017-05-13--2017-08-27)
+
+===============
+Syllepsis
+  (a) Syllepsis <agora at syllepsis.org> (2001-02-05--2002-09-30)
+
+===============
+Bayushi
+  (a) Bayushi <thelas.staloras at gmail.com> (2013-10-19--2015-07-16)
+  (d) Bayushi <thelas.staloras at gmail.com> (2017-06-29--2017-11-16)
+
+===============
+justine sells
+  (a) justine sells <dudebabe3 at gmail.com> (2012-06-18--2013-04-07)
+
+===============
+BuckyBot
+  (e) BuckyBot <c/o Bucky spambait3 at yahoo.com> (2012-03-31--2013-04-20)
+
+===============
+Antimatter
+  (v) Antimatter <rmorganl at fred.fhcrc.org> (1998-03-5--1998-10-31)
+
+===============
+Offhanded
+  (a) Offhanded <clarion.rain at gmail.com> (2008-04-29--2008-10-02)
+
+===============
+Manu
+  (a) Manu <pacu at sympatico.ca> (2003-03-14--2003-08-20)
+  (p) Manu <sensoz at gmail.com> (2004-12-16--2007-10-18)
+  (a) Manu <sensoz at gmail.com> (2009-05-01--2009-09-27)
+
+
+
+===============================================================================
+
+-- 
+juan
+Registrar, Absurdor

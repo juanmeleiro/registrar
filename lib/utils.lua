@@ -81,3 +81,31 @@ function table.query(t, q)
    end
    return nil
 end
+
+function table.filter(t, q)
+	local res = {}
+	for _,i in ipairs(t) do
+		if q(i) then
+			table.insert(res, i)
+		end
+	end
+	return res
+end
+
+function format_event(e)
+	local formats = {
+		deactivation = "Deactivated {who}",
+		deregister = "Deregistered {who}",
+		monthly = "Monthly report",
+		readdress = "Changed {who}'s address",
+		register = "Registered {who}",
+		rename = "Changed {whither}'s name from '{who}'",
+		weekly = "Weekly report",
+		activation = "Activated {who}"
+	}
+	die(not formats[e.what], string.format("No format for '%s'", e.what))
+	return string.format("* %s %s\n",
+		os.date("%Y-%m-%d %H:%M", e.when),
+		format(formats[e.what], e)
+	)
+end

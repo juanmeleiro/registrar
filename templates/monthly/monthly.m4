@@ -11,7 +11,7 @@ dhl
 `Registrar: juan              Arrivals and Departures                 'YEAR-MONTH-DAY
 dhl
 
-module(NEWS, templates/monthly/news.m4)
+module(EVENTS, templates/monthly/events.m4)
 module(EDITORIAL, templates/monthly/editorial.m4)
 module(WRITS OF FAGE, templates/monthly/writs.m4)
 module(HISTORY, templates/monthly/history.m4)

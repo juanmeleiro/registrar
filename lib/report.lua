@@ -4,8 +4,23 @@ local _M = {}
 
 local fns = {
 	tmp = ".tmp",
-	history = ".hist"
+	history = ".hist",
+	changes = ".changes"
 }
+
+function sincelast(log, what)
+	local all = table.filter(log, function (e) return e.what == what end)
+	table.sort(all, function (e0, e1) return e0.when >= e1.when end)
+	local last = all[1].when
+	local since = table.filter(log, function (e) return e.when >= last end)
+	return since
+end
+
+function format_events(f, es)
+	for _,e in ipairs(es) do
+		f:write(format_event(e))
+	end
+end
 
 function _M.weekly(args, players, log)
 	defs = {
@@ -36,15 +51,17 @@ function _M.weekly(args, players, log)
 end
 
 function _M.monthly(args, players, log)
-	local hist = io.open(fns.history, "w")
 
 	defs = {
 		YEAR = os.date("%Y"),
 		MONTH = os.date("%m"),
 		DAY = os.date("%d"),
 		MAILDATE = os.date("%a, %d %b %Y %T %z"),
-		PLAYERS = string.format("include(%s)", fns.history)
+		PLAYERS = string.format("include(%s)", fns.history),
+		CHANGES = string.format("include(%s)", fns.changes)
 	}
+
+	local hist = io.open(fns.history, "w")
 	for n,h in pairs(players) do
 		hist:write("===============\n"..n.."\n")
 		for _,e in ipairs(h) do
@@ -61,6 +78,10 @@ function _M.monthly(args, players, log)
 		hist:write("\n")
 	end
 	hist:close()
+
+	local changes = io.open(fns.changes, "w")
+	format_events(changes, sincelast(log, "monthly"))
+	changes:close()
 
 	os.execute(string.format("m4 %s templates/monthly/monthly.m4 > %s", m4flags(defs), fns.tmp))
 
@@ -81,6 +102,7 @@ function _M.monthly(args, players, log)
 		end
 	end
 	os.remove(fns.history)
+	os.remove(fns.changes)
 end
 
 return _M

@@ -1,6 +1,6 @@
 Active players: esyscmd(jq -r '[.[][] | select(.reason == "s")] | "\([.[] | select(.active == true)] | length)/\(length)"' players.json)dnl
 
-esyscmd(jq -r '[.[][] | select(.reason == "s")] | sort_by(.active | not)[] | "\(if .active then "+" else "-" end)\t\(.name)\t\(.registration)\t\(.latest // "    \"     ")\t\(.contact)"' players.json | columnate -n a Player Registration Latest Contact)dnl
+esyscmd(lib/playerlist.sh)dnl
 
 WARNING: Player name “blob” refers to the currently registered one,
 who became a player on 2023-05-18, and not blob the player from many

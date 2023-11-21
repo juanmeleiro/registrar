@@ -10,7 +10,7 @@ local fns = {
 
 function sincelast(log, what)
 	local all = table.filter(log, function (e) return e.what == what end)
-	table.sort(all, function (e0, e1) return e0.when >= e1.when end)
+	table.sort(all, function (e0, e1) return e0.when > e1.when end)
 	local last = all[1].when
 	local since = table.filter(log, function (e) return e.when >= last end)
 	return since
@@ -28,7 +28,12 @@ function _M.weekly(args, players, log)
 		MONTH = os.date("%m"),
 		DAY = os.date("%d"),
 		MAILDATE = os.date("%a, %d %b %Y %T %z"),
+		CHANGES = string.format("include(%s)", fns.changes)
 	}
+
+	local changes = io.open(fns.changes, "w")
+	format_events(changes, sincelast(log, "weekly"))
+	changes:close()
 
 	os.execute(string.format("m4 %s templates/weekly/weekly.m4 > %s", m4flags(defs), fns.tmp))
 	if args.p then

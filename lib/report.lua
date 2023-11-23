@@ -13,7 +13,7 @@ function sincelast(log, what)
 	table.sort(all, function (e0, e1) return e0.when > e1.when end)
 	local last = all[1].when
 	local since = table.filter(log, function (e) return e.when >= last end)
-	return since
+	return since, last
 end
 
 function format_events(f, es)
@@ -32,8 +32,10 @@ function _M.weekly(args, players, log)
 	}
 
 	local changes = io.open(fns.changes, "w")
-	format_events(changes, sincelast(log, "weekly"))
+	local since, last = sincelast(log, "weekly")
+	format_events(changes, since)
 	changes:close()
+	os.execute(string.format("git log --oneline --since=%s >> %s", os.date("%Y-%m-%dT%H:%M", last), fns.changes))
 
 	os.execute(string.format("m4 %s templates/weekly/weekly.m4 > %s", m4flags(defs), fns.tmp))
 	if args.p then
@@ -53,6 +55,7 @@ function _M.weekly(args, players, log)
 			os.remove(fns.tmp)
 		end
 	end
+	os.remove(fns.changes)
 end
 
 function _M.monthly(args, players, log)
@@ -85,8 +88,10 @@ function _M.monthly(args, players, log)
 	hist:close()
 
 	local changes = io.open(fns.changes, "w")
+	local since, last = sincelast(log, "monthly")
 	format_events(changes, sincelast(log, "monthly"))
 	changes:close()
+	os.execute(string.format("git log --oneline --since=%s >> %s", os.date("%Y-%m-%dT%H:%M", last), fns.changes))
 
 	os.execute(string.format("m4 %s templates/monthly/monthly.m4 > %s", m4flags(defs), fns.tmp))
 

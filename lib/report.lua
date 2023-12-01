@@ -69,8 +69,15 @@ function _M.monthly(args, players, log)
 		CHANGES = string.format("include(%s)", fns.changes)
 	}
 
+	local names = {}
+	for n,_ in pairs(players) do
+		table.insert(names, n)
+	end
+	table.sort(names)
+
 	local hist = io.open(fns.history, "w")
-	for n,h in pairs(players) do
+	for i,n in ipairs(names) do
+		local h = players[n]
 		hist:write("===============\n"..n.."\n")
 		for _,e in ipairs(h) do
 			if e.reason == "s" then

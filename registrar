@@ -34,6 +34,7 @@ local register_cmd = parser:command("register", "Register player")
 register_cmd:argument("name", "The name of the player")
 register_cmd:argument("contact", "URL (or plain email address) to contact player")
 register_cmd:argument("date", "Time stamp of registration (seconds after epoch)")
+	:convert(tonumber)
 register_cmd:option("-m", "Message ID of registration (without 'message://' prefix)")
 
 local birthday_cmd = parser:command("birthday", "Announce player's birthday")
@@ -60,6 +61,7 @@ local readdress_cmd = parser:command("readdress", "Change player's address")
 readdress_cmd:argument("who", "Player to be readdressed")
 readdress_cmd:argument("whither", "New address")
 readdress_cmd:argument("when", "When the message was received")
+	:convert(tonumber)
 readdress_cmd:option("-m", "Message ID of readdressing (without 'message://' prefix)")
 
 -- Deserialize

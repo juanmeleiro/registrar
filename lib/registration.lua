@@ -6,13 +6,13 @@ _M = {}
 function _M.deregister(args, players, log)
    p = players[args.name]
    if not p then
-	  error(string.format("There's no player '%s'.", args.name))
+	  die(string.format("There's no player '%s'.", args.name))
    end
 
-   h = table.query(p, function (c) return c.active end)
+   h = table.query(p, function (c) return not c.active end)
 
    if not h then
-	  error(string.format("Player '%s' is not active.", args.name))
+	  die(string.format("Player '%s' is active.", args.name))
    end
 
    ev = {when = args.date,

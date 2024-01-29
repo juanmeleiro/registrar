@@ -1,0 +1,154 @@
+Date: Mon, 29 Jan 2024 14:06:11 -0300
+From: juan <juan@juanmeleiro.mat.br>
+To: agora-official@agoranomic.org
+Subject: [Registrar] Weekly report
+Message-ID: <pl64nge3opvfjfax2337vhvwliwoyqfpobxzh7vqyb5jmf23m7@cyxg7svnumtk>
+Mail-Followup-To: agora-official@agoranomic.org
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-Mutt-Resume-Draft: 1
+
+===============================================================================
+Registrar: juan              The Agoran Directory                    2024-01-29
+===============================================================================
+
+-------------------------------------------------------------------------------
+NEWS
+
+We have two new players! Welcome!
+
+* 2024-01-24 20:51 Registered Maloney
+* 2024-01-28 20:24 Registered mcdg
+
+Plus, former player, Originator, and Grand Hero of Agora Nomic has
+requested eir email to be changed to <carroll.charles.e@gmail.com>. This
+will be reflected in the next Monthly report.
+
+-------------------------------------------------------------------------------
+PLAYERS
+
+Active players: 25/25
+
+a Player             Registration Latest     Contact                            
+- ------------------ ------------ ---------- ---------------------------------- 
++ omd                2011-02-03   2023-12-06 comexk@gmail.com                   
++ Gaelan             2017-05-15   2023-06-06 gbs@canishe.com                    
++ Murphy             2017-12-17   2021-02-03 murphy.agora@gmail.com             
++ Janet              2019-06-02   2021-02-03 janet.agora@unspecified.systems    
++ cuddlybanana       2021-03-16   2023-01-16 rose.strong42@gmail.com            
++ ais523             2021-06-08       "      callforjudgement@yahoo.co.uk       
++ snail              2022-01-29       "      secretsnail9@gmail.com             
++ juan               2022-03-14       "      juan@juanmeleiro.mat.br            
++ Aris               2022-11-07       "      thoughtsoflifeandlight17@gmail.com 
++ 4st                2023-01-27       "      4st.nomic@gmail.com                
++ Yachay Wayllukuq   2023-03-16   2023-10-28 yachaywayllukuq@gmail.com          
++ blob               2023-05-18       "      cearguinzoni1@gmail.com            
++ Anneke-Constantine 2023-05-23       "      agora.quarentine@gmail.com         
++ kiako              2023-08-05       "      its.kiako@gmail.com                
++ Kate               2023-08-21       "      kate.agora@katherina.rocks         
++ Zipzap             2023-10-04   2023-10-04 itszipzap@gmail.com                
++ nix                2023-10-12   2023-10-12 agora@nullarch.com                 
++ Crystalizedmire    2023-11-10   2023-11-10 awwellth@gmail.com                 
++ Goren Barak        2023-11-18   2023-11-18 gorenbk@riseup.net                 
++ Ben                2023-11-26   2023-11-26 amdwagora@gmail.com                
++ Jimmy              2023-12-03   2023-12-03 returnofjimmy@gmail.com            
++ Liz Wake           2023-12-10   2023-12-10 vagueposted@gmail.com              
++ Mercury            2024-01-10   2024-01-10 mercuryagora1@gmail.com            
++ Maloney            2024-01-24   2024-01-24 maloneyagora@gmail.com             
++ mcdg               2024-01-28   2024-01-28 mcdelgaudio@outlook.it             
+
+WARNING: Player name “blob” refers to the currently registered one,
+who became a player on 2023-05-18, and not blob the player from many
+years ago. They are different people, to the best of my judgment. This
+warning will remain necessary pending decision on how to handle clashing
+player names. Do not complain; comply.
+
+Conventions:
+* Player: Latest player name.
+* Registered: Date of latest registration.
+* Latest: Date of latest change in Activity.
+* Contact: URI for eir prefered contact method
+
+Legend for symbols:
+a Activity
++ Active
+- Inactive
+" Same value as cell to the left
+
+
+-------------------------------------------------------------------------------
+FORA
+
+Publicity    Location or description                    Typical use
+---------    -----------------------                    -----------
+Public       agora-official at agoranomic.org           official reports
+Public       agora-business at agoranomic.org           other business
+Discussion   agora-discussion at agoranomic.org         discussion
+Discussion   https://discord.gg/JCC6YGc                 discussion
+Public       agoranomic at groups.io *                  backup
+Foreign      agora at listserver.tue.nl                 backup
+Foreign      irc://irc.libera.chat:6667/##nomic         discussion
+Foreign      matrix:r/#agoranomiccommunity:mozilla.org  discussion
+
+* The forum is specifically just that email list.
+
+Subscribe or unsubscribe from main lists:
+
+    http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+Subscribe or unsubscribe from tue.nl backup list:
+
+    http://listserver.tue.nl/mailman/listinfo/agora
+
+The IRC channel does not require subscription; set your IRC client to
+server irc.libera.chat, port 6667, channel ##nomic.
+
+You can subscribe to GIO by messaging the following email
+
+    main+subscribe at agoranomic.groups.io
+
+There is also a Matrix foreign forum:
+
+    https://matrix.to/#/#agoranomiccommunity:mozilla.org
+    matrix:r/#agoranomiccommunity:mozilla.org?via=mozilla.org&via=matrix.org&via=gharbeia.net
+    matrix:roomid/gRbsbOgIxyniozlrXO:mozilla.org?via=mozilla.org&via=matrix.org&via=gharbeia.net
+
+(Hopefully one of the links should work)
+
+-------------------------------------------------------------------------------
+BANNED PEOPLE
+
+-------------------
+Person  Date of ban
+------  -----------
+Madrid  2022-09-11
+-------------------
+
+-------------------------------------------------------------------------------
+INTERNAL
+
+Regarding what information is included in the report and why.
+
+- List of players (R2139)
+- List of players' contact information (R2139)
+- Date of latest registration (R2139)
+- Fora (R2139)
+- Date of latest activation (convenience for deregistrations as per R2646)
+- Number of players (petition by nix on 2023-02-23)
+- Banned people (R2679)
+
+-------------------------------------------------------------------------------
+EDITORIAL
+
+For any corrections,
+For any suggestions or complaints of form,
+Please contact the Registrar.
+
+
+===============================================================================
+
+-- 
+juan
+Registrar, Absurdor

@@ -9,7 +9,7 @@ function _M.deregister(args, players, log)
 	  die(string.format("There's no player '%s'.", args.name))
    end
 
-   h = table.query(p, function (c) return not c.active end)
+   h = table.query(p.history, function (c) return not c.active end)
 
    if not h then
 	  die(string.format("Player '%s' is active.", args.name))
@@ -59,7 +59,7 @@ function _M.register(args, players, log, ts)
 			end
 		end
 	else
-		players[args.name] = {}
+		players[args.name] = { history = {} }
 	end
 	local reg = {
 		name = args.name,
@@ -77,7 +77,7 @@ function _M.register(args, players, log, ts)
 		whence = args.contact
 	}
 	if not args.p then
-		table.insert(players[args.name], reg)
+		table.insert(players[args.name].history, reg)
 		table.insert(log, ev)
 	else
 		io.write(pprint.pprint(reg))
@@ -87,7 +87,7 @@ end
 
 function _M.rename(args, players, log)
 	die(not players[args.who], string.format("No player '%s'.", args.who))
-	local h = table.query(players[args.who], function (h) return h.reason == "s" end)
+	local h = table.query(players[args.who].history, function (h) return h.reason == "s" end)
 	die(not h, "Player is not registered.")
 	h.name = args.whither
 	players[args.whither] = players[args.who]
@@ -97,9 +97,12 @@ end
 
 function _M.readdress(args, players, log)
 	die(not players[args.who], string.format("No player '%s'.", args.who))
-	local h = table.query(players[args.who], function (h) return h.reason == "s" end)
-	die(not h, "Player is not registered.")
-	h.contact = args.whither
+	local h = table.query(players[args.who].history, function (h) return h.reason == "s" end)
+	if h then
+		h.contact = args.whither
+	else
+		players[args.who].contact = args.whither
+	end
 	table.insert(log, {what="readdress", who=args.who, whither=args.whither, where=args.m, when=args.when})
 end
 

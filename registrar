@@ -16,59 +16,55 @@ parser:flag("-p", "Pretend: only show what would be done")
 
 parser:command_target("command")
 
-parser:command("monthly", "Generate and send registrar monthly report")
-local weekly_cmd = parser:command("weekly", "Generate and send registrar weekly report")
-weekly_cmd:flag("-p", "Pretend: generate and print only")
+local cmd = {}
 
-local birthday_cmd = parser:command("birthday", "Announce a player's birthday")
-birthday_cmd:flag("-p", "Pretent: generate and print only.")
-birthday_cmd:argument("name", "The name of the player")
-
-local deregister_cmd = parser:command("deregister", "Deregister player")
-deregister_cmd:argument("name", "The name of the player")
-deregister_cmd:argument("date", "Time stamp of deregistration (seconds after epoch)")
-   :convert(tonumber)
-deregister_cmd:option("-m", "Message ID of deregistration (without 'message://' prefix)")
-
-local register_cmd = parser:command("register", "Register player")
-register_cmd:argument("name", "The name of the player")
-register_cmd:argument("contact", "URL (or plain email address) to contact player")
-register_cmd:argument("date", "Time stamp of registration (seconds after epoch)")
-	:convert(tonumber)
-register_cmd:option("-m", "Message ID of registration (without 'message://' prefix)")
-
-local birthday_cmd = parser:command("birthday", "Announce player's birthday")
-birthday_cmd:argument("name", "The name of the player")
-
-local activate_cmd = parser:command("activate", "Activate player")
-activate_cmd:argument("name", "The name of the player")
-activate_cmd:argument("when", "When they were activated (seconds after epoch)")
-	:convert(tonumber)
-activate_cmd:option("-m", "Message ID of activation (without 'message://' prefix)")
-
-local deactivate_cmd = parser:command("deactivate", "Deactivate player")
-deactivate_cmd:argument("name", "The name of the player")
-deactivate_cmd:argument("when", "When they were deactivated (seconds after epoch)")
-	:convert(tonumber)
-deactivate_cmd:option("-m", "Message ID of deactivation (without 'message://' prefix)")
-
-local rename_cmd = parser:command("rename", "Rename player")
-rename_cmd:argument("who", "Current player name")
-rename_cmd:argument("whither", "New player name")
-rename_cmd:option("-m", "Message ID of renaming (without 'message://' prefix)")
-
-local readdress_cmd = parser:command("readdress", "Change player's address")
-readdress_cmd:argument("who", "Player to be readdressed")
-readdress_cmd:argument("whither", "New address")
-readdress_cmd:argument("when", "When the message was received")
-	:convert(tonumber)
-readdress_cmd:option("-m", "Message ID of readdressing (without 'message://' prefix)")
+cmd.monthly = parser:    command  ("monthly", "Generate and send registrar monthly report")
+cmd.weekly = parser:     command  ("weekly", "Generate and send registrar weekly report")
+                                
+cmd.birthday = parser:   command  ("birthday", "Announce a player's birthday")
+cmd.birthday:            argument ("name", "The name of the player")
+                                
+cmd.deregister = parser: command  ("deregister", "Deregister player")
+cmd.deregister:          argument ("name", "The name of the player")
+cmd.deregister:          argument ("date", "Time stamp of deregistration (seconds after epoch)")       :convert(tonumber)
+cmd.deregister:          option   ("-m", "Message ID of deregistration (without 'message://' prefix)")
+                                
+cmd.register = parser:   command  ("register", "Register player")
+cmd.register:            argument ("name", "The name of the player")
+cmd.register:            argument ("contact", "URL (or plain email address) to contact player")
+cmd.register:            argument ("date", "Time stamp of registration (seconds after epoch)")         :convert(tonumber)
+cmd.register:            option   ("-m", "Message ID of registration (without 'message://' prefix)")
+                                
+cmd.birthday = parser:   command  ("birthday", "Announce player's birthday")
+cmd.birthday:            argument ("name", "The name of the player")
+                                
+cmd.activate = parser:   command  ("activate", "Activate player")
+cmd.activate:            argument ("name", "The name of the player")
+cmd.activate:            argument ("when", "When they were activated (seconds after epoch)")           :convert(tonumber)
+cmd.activate:            option   ("-m", "Message ID of activation (without 'message://' prefix)")
+                                
+cmd.deactivate = parser: command  ("deactivate", "Deactivate player")
+cmd.deactivate:          argument ("name", "The name of the player")
+cmd.deactivate:          argument ("when", "When they were deactivated (seconds after epoch)")         :convert(tonumber)
+cmd.deactivate:          option   ("-m", "Message ID of deactivation (without 'message://' prefix)")
+                                
+cmd.rename = parser:     command  ("rename", "Rename player")
+cmd.rename:              argument ("who", "Current player name")
+cmd.rename:              argument ("whither", "New player name")
+cmd.rename:              option   ("-m", "Message ID of renaming (without 'message://' prefix)")
+                                
+cmd.readdress = parser:  command  ("readdress", "Change player's address")
+cmd.readdress:           argument ("who", "Player to be readdressed")
+cmd.readdress:           argument ("whither", "New address")
+cmd.readdress:           argument ("when", "When the message was received")                            :convert(tonumber)
+cmd.readdress:           option   ("-m", "Message ID of readdressing (without 'message://' prefix)")
 
 -- Deserialize
 local fns = {
 	players = "players.json",
 	log = "log.json"
 }
+
 local args = parser:parse()
 local players = decodewith(json.decode, fns.players)
 local log = decodewith(json.decode, fns.log)
@@ -94,7 +90,7 @@ elseif args.command == "rename" then
 elseif args.command == "readdress" then
    registration.readdress(args, players, log)
 else
-	io.write("Not implemented.\n")
+	io.write("Unknown command.\n")
 end
 
 -- Serialize
@@ -142,11 +138,3 @@ local gitactions = {
 		message = function (args) return string.format("Change %s's address", args.who) end
 	}
 }
-
--- if not args.p then
--- 	local action = gitactions[args.command]
--- 	for _,f in ipairs(action.files) do
--- 		os.execute(string.format("git add %s", f))
--- 	end
--- 	os.execute(string.format("git commit -m \"%s\"", action.message(args)))
--- end

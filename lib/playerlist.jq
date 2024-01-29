@@ -1,5 +1,5 @@
 [
-  .[][] |
+  .[].history[] |
   select(.reason == "s")
 ] |
   sort_by(.registration) |

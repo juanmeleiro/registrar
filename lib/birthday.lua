@@ -53,7 +53,7 @@ function birthday(args, players, log)
 	end
 
 	local original = "xxxx-xx-xx"
-	for _,e in ipairs(players[args.name]) do
+	for _,e in ipairs(players[args.name].history) do
 		original = math.min(original, e.registration)
 	end
 

@@ -61,7 +61,7 @@ function birthday(args, players, log)
 	local prev_birthday = tostring(tonumber(os.date("%Y")) - 1) .. "-" .. string.sub(original, 6)
 	local today = os.date("%Y-%m-%d")
 
-	if (this_birthday < today) then
+	if (this_birthday <= today) then
 		announce(args, this_birthday, original)
 	else
 		announce(args, prev_birthday, original)

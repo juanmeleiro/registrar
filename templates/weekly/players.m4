@@ -1,4 +1,4 @@
-Active players: esyscmd(jq -r '[.[][] | select(.reason == "s")] | "\([.[] | select(.active == true)] | length)/\(length)"' players.json)dnl
+Active players: esyscmd(jq -r '[.[].history[] | select(.reason == "s")] | "\([.[] | select(.active == true)] | length)/\(length)"' players.json)dnl
 
 esyscmd(lib/playerlist.sh)dnl
 

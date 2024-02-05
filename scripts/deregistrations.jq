@@ -1,5 +1,5 @@
 [
-.[][] |
+.[].history[] |
 select((.protected | not)
        and has("active")
        and (.active | not)

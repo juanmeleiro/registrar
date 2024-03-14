@@ -5,18 +5,6 @@ local fns = {
 	tmp = ".tmp"
 }
 
-function ord(num)
-	if (num == 1) then
-		return "st"
-	elseif (num == 2) then
-		return "nd"
-	elseif (num == 3) then
-		return "rd"
-	else
-		return "th"
-	end
-end
-
 function announce(args, date, original)
 	local time = {
 		year = tonumber(string.sub(date, 1, 4)),

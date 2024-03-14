@@ -101,7 +101,8 @@ function format_event(e)
 		register = "Registered {who}",
 		rename = "Changed {whither}'s name from '{who}'",
 		weekly = "Weekly report",
-		activation = "Activated {who}"
+		activation = "Activated {who}",
+		writ = "Writ of FAGE for {who}"
 	}
 	die(not formats[e.what], string.format("No format for '%s'", e.what))
 	return string.format("* %s %s\n",
@@ -109,3 +110,17 @@ function format_event(e)
 		format(formats[e.what], e)
 	)
 end
+
+function ord(num)
+	if (num == 1) then
+		return "st"
+	elseif (num == 2) then
+		return "nd"
+	elseif (num == 3) then
+		return "rd"
+	else
+		return "th"
+	end
+end
+
+

@@ -10,6 +10,7 @@ local registration = require "lib.registration"
 local report = require "lib.report"
 local birthday = require "lib.birthday"
 local activity = require "lib.activity"
+local writ = require "lib.writ"
 
 local parser = argparse("registrar", "Manage Agora's registrar duties")
 parser:flag("-p", "Pretend: only show what would be done")
@@ -59,6 +60,12 @@ cmd.readdress:           argument ("whither", "New address")
 cmd.readdress:           argument ("when", "When the message was received")                            :convert(tonumber)
 cmd.readdress:           option   ("-m", "Message ID of readdressing (without 'message://' prefix)")
 
+cmd.writ = parser: command("writ", "Send a Writ of FAGE")
+cmd.writ: argument("who", "Player that submited the Cantus Cygneus")
+cmd.writ: argument("when", "Date of the message") :convert(tonumber)
+cmd.writ: argument("cantus", "Path to file containing the Cantus Cygneus")
+cmd.writ: option("-m", "Message ID of the cantus")
+
 -- Deserialize
 local fns = {
 	players = "players.json",
@@ -89,6 +96,8 @@ elseif args.command == "rename" then
    registration.rename(args, players, log)
 elseif args.command == "readdress" then
    registration.readdress(args, players, log)
+elseif args.command == "writ" then
+	writ(args, players, log)
 else
 	io.write("Unknown command.\n")
 end

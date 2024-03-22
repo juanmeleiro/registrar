@@ -123,4 +123,7 @@ function ord(num)
 	end
 end
 
-
+function jsonformat(fn)
+	os.execute(string.format('jq --sort-keys . %s > .tmp', fn))
+	os.execute(string.format('mv .tmp %s', fn))
+end

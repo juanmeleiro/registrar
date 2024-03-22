@@ -105,7 +105,8 @@ end
 -- Serialize
 encodewith(json.encode, fns.players, players)
 encodewith(json.encode, fns.log, log)
-encodewith(json.encode, fns.log, log)
+jsonformat(fns.players)
+jsonformat(fns.log)
 
 -- Do git stuff
 

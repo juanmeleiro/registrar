@@ -25,6 +25,7 @@ function _M.deregister(args, players, log)
 	   h.deregistration = os.date("%Y-%m-%d", args.date)
 	   h.reason = "d"
 	   h.latest = nil
+	   io.write(string.format("Please remember to delete any reminders of %s's birthday.", args.name))
 
 	   table.insert(log, ev)
    else
@@ -39,6 +40,7 @@ function _M.deregister(args, players, log)
 end
 
 function _M.register(args, players, log, ts)
+	local birthday = nil
 	local exists = nil
 	-- Check if player name exists
 	for p, h in pairs(players) do
@@ -53,13 +55,22 @@ function _M.register(args, players, log, ts)
 	end
 	if exists then
 		if yn(string.format("Player exists under name '%s'. Proceed? [yn] ", exists)) and not args.p then
+			-- Change registration name if different
 			if args.name ~= exists then
 			  players[args.name] = players[exists]
 			  players[exists] = nil
 			end
+			-- Query player's birthday
+			birthday = players[args.name].history[1].registration
+			for _,h in ipairs(players[args.name].history) do
+				if first > h.registration then
+					first = h.registration
+				end
+			end
 		end
 	else
 		players[args.name] = { history = {} }
+		birthday = os.date("%Y-%m-%d", args.date)
 	end
 	local reg = {
 		name = args.name,
@@ -76,9 +87,11 @@ function _M.register(args, players, log, ts)
 		where = args.m,
 		whence = args.contact
 	}
+	local msg = string.format("Please remember to set a reminder for this player's Agoran birthday! Eir first registration was on %s\n", birthday)
 	if not args.p then
 		table.insert(players[args.name].history, reg)
 		table.insert(log, ev)
+		io.write(msg)
 	else
 		io.write(pprint.pprint(reg))
 		io.write(pprint.pprint(ev))

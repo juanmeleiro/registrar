@@ -363,5 +363,29 @@
   {
     "what": "monthly",
     "when": 1712002512
+  },
+  {
+    "what": "rename",
+    "when": 1712067548,
+    "whither": "Jaff",
+    "who": "Michael Simutis"
+  },
+  {
+    "what": "register",
+    "when": 1712216314,
+    "whence": "matthiesbe@gmail.com",
+    "where": "08a6ae87-77e5-46b1-8ec4-8251a09f4275@gmail.com",
+    "who": "wunst"
+  },
+  {
+    "what": "register",
+    "when": 1712512192,
+    "whence": "oliver.rb.burton+agora@gmail.com",
+    "where": "2ab1fd1b-4af2-4bcd-8792-510f8662cb76@gmail.com",
+    "who": "Quadrantal"
+  },
+  {
+    "what": "weekly",
+    "when": 1712598177
   }
 ]

@@ -1878,6 +1878,18 @@
       }
     ]
   },
+  "Jaff": {
+    "history": [
+      {
+        "active": true,
+        "contact": "jaffie2718@gmail.com",
+        "latest": "2024-03-26",
+        "name": "Jaff",
+        "reason": "s",
+        "registration": "2024-03-26"
+      }
+    ]
+  },
   "Janet": {
     "history": [
       {
@@ -2543,18 +2555,6 @@
       }
     ]
   },
-  "Michael Simutis": {
-    "history": [
-      {
-        "active": true,
-        "contact": "jaffie2718@gmail.com",
-        "latest": "2024-03-26",
-        "name": "Michael Simutis",
-        "reason": "s",
-        "registration": "2024-03-26"
-      }
-    ]
-  },
   "Morendil": {
     "history": [
       {
@@ -3117,6 +3117,18 @@
         "name": "Protection Racket",
         "reason": "p",
         "registration": "2008-06-23"
+      }
+    ]
+  },
+  "Quadrantal": {
+    "history": [
+      {
+        "active": true,
+        "contact": "oliver.rb.burton+agora@gmail.com",
+        "latest": "2024-04-07",
+        "name": "Quadrantal",
+        "reason": "s",
+        "registration": "2024-04-07"
       }
     ]
   },
@@ -5651,6 +5663,18 @@
         "name": "woggle",
         "reason": "d",
         "registration": "2013-01-19"
+      }
+    ]
+  },
+  "wunst": {
+    "history": [
+      {
+        "active": true,
+        "contact": "matthiesbe@gmail.com",
+        "latest": "2024-04-04",
+        "name": "wunst",
+        "reason": "s",
+        "registration": "2024-04-04"
       }
     ]
   },

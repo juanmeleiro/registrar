@@ -2,17 +2,11 @@ Active players: esyscmd(jq -r '[.[].history[] | select(.reason == "s")] | "\([.[
 
 esyscmd(lib/playerlist.sh)dnl
 
-WARNING: Player name “blob” refers to the currently registered one,
-who became a player on 2023-05-18, and not blob the player from many
-years ago. They are different people, to the best of my judgment. This
-warning will remain necessary pending decision on how to handle clashing
-player names. Do not complain; comply.
-
 Conventions:
 * Player: Latest player name.
 * Registered: Date of latest registration.
 * Latest: Date of latest change in Activity.
-* Contact: URI for eir prefered contact method
+* Contact: Email address or URI for eir prefered contact method
 
 Legend for symbols:
 a Activity

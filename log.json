@@ -398,5 +398,29 @@
   {
     "what": "weekly",
     "when": 1713211203
+  },
+  {
+    "what": "deregister",
+    "when": 1713570291,
+    "where": "t3ifsmxbrti4rr3kj45yjfgscua2v2o2uknaj7i4wkrb5ogtnw@4qebn7zchgrv",
+    "who": "blob"
+  },
+  {
+    "what": "deregister",
+    "when": 1713570291,
+    "where": "t3ifsmxbrti4rr3kj45yjfgscua2v2o2uknaj7i4wkrb5ogtnw@4qebn7zchgrv",
+    "who": "Anneke-Constantine"
+  },
+  {
+    "what": "deregister",
+    "when": 1713570291,
+    "where": "t3ifsmxbrti4rr3kj45yjfgscua2v2o2uknaj7i4wkrb5ogtnw@4qebn7zchgrv",
+    "who": "Zipzap"
+  },
+  {
+    "what": "deregister",
+    "when": 1713570291,
+    "where": "t3ifsmxbrti4rr3kj45yjfgscua2v2o2uknaj7i4wkrb5ogtnw@4qebn7zchgrv",
+    "who": "Crystalizedmire"
   }
 ]

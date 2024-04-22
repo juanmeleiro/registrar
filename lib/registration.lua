@@ -23,7 +23,7 @@ function _M.deregister(args, players, log)
    if not args.p then
 	   h.active = nil
 	   h.deregistration = os.date("%Y-%m-%d", args.date)
-	   h.reason = "d"
+	   h.reason = "a"
 	   h.latest = nil
 	   io.write(string.format("Please remember to delete any reminders of %s's birthday.", args.name))
 
@@ -35,7 +35,7 @@ function _M.deregister(args, players, log)
 	   io.write("active := nil\n")
 	   io.write("latest := d\n")
 	   io.write(string.format("deregistration := %s\n", os.date("%Y-%m-%d", args.date)))
-	   io.write("reason := d\n")
+	   io.write("reason := a\n")
    end
 end
 

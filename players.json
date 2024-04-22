@@ -295,11 +295,10 @@
   "Anneke-Constantine": {
     "history": [
       {
-        "active": false,
         "contact": "agora.quarentine@gmail.com",
-        "latest": "2024-02-12",
+        "deregistration": "2024-04-19",
         "name": "Anneke-Constantine",
-        "reason": "s",
+        "reason": "a",
         "registration": "2023-05-23"
       }
     ]
@@ -955,11 +954,10 @@
   "Crystalizedmire": {
     "history": [
       {
-        "active": false,
         "contact": "awwellth@gmail.com",
-        "latest": "2024-02-12",
+        "deregistration": "2024-04-19",
         "name": "Crystalizedmire",
-        "reason": "s",
+        "reason": "a",
         "registration": "2023-11-10"
       }
     ]
@@ -4606,11 +4604,10 @@
   "Zipzap": {
     "history": [
       {
-        "active": false,
         "contact": "itszipzap@gmail.com",
-        "latest": "2024-02-12",
+        "deregistration": "2024-04-19",
         "name": "Zipzap",
-        "reason": "s",
+        "reason": "a",
         "registration": "2023-10-04"
       }
     ]
@@ -4786,13 +4783,11 @@
   "blob": {
     "history": [
       {
-        "active": false,
         "contact": "cearguinzoni1@gmail.com",
-        "deregistration": "",
-        "latest": "2024-02-12",
+        "deregistration": "2024-04-19",
         "name": "blob",
         "observations": "Not the same blob as that other one",
-        "reason": "s",
+        "reason": "a",
         "registration": "2023-05-18"
       }
     ]

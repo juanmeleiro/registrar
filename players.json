@@ -1488,9 +1488,9 @@
   "Goren Barak": {
     "history": [
       {
-        "active": false,
+        "active": true,
         "contact": "gorenbk@riseup.net",
-        "latest": "2024-02-12",
+        "latest": "2024-04-17",
         "name": "Goren Barak",
         "reason": "s",
         "registration": "2023-11-18"
@@ -4828,9 +4828,9 @@
   "cuddlybanana": {
     "history": [
       {
-        "active": false,
+        "active": true,
         "contact": "rose.strong42@gmail.com",
-        "latest": "2024-02-12",
+        "latest": "2024-04-15",
         "name": "cuddlybanana",
         "reason": "s",
         "registration": "2021-03-16"
@@ -5231,9 +5231,9 @@
         "contact": "mqyhlkahu@gmail.com",
         "latest": "2024-04-22",
         "name": "mqyhlkahu",
+        "observations": "aka kotnen; aka truffle",
         "reason": "s",
-        "registration": "2024-04-22",
-        "observations": "aka kotnen; aka truffle"
+        "registration": "2024-04-22"
       }
     ]
   },

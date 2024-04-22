@@ -6,7 +6,6 @@ local _M = {}
 function _M.activate(args, players, log)
 	die(not players[args.name], string.format("No player %s", args.name))
 	local h = table.query(players[args.name].history, function (h) return h.reason == "s" end)
-	pprint.pprint(h)
 	die(h.active, "Player is already active.")
 	h.active = true
 	h.latest = os.date("%Y-%m-%d", args.when)
@@ -27,7 +26,6 @@ function _M.deactivate(args, players, log)
 	die(not h.active, "Player is already inactive.")
 	h.active = false
 	h.latest = os.date("%Y-%m-%d", args.when)
-	pprint.pprint(h)
 	table.insert(log, {
 					 what = "deactivation",
 					 who = args.name,

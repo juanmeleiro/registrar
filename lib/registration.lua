@@ -3,16 +3,31 @@ pprint = require "pprint"
 
 _M = {}
 
+reasons = {
+	abandoned = "a",
+	lawless = "l",
+	voluntary = "v",
+	deported = "d",
+	writ = "w",
+	mistake = "k",
+	proposal = "p",
+	destroyed = "e",
+	ratification = "r",
+	uknown = "u",
+	exiled = "x",
+	banned = "b"
+}
+
 function _M.deregister(args, players, log)
    p = players[args.name]
    if not p then
 	  die(string.format("There's no player '%s'.", args.name))
    end
 
-   h = table.query(p.history, function (c) return not c.active end)
+   h = table.query(p.history, function (c) return c.reason == "s" end)
 
    if not h then
-	  die(string.format("Player '%s' is active.", args.name))
+	  die(string.format("Player '%s' is not registered.", args.name))
    end
 
    ev = {when = args.date,
@@ -23,7 +38,7 @@ function _M.deregister(args, players, log)
    if not args.p then
 	   h.active = nil
 	   h.deregistration = os.date("%Y-%m-%d", args.date)
-	   h.reason = "a"
+	   h.reason = reasons[args.reason]
 	   h.latest = nil
 	   io.write(string.format("Please remember to delete any reminders of %s's birthday.", args.name))
 
@@ -117,6 +132,11 @@ function _M.readdress(args, players, log)
 		players[args.who].contact = args.whither
 	end
 	table.insert(log, {what="readdress", who=args.who, whither=args.whither, where=args.m, when=args.when})
+end
+
+_M.reasons = {}
+for k,_ in pairs(reasons) do
+	table.insert(_M.reasons, k)
 end
 
 return _M

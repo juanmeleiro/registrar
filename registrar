@@ -28,6 +28,8 @@ cmd.birthday:            argument ("name", "The name of the player")
 cmd.deregister = parser: command  ("deregister", "Deregister player")
 cmd.deregister:          argument ("name", "The name of the player")
 cmd.deregister:          argument ("date", "Time stamp of deregistration (seconds after epoch)")       :convert(tonumber)
+cmd.deregister:          argument ("reason", "Reason for deregistering")
+	:choices(registration.reasons)
 cmd.deregister:          option   ("-m", "Message ID of deregistration (without 'message://' prefix)")
                                 
 cmd.register = parser:   command  ("register", "Register player")

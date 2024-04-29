@@ -3260,11 +3260,10 @@
         "registration": "2020-06-30"
       },
       {
-        "active": true,
         "contact": "sarahestrange0@gmail.com",
-        "latest": "2024-03-17",
+        "deregistration": "2024-04-27",
         "name": "R. Lee",
-        "reason": "s",
+        "reason": "v",
         "registration": "2024-03-17"
       }
     ]

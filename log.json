@@ -443,5 +443,11 @@
   {
     "what": "weekly",
     "when": 1713814177
+  },
+  {
+    "what": "deregister",
+    "when": 1714228603,
+    "where": "CACfeOFg2iqqGbBWLg84bsF1ej31_N22m0Q62e1+VNgJ017K2Ng@mail.gmail.com",
+    "who": "R. Lee"
   }
 ]

@@ -36,6 +36,14 @@
         "name": "4st",
         "reason": "w",
         "registration": "2023-01-27"
+      },
+      {
+        "active": true,
+        "contact": "4st.nomic@gmail.com",
+        "latest": "2024-05-15",
+        "name": "4st",
+        "reason": "s",
+        "registration": "2024-05-15"
       }
     ]
   },

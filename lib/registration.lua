@@ -59,13 +59,12 @@ function _M.register(args, players, log, ts)
 	local exists = nil
 	-- Check if player name exists
 	for p, h in pairs(players) do
-		if table.query(h, function (x) return x.name == args.name end) then
-			if table.query(h, function (x) return x.reason == "s" end) then
+		if table.query(h.history, function (x) return x.name == args.name end) then
+			exists = p
+			if table.query(h.history, function (x) return x.reason == "s" end) then
 				die(string.format("Error: player '%s' exists and is registered.", p))
-			else
-				exists = p
-				break
 			end
+			break
 		end
 	end
 	if exists then
@@ -78,8 +77,8 @@ function _M.register(args, players, log, ts)
 			-- Query player's birthday
 			birthday = players[args.name].history[1].registration
 			for _,h in ipairs(players[args.name].history) do
-				if first > h.registration then
-					first = h.registration
+				if birthday > h.registration then
+					birthday = h.registration
 				end
 			end
 		end

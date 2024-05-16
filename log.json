@@ -472,5 +472,26 @@
     "whence": "4st.nomic@gmail.com",
     "where": "CAA-e8fMrGJCOvOQ6Xj+q16ouDZwn1QND02t7QkxxhM5drLgUhQ@mail.gmail.com",
     "who": "4st"
+  },
+  {
+    "what": "register",
+    "when": 1715806095,
+    "whence": "boehmejo@gmail.com",
+    "where": "5e5a1ae8-a9b2-42ab-b2de-3127b875abea@gmail.com",
+    "who": "Elysion"
+  },
+  {
+    "what": "rename",
+    "when": 1715843953,
+    "where": "5e5a1ae8-a9b2-42ab-b2de-3127b875abea@gmail.com",
+    "whither": "Mischief",
+    "who": "Elysion"
+  },
+  {
+    "what": "readdress",
+    "when": 1715806095,
+    "where": "5e5a1ae8-a9b2-42ab-b2de-3127b875abea@gmail.com",
+    "whither": "agoran.mischief@gmail.com",
+    "who": "Mischief"
   }
 ]

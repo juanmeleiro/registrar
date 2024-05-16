@@ -1155,31 +1155,6 @@
       }
     ]
   },
-  "Elysion": {
-    "history": [
-      {
-        "contact": "elysion@mindspring.com",
-        "deregistration": "2001-11-01",
-        "name": "Elysion",
-        "reason": "u",
-        "registration": "1999-02-23"
-      },
-      {
-        "contact": "boehmejo@msu.edu",
-        "deregistration": "2004-09-09",
-        "name": "Elysion",
-        "reason": "v",
-        "registration": "2004-02-10"
-      },
-      {
-        "contact": "boehmejo@msu.edu",
-        "deregistration": "2009-04-07",
-        "name": "Elysion",
-        "reason": "a",
-        "registration": "2008-10-20"
-      }
-    ]
-  },
   "Epaeris": {
     "history": [
       {
@@ -2570,6 +2545,39 @@
         "name": "Michael",
         "reason": "v",
         "registration": "1993-06-29"
+      }
+    ]
+  },
+  "Mischief": {
+    "history": [
+      {
+        "contact": "elysion@mindspring.com",
+        "deregistration": "2001-11-01",
+        "name": "Elysion",
+        "reason": "u",
+        "registration": "1999-02-23"
+      },
+      {
+        "contact": "boehmejo@msu.edu",
+        "deregistration": "2004-09-09",
+        "name": "Elysion",
+        "reason": "v",
+        "registration": "2004-02-10"
+      },
+      {
+        "contact": "boehmejo@msu.edu",
+        "deregistration": "2009-04-07",
+        "name": "Elysion",
+        "reason": "a",
+        "registration": "2008-10-20"
+      },
+      {
+        "active": true,
+        "contact": "agoran.mischief@gmail.com",
+        "latest": "2024-05-15",
+        "name": "Mischief",
+        "reason": "s",
+        "registration": "2024-05-15"
       }
     ]
   },

@@ -516,5 +516,12 @@
   {
     "what": "monthly",
     "when": 1717404280
+  },
+  {
+    "what": "readdress",
+    "when": 1718373801,
+    "where": "LPP2FS.VIB4SF1QC2LN3@qenya.tel",
+    "whither": "lists@qenya.tel",
+    "who": "Kate"
   }
 ]

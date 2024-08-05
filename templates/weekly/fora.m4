@@ -5,6 +5,7 @@ Public       agora-business at agoranomic.org           other business
 Public       agoranomic at groups.io *                  backup
 Discussion   agora-discussion at agoranomic.org         discussion
 Discussion   https://discord.gg/JCC6YGc                 discussion
+Discussion   agora-talk@agora.nomic.space               discussion
 Foreign      agora at listserver.tue.nl                 backup
 Foreign      irc://irc.libera.chat:6667/##nomic         discussion
 Foreign      matrix:r/#agoranomiccommunity:mozilla.org  discussion

@@ -1810,11 +1810,10 @@
   "Immae": {
     "history": [
       {
-        "active": true,
         "contact": "jeux+agora@mail.immae.eu",
-        "latest": "2024-07-28",
+        "deregistration": "2024-08-21",
         "name": "Immae",
-        "reason": "s",
+        "reason": "v",
         "registration": "2024-07-28"
       }
     ]

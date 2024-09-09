@@ -1483,9 +1483,9 @@
   "Goren Barak": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "gorenbk@riseup.net",
-        "latest": "2024-04-17",
+        "latest": "2024-09-08",
         "name": "Goren Barak",
         "reason": "s",
         "registration": "2023-11-18"
@@ -1862,9 +1862,9 @@
   "Jackrabbit": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "badatnamingthis@gmail.com",
-        "latest": "2024-03-17",
+        "latest": "2024-09-08",
         "name": "Jackrabbit",
         "reason": "s",
         "registration": "2024-03-17"
@@ -1885,9 +1885,9 @@
   "Jaff": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "jaffie2718@gmail.com",
-        "latest": "2024-03-26",
+        "latest": "2024-09-08",
         "name": "Jaff",
         "reason": "s",
         "registration": "2024-03-26"
@@ -2267,9 +2267,9 @@
   "LegallyBearded": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "legallybearded@gmail.com",
-        "latest": "2024-03-05",
+        "latest": "2024-09-08",
         "name": "LegallyBearded",
         "reason": "s",
         "registration": "2024-03-05"
@@ -2347,9 +2347,9 @@
   "Liz Wake": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "vagueposted@gmail.com",
-        "latest": "2023-12-10",
+        "latest": "2024-09-08",
         "name": "Liz Wake",
         "reason": "s",
         "registration": "2023-12-10"
@@ -2443,9 +2443,9 @@
   "Maloney": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "maloneyagora@gmail.com",
-        "latest": "2024-01-24",
+        "latest": "2024-09-08",
         "name": "Maloney",
         "reason": "s",
         "registration": "2024-01-24"
@@ -2563,9 +2563,9 @@
   "Mercury": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "mercuryagora1@gmail.com",
-        "latest": "2024-01-10",
+        "latest": "2024-09-08",
         "name": "Mercury",
         "reason": "s",
         "registration": "2024-01-10"
@@ -3184,9 +3184,9 @@
   "Quadrantal": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "oliver.rb.burton+agora@gmail.com",
-        "latest": "2024-04-07",
+        "latest": "2024-09-08",
         "name": "Quadrantal",
         "reason": "s",
         "registration": "2024-04-07"
@@ -4878,9 +4878,9 @@
   "cuddlybanana": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "rose.strong42@gmail.com",
-        "latest": "2024-04-15",
+        "latest": "2024-09-08",
         "name": "cuddlybanana",
         "reason": "s",
         "registration": "2021-03-16"
@@ -5267,9 +5267,9 @@
   "mcdg": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "mcdelgaudio@outlook.it",
-        "latest": "2024-01-28",
+        "latest": "2024-09-08",
         "name": "mcdg",
         "reason": "s",
         "registration": "2024-01-28"
@@ -5301,9 +5301,9 @@
   "mqyhlkahu": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "mqyhlkahu@gmail.com",
-        "latest": "2024-04-22",
+        "latest": "2024-09-08",
         "name": "mqyhlkahu",
         "observations": "aka kotnen; aka truffle",
         "reason": "s",
@@ -5383,9 +5383,9 @@
         "registration": "2022-10-09"
       },
       {
-        "active": true,
+        "active": false,
         "contact": "agora@nullarch.com",
-        "latest": "2023-10-12",
+        "latest": "2024-09-08",
         "name": "nix",
         "reason": "s",
         "registration": "2023-10-12"
@@ -5775,9 +5775,9 @@
   "wunst": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "matthiesbe@gmail.com",
-        "latest": "2024-04-04",
+        "latest": "2024-09-08",
         "name": "wunst",
         "reason": "s",
         "registration": "2024-04-04"

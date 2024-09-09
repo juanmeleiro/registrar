@@ -14,7 +14,7 @@ function _M.activate(args, players, log)
 					 what = "activation",
 					 who = args.name,
 					 when = args.when,
-					 where = args.where
+					 where = args.m
 	})
 end
 
@@ -30,7 +30,7 @@ function _M.deactivate(args, players, log)
 					 what = "deactivation",
 					 who = args.name,
 					 when = args.when,
-					 where = args.where
+					 where = args.m
 	})
 end
 

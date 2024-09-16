@@ -840,6 +840,18 @@
       }
     ]
   },
+  "Cheese": {
+    "history": [
+      {
+        "active": true,
+        "contact": "alexip013@gmail.com",
+        "latest": "2024-09-15",
+        "name": "Cheese",
+        "reason": "s",
+        "registration": "2024-09-15"
+      }
+    ]
+  },
   "Chester Mealer": {
     "history": [
       {

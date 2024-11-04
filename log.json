@@ -745,5 +745,9 @@
   {
     "what": "monthly",
     "when": 1730471135
+  },
+  {
+    "what": "weekly",
+    "when": 1730732222
   }
 ]

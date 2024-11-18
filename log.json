@@ -753,5 +753,12 @@
   {
     "what": "weekly",
     "when": 1731327388
+  },
+  {
+    "what": "register",
+    "when": 1731777245,
+    "whence": "agoranomic@fastmail.com",
+    "where": "f7058a43-1803-481f-8870-b46875d07f0e@app.fastmail.com",
+    "who": "RadicalRose"
   }
 ]

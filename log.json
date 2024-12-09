@@ -848,5 +848,12 @@
   {
     "what": "monthly",
     "when": 1733149514
+  },
+  {
+    "what": "register",
+    "when": 1733510031,
+    "whence": "blomlie@proton.me",
+    "where": "_NGMAtLgrO97Be4rP5XXa4Er17JxGF7ZaW3aIVa3mNGxtXpg-Vlwc-IqHqQPqHkXtGD_fRkL5KEBaVgwx88U8V3iVeyt6yYA3LTCIZUU3VU=@proton.me",
+    "who": "thimble"
   }
 ]

@@ -2355,9 +2355,9 @@
   "Liz Wake": {
     "history": [
       {
-        "active": false,
+        "active": true,
         "contact": "vagueposted@gmail.com",
-        "latest": "2024-09-08",
+        "latest": "2024-12-08",
         "name": "Liz Wake",
         "reason": "s",
         "registration": "2023-12-10"

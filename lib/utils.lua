@@ -106,7 +106,7 @@ function format_event(e)
 	}
 	die(not formats[e.what], string.format("No format for '%s'", e.what))
 	return string.format("* %s %s\n",
-		os.date("%Y-%m-%d %H:%M", e.when),
+		os.date("%Y-%m-%d %H:%M %z", e.when),
 		format(formats[e.what], e)
 	)
 end

@@ -41,8 +41,12 @@ function birthday(args, players, log)
 	end
 
 	local original = "xxxx-xx-xx"
-	for _,e in ipairs(players[args.name].history) do
-		original = math.min(original, e.registration)
+	if players[args.name].birthday then
+		original = players[args.name].birthday
+	else
+		for _,e in ipairs(players[args.name].history) do
+			original = math.min(original, e.registration)
+		end
 	end
 
 	local this_birthday = os.date("%Y") .. "-" .. string.sub(original, 6)

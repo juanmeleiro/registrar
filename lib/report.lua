@@ -80,6 +80,7 @@ function _M.monthly(args, players, log)
 		local h = players[n].history
 		hist:write("===============\n"..n)
 		if players[n].contact then hist:write(" <"..players[n].contact..">\n") else hist:write("\n") end
+		if players[n].birthday then hist:write("  Birthday: " .. players[n].birthday .. "\n") end
 		for _,e in ipairs(h) do
 			if e.reason == "s" then
 				f = "  ({reason}) {name} <{contact}> ({registration}--now)\n"

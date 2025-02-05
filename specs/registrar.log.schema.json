@@ -1,0 +1,83 @@
+{
+	"$schema": "https://json-schema.org/draft/2020-12/vocab/validation",
+	"$vocabulary": {
+		"https://json-schema.org/draft/2020-12/vocab/validation": true
+	},
+	"$id": "http://juanmeleiro.mat.br/agora/specs/registrar.log.schema.json",
+	"$ref": "http://juanmeleiro.mat.br/agora/specs/log.schema.json",
+	"items": {
+		"type": "object",
+		"oneOf": [
+			{
+				"properties": {
+					"what": {
+						"const": "register"
+					}
+				},
+				"required": ["who", "whence"]
+			},
+			{
+				"properties": {
+					"what": {
+						"const": "weekly"
+					}
+				}
+			},
+			{
+				"properties": {
+					"what": {
+						"const": "monthly"
+					}
+				}
+			},
+			{
+				"properties": {
+					"what": {
+						"const": "activation"
+					}
+				},
+				"required": ["who"]
+			},
+			{
+				"properties": {
+					"what": {
+						"const": "deactivation"
+					}
+				},
+				"required": ["who"]
+			},
+			{
+				"properties": {
+					"what": {
+						"const": "deregister"
+					}
+				},
+				"required": ["who"]
+			},
+			{
+				"properties": {
+					"what": {
+						"const": "readdress"
+					}
+				},
+				"required": ["who", "whither"]
+			},
+			{
+				"properties": {
+					"what": {
+						"const": "rename"
+					}
+				},
+				"required": ["who", "whither"]
+			},
+			{
+				"properties": {
+					"what": {
+						"const": "writ"
+					}
+				},
+				"required": ["who"]
+			}
+		]
+	}
+}

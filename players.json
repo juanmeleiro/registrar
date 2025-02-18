@@ -832,9 +832,9 @@
   "Celeste": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "celesteatagora@gmail.com",
-        "latest": "2024-08-26",
+        "latest": "2025-02-17",
         "name": "Celeste",
         "reason": "s",
         "registration": "2024-08-26"
@@ -855,9 +855,9 @@
   "Cheese": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "alexip013@gmail.com",
-        "latest": "2024-09-15",
+        "latest": "2025-02-17",
         "name": "Cheese",
         "reason": "s",
         "registration": "2024-09-15"
@@ -2322,9 +2322,9 @@
   "Lily": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "soupgirl.agora@gmail.com",
-        "latest": "2024-08-20",
+        "latest": "2025-02-17",
         "name": "Lily",
         "reason": "s",
         "registration": "2024-08-20"
@@ -3340,9 +3340,9 @@
   "RadicalRose": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "agoranomic@fastmail.com",
-        "latest": "2024-11-16",
+        "latest": "2025-02-17",
         "name": "RadicalRose",
         "reason": "s",
         "registration": "2024-11-16"
@@ -4572,9 +4572,9 @@
   "Yachay Wayllukuq": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "yachaywayllukuq@gmail.com",
-        "latest": "2023-10-28",
+        "latest": "2025-02-17",
         "name": "Yachay Wayllukuq",
         "observations": "a.k.a. Yachay",
         "reason": "s",
@@ -5236,9 +5236,9 @@
   "lare290": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "kauhanen44@gmail.com",
-        "latest": "2024-07-21",
+        "latest": "2025-02-17",
         "name": "lare290",
         "reason": "s",
         "registration": "2024-07-21"
@@ -5450,9 +5450,9 @@
   "oliver.n": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "olivern0@proton.me",
-        "latest": "2024-08-19",
+        "latest": "2025-02-17",
         "name": "oliver.n",
         "reason": "s",
         "registration": "2024-08-19"
@@ -5748,9 +5748,9 @@
   "thimble": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "blomlie@proton.me",
-        "latest": "2024-12-06",
+        "latest": "2025-02-17",
         "name": "thimble",
         "reason": "s",
         "registration": "2024-12-06"

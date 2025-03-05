@@ -3673,6 +3673,14 @@
         "name": "Shy Owl",
         "reason": "a",
         "registration": "2022-10-07"
+      },
+      {
+        "active": true,
+        "contact": "iamashyowl@proton.me",
+        "latest": "2025-02-24",
+        "name": "Shy Owl",
+        "reason": "s",
+        "registration": "2025-02-24"
       }
     ]
   },

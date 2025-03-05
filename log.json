@@ -979,5 +979,12 @@
   {
     "what": "weekly",
     "when": 1740408150
+  },
+  {
+    "what": "register",
+    "when": 1740451418,
+    "whence": "iamashyowl@proton.me",
+    "where": "rub35U1G1QYWXzIzo95fLbKTBeMEfrA73IBAsSs7CacxL7qtcY-X3Grd-S-LNos-OMqD0kpx_jOYP6z1U3enRMMHBcUIsornWtQSffjFbD4=@proton.me",
+    "who": "Shy Owl"
   }
 ]

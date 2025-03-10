@@ -994,5 +994,11 @@
   {
     "what": "monthly",
     "when": 1741269906
+  },
+  {
+    "what": "deregister",
+    "when": 1741459910,
+    "where": "CAM8Y3+ZuGqHqhKbbLSZOHgoDh2sXdFg1Pb0PMQ6zNNa-+sfa1g@mail.gmail.com",
+    "who": "Automaticat"
   }
 ]

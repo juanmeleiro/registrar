@@ -388,11 +388,10 @@
   "Automaticat": {
     "history": [
       {
-        "active": true,
         "contact": "owenpchamberlin@gmail.com",
-        "latest": "2025-01-04",
+        "deregistration": "2025-03-08",
         "name": "Automaticat",
-        "reason": "s",
+        "reason": "v",
         "registration": "2025-01-04"
       }
     ]

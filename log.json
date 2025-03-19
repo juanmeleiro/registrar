@@ -1008,5 +1008,11 @@
   {
     "what": "weekly",
     "when": 1742225949
+  },
+  {
+    "what": "deregister",
+    "when": 1742323329,
+    "where": "Ux0kdN0gZLUfOlcHT2PSKHEqzj8DZpGzlkL_UYyVoQMW5wtSu6FmhbSg0iuixCRcjX_ZMYpdupK4Z7aW2oXyDrJeOkskeiG-_arYBhceu6s=@proton.me",
+    "who": "Shy Owl"
   }
 ]

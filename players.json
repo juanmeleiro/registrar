@@ -3674,11 +3674,10 @@
         "registration": "2022-10-07"
       },
       {
-        "active": true,
         "contact": "iamashyowl@proton.me",
-        "latest": "2025-02-24",
+        "deregistration": "2025-03-18",
         "name": "Shy Owl",
-        "reason": "s",
+        "reason": "v",
         "registration": "2025-02-24"
       }
     ]

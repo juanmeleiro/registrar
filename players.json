@@ -2304,6 +2304,14 @@
         "name": "LegallyBearded",
         "reason": "a",
         "registration": "2024-03-05"
+      },
+      {
+        "active": true,
+        "contact": "legallybearded@gmail.com",
+        "latest": "2025-04-06",
+        "name": "LegallyBearded",
+        "reason": "s",
+        "registration": "2025-04-06"
       }
     ]
   },

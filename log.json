@@ -1047,5 +1047,12 @@
   {
     "what": "monthly",
     "when": 1743519241
+  },
+  {
+    "what": "register",
+    "when": 1743935866,
+    "whence": "legallybearded@gmail.com",
+    "where": "CACHhjF+F2_4Q0g5o2gXDQepWTVbR6xwv12uNk6qZV0vMriiwVw@mail.gmail.com",
+    "who": "LegallyBearded"
   }
 ]

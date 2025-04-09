@@ -1058,5 +1058,11 @@
   {
     "what": "weekly",
     "when": 1744035821
+  },
+  {
+    "what": "activation",
+    "when": 1744143226,
+    "where": "0yK4sZjZ56x73X7T21R_kzVBZFrXT_00OEPx9qBjILcQiHQJ_7Ohlg9g2Zpu8PBkFmeBcRR8j5LwOH5pXXYath3COXYz6Z-6M8aVvc5569w=@proton.me",
+    "who": "oliver.n"
   }
 ]

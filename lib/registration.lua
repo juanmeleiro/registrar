@@ -40,7 +40,7 @@ function _M.deregister(args, players, log)
 	   h.deregistration = os.date("%Y-%m-%d", args.date)
 	   h.reason = reasons[args.reason]
 	   h.latest = nil
-	   io.write(string.format("Please remember to delete any reminders of %s's birthday.", args.name))
+	   io.write(string.format("Please remember to delete any reminders of %s's birthday.\n", args.name))
 
 	   table.insert(log, ev)
    else

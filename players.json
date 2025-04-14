@@ -831,11 +831,10 @@
   "Celeste": {
     "history": [
       {
-        "active": false,
         "contact": "celesteatagora@gmail.com",
-        "latest": "2025-02-17",
+        "deregistration": "2025-05-26",
         "name": "Celeste",
-        "reason": "s",
+        "reason": "a",
         "registration": "2024-08-26"
       }
     ]
@@ -854,11 +853,10 @@
   "Cheese": {
     "history": [
       {
-        "active": false,
         "contact": "alexip013@gmail.com",
-        "latest": "2025-02-17",
+        "deregistration": "2025-05-26",
         "name": "Cheese",
-        "reason": "s",
+        "reason": "a",
         "registration": "2024-09-15"
       }
     ]
@@ -2341,11 +2339,10 @@
   "Lily": {
     "history": [
       {
-        "active": false,
         "contact": "soupgirl.agora@gmail.com",
-        "latest": "2025-02-17",
+        "deregistration": "2025-05-26",
         "name": "Lily",
-        "reason": "s",
+        "reason": "a",
         "registration": "2024-08-20"
       }
     ]
@@ -3359,11 +3356,10 @@
   "RadicalRose": {
     "history": [
       {
-        "active": false,
         "contact": "agoranomic@fastmail.com",
-        "latest": "2025-02-17",
+        "deregistration": "2025-05-26",
         "name": "RadicalRose",
-        "reason": "s",
+        "reason": "a",
         "registration": "2024-11-16"
       }
     ]
@@ -4606,12 +4602,11 @@
   "Yachay Wayllukuq": {
     "history": [
       {
-        "active": false,
         "contact": "yachaywayllukuq@gmail.com",
-        "latest": "2025-02-17",
+        "deregistration": "2025-05-26",
         "name": "Yachay Wayllukuq",
         "observations": "a.k.a. Yachay",
-        "reason": "s",
+        "reason": "a",
         "registration": "2023-03-16"
       }
     ]
@@ -5282,11 +5277,10 @@
   "lare290": {
     "history": [
       {
-        "active": false,
         "contact": "kauhanen44@gmail.com",
-        "latest": "2025-02-17",
+        "deregistration": "2025-05-26",
         "name": "lare290",
-        "reason": "s",
+        "reason": "a",
         "registration": "2024-07-21"
       }
     ]
@@ -5794,11 +5788,10 @@
   "thimble": {
     "history": [
       {
-        "active": false,
         "contact": "blomlie@proton.me",
-        "latest": "2025-02-17",
+        "deregistration": "2025-05-26",
         "name": "thimble",
-        "reason": "s",
+        "reason": "a",
         "registration": "2024-12-06"
       }
     ]

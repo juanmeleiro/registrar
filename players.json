@@ -4164,6 +4164,14 @@
         "name": "Trigon",
         "reason": "a",
         "registration": "2017-09-24"
+      },
+      {
+        "active": true,
+        "contact": "reuben.staley@gmail.com",
+        "latest": "2025-05-01",
+        "name": "Trigon",
+        "reason": "s",
+        "registration": "2025-05-01"
       }
     ]
   },

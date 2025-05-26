@@ -10,7 +10,7 @@ Subject: [Registrar] Birthday Announcement
 
 DATE
 
-                                     is
+                                      is
 
                           PLAYER's COUNT Agoran Birthday!
 

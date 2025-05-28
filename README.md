@@ -1,4 +1,19 @@
-# Registrar's obligations/routines
+# The Registrar's Repository
+
+## Repository structure
+
+- `BACKLOG.md`. Notes on things to do to improve this repository and related things.
+- `README.md`. This file.
+- `archive`. Archive of old files; mainly reports.
+- `cantus`. Cantus Cygneus (not complete).
+- `fora.json`. Data regarding fora, used by scripts.
+- `lib`. Scripts that are called directly or indirectly by the main `registrar` script.
+- `log.json`. Record of events.
+- `players.json`. Current state of the game, as it relates to the Registrar's duties.
+- `registrar`. The main Lua script for performing registrar actions.
+- `templates`. Templates used for generating reports and other messages.
+
+## Registrar's obligations/routines
 
 - Weekly report
   - When? Once a week

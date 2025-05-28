@@ -1,4 +1,0 @@
-# Fora as Data
-
-Make the information about fora be rendered from JSON just like
-players. Add commands to manage fora.

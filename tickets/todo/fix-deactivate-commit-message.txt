@@ -1,4 +1,0 @@
-# Fix deactivate commit message
-
-When deactivating a player, the commit message generated displays eir
-name as “null”.

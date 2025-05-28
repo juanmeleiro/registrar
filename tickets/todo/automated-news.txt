@@ -1,5 +1,0 @@
-# Automated News
-
-Implement logic that detects changes from the previous report and
-includes them in the NEWS section, possibly allowing for commentary from
-the registrar.

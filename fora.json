@@ -1,0 +1,62 @@
+{
+  "notes": "Note that some of the channels in Discord, IRC and Matrix are linked through bridges. Specifically, the ##nomic-drafting IRC channel is bridged to the Discord one, which is bridged to the Matrix one, though those mechanisms are not always working.",
+  "fora": [
+    {
+      "publicity": "Public",
+      "location": "agora-official@agoranomic.org",
+      "use": "Official reports",
+      "note": "Subscribe or unsubscribe:\n\n    http://www.agoranomic.org/cgi-bin/mailman/listinfo"
+    },
+    {
+      "publicity": "Public",
+      "location": "agora-business@agoranomic.org",
+      "use": "Other business",
+      "note": "Subscribe or unsubscribe:\n\n    http://www.agoranomic.org/cgi-bin/mailman/listinfo"
+    },
+    {
+      "publicity": "Public",
+      "location": "agoranomic@groups.io",
+      "use": "Backup",
+      "note": "The forum is specifically just that email list. You can subscribe to GIO by messaging the following email\n\n    main+subscribe at agoranomic.groups.io"
+    },
+    {
+      "publicity": "Discussion",
+      "location": "agora-discussion@agoranomic.org",
+      "use": "Discussion",
+      "note": "Subscribe or unsubscribe:\n\n    http://www.agoranomic.org/cgi-bin/mailman/listinfo"
+    },
+    {
+      "publicity": "Discussion",
+      "location": "https://discord.gg/JCC6YGc",
+      "use": "Discussion"
+    },
+    {
+      "publicity": "Discussion",
+      "location": "agora-talk@agora.nomic.space",
+      "use": "Discussion"
+    },
+    {
+      "publicity": "Foreign",
+      "location": "agora@listserver.tue.nl",
+      "use": "Backup",
+      "note": "Subscribe or unsubscribe:\n\n    http://listserver.tue.nl/mailman/listinfo/agora"
+    },
+    {
+      "publicity": "Foreign",
+      "location": "irc://irc.libera.chat:6667/##nomic",
+      "use": "Discussion",
+      "note": "The IRC channel does not require subscription; set your IRC client to server irc.libera.chat, port 6667, channel ##nomic or ##nomic-drafting."
+    },
+    {
+      "publicity": "Foreign",
+      "location": "matrix:r/#agoranomiccommunity:mozilla.org",
+      "use": "Discussion",
+      "note": "There is also a Matrix foreign forum:\nhttps://matrix.to/#/#agoranomiccommunity:mozilla.org matrix:r/#agoranomiccommunity:mozilla.org?via=mozilla.org&via=matrix.org&via=gharbeia.net matrix:roomid/gRbsbOgIxyniozlrXO:mozilla.org?via=mozilla.org&via=matrix.org&via=gharbeia.net\n(Hopefully one of the links should work)"
+    },
+    {
+      "publicity": "Foreign",
+      "location": "irc://irc.libera.chat:6667/##nomic-drafting",
+      "use": "Discussion"
+    }
+  ]
+}

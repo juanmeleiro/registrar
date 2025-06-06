@@ -1,7 +1,12 @@
 # BACKLOG
 
-- List the Registrar's duties and relevant rules
+- Write checklists
+  - List the Registrar's duties and relevant rules
+- Write command `check`
+  - Use check-jsonschema
 - Add graph with the number of players to website
+- Add configuration to disable integration with mail client.
+- Make date commands parse email date values
 
 ## Ditch neomutt
 

@@ -1,0 +1,36 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+               REGISTRATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+————————————————————————————————————————
+              1 Conditions
+————————————————————————————————————————
+
+A person has expressed their intention
+of registering in the game in one of the
+public fora:
+
+- agora-official@agoranomic.org
+- agora-business@agoranomic.org
+- agoranomic@groups.io
+
+————————————————————————————————————————
+                2 Actions
+————————————————————————————————————————
+
+Working tree ..................... CLEAN
+    Verify git working tree is clean
+    of changes.
+
+Command ............................ RUN
+    See output of command:
+        ./registrar register -h
+
+Changes ......................... COMMIT
+    Commit changes to git with a
+    descriptive message like
+    “Register <playername>”.
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                   FIM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

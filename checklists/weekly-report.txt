@@ -1,0 +1,60 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+              WEEKLY REPORT
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+————————————————————————————————————————
+              1 Conditions
+————————————————————————————————————————
+
+Either:
+
+- It's time to publish the current's
+  week report.
+
+- You accepted a CoE and need to
+  republish the report.
+
+————————————————————————————————————————
+                2 Actions
+————————————————————————————————————————
+
+Working tree ..................... CLEAN
+    Verify git working tree is clean
+    of changes.
+
+Command ............................ RUN
+    See output of command:
+        ./registrar weekly -h
+
+News .............................. EDIT
+    Edit the news section in the
+    temporary buffer that was opened in
+    the programmed $EDITOR to include
+    your message.
+
+    It is pre-filled with events from
+    the log and commits in the repo.
+
+    Save the changes and close the
+    editor.
+
+Message ........................... SEND
+   Send the message using your mail
+   client.
+
+Changes ......................... COMMIT
+    Commit changes to git with a
+    descriptive message like
+    “Weekly report”.
+
+Inactive players ................. CHECK
+    If there are players inactive for
+    60 days or more, perform the
+    Inactive Players checklist.
+
+Check .............................. RUN
+    ./registrar check
+
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+                   FIM
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

@@ -43,6 +43,8 @@
     - Messages where a player is deactivated (R2646)
   - Reactivation
     - Messages where a player reactivates emself (R2646)
+  - CoEs
+    - Messages containing claims of error on the Registrar's reports. (R2201)
   - Changes
     - Messages in which pertinent rules are changed.
 

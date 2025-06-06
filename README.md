@@ -52,6 +52,10 @@
   purposes of inactivating them. If you find a good procedure, update
   this documentation and create the relevant checklists. For now, I
   (juan) am leaving this to other players.
+
+- After any modification, you may run `./registrar check` to check the
+  integrity of this repository. This is not comprehensive, but it's an aid.
+
 ## Repository structure
 
 - `BACKLOG.md`. Notes on things to do to improve this repository and related things.

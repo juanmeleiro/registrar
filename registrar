@@ -11,6 +11,7 @@ local report = require "lib.report"
 local birthday = require "lib.birthday"
 local activity = require "lib.activity"
 local writ = require "lib.writ"
+local check = require "lib.check"
 
 local parser = argparse("registrar", "Manage Agora's registrar duties")
 parser:flag("-p", "Pretend: only show what would be done")
@@ -68,6 +69,8 @@ cmd.writ: argument("when", "Date of the message") :convert(tonumber)
 cmd.writ: argument("cantus", "Path to file containing the Cantus Cygneus")
 cmd.writ: option("-m", "Message ID of the cantus")
 
+cmd.check = parser: command("check", "Check the integrity of this repository and display any errors.\nReturn status is 0 if everything is ok.")
+
 -- Deserialize
 local fns = {
 	players = "players.json",
@@ -100,6 +103,8 @@ elseif args.command == "readdress" then
    registration.readdress(args, players, log)
 elseif args.command == "writ" then
 	writ(args, players, log)
+elseif args.command == "check" then
+	check(args, player, log)
 else
 	io.write("Unknown command.\n")
 end

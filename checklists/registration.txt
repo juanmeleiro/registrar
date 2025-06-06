@@ -31,6 +31,9 @@ Changes ......................... COMMIT
     descriptive message like
     “Register <playername>”.
 
+Check .............................. RUN
+    ./registrar check
+
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
                    FIM
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

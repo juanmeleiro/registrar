@@ -393,6 +393,14 @@
         "name": "Automaticat",
         "reason": "v",
         "registration": "2025-01-04"
+      },
+      {
+        "active": true,
+        "contact": "automaticat.agora@gmail.com",
+        "latest": "2025-10-25",
+        "name": "Automaticat",
+        "reason": "s",
+        "registration": "2025-10-25"
       }
     ]
   },

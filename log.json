@@ -1300,5 +1300,12 @@
   {
     "what": "weekly",
     "when": 1760981875
+  },
+  {
+    "what": "register",
+    "when": 1761424554,
+    "whence": "automaticat.agora@gmail.com",
+    "where": "CAHVww5Dud24-cwX4mSs0XtY=DT3pvKFGwkTifJ8V_asn8d=wWA@mail.gmail.com",
+    "who": "Automaticat"
   }
 ]

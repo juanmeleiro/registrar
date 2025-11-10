@@ -5226,6 +5226,14 @@
         "name": "grok",
         "reason": "a",
         "registration": "2020-05-20"
+      },
+      {
+        "active": true,
+        "contact": "grokagora@gmail.com",
+        "latest": "2025-11-08",
+        "name": "grok",
+        "reason": "s",
+        "registration": "2025-11-08"
       }
     ]
   },

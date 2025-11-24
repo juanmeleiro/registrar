@@ -395,11 +395,10 @@
         "registration": "2025-01-04"
       },
       {
-        "active": true,
         "contact": "automaticat.agora@gmail.com",
-        "latest": "2025-10-25",
+        "deregistration": "2025-11-22",
         "name": "Automaticat",
-        "reason": "s",
+        "reason": "v",
         "registration": "2025-10-25"
       }
     ]

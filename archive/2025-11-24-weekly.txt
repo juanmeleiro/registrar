@@ -1,0 +1,197 @@
+Date: Mon, 24 Nov 2025 13:05:58 -0300
+From: juan <juan@juanmeleiro.mat.br>
+To: agora-official@agoranomic.org
+Subject: [Registrar] Weekly report
+Message-ID: <oG9VbXkL@juanmeleiro.mat.br>
+Mail-Followup-To: agora-official@agoranomic.org
+MIME-Version: 1.0
+Content-Type: text/plain; charset=us-ascii
+Content-Disposition: inline
+X-Mutt-Resume-Draft: 1
+
+===============================================================================
+Registrar: juan              The Agoran Directory                    2025-11-24
+===============================================================================
+
+-------------------------------------------------------------------------------
+NEWS
+
+* 2025-11-22 15:47 -0300 Deregistered Automaticat. Farewell!
+
+-------------------------------------------------------------------------------
+PLAYERS
+
+Active players: 29/32
+
+a Player             Registration Latest     Contact                             
+- ------------------ ------------ ---------- ----------------------------------- 
++ Gaelan             2017-05-15   2023-06-06 gbs@canishe.com                     
++ Murphy             2017-12-17   2021-02-03 murphy.agora@gmail.com              
++ Janet              2019-06-02   2021-02-03 janet.agora@unspecified.systems     
++ ais523             2021-06-08       "      callforjudgement@yahoo.co.uk        
++ snail              2022-01-29       "      secretsnail9@gmail.com              
++ juan               2022-03-14       "      juan@juanmeleiro.mat.br             
++ Aris               2022-11-07       "      thoughtsoflifeandlight17@gmail.com  
++ kiako              2023-08-05       "      agora@kiako.me                      
++ Kate               2023-08-21       "      lists@qenya.tel                     
++ Ben                2023-11-26   2023-11-26 amdwagora@gmail.com                 
++ Jimmy              2023-12-03   2023-12-03 returnofjimmy@gmail.com             
++ Liz Wake           2023-12-10   2024-12-08 vagueposted@gmail.com               
++ Juniper            2024-04-10   2024-04-10 matthew.f.smyth@gmail.com           
++ 4st                2024-05-15   2024-05-15 4st.nomic@gmail.com                 
++ Mischief           2024-05-15   2024-05-15 agoran.mischief@gmail.com           
++ literallyAmbiguous 2024-05-29   2024-05-29 paulmcdowell18@gmail.com            
++ oliver.n           2024-08-19   2025-04-08 olivern0@proton.me                  
++ kambri             2025-03-23   2025-03-23 kamaddoke@gmail.com                 
++ Cosmo              2025-04-01   2025-04-01 agorancosmo@gmail.com               
++ LegallyBearded     2025-04-06   2025-04-06 legallybearded@gmail.com            
++ Trigon             2025-05-01   2025-05-01 reuben.staley@gmail.com             
++ RadicalRose        2025-06-16   2025-06-16 agoranomic@fastmail.com             
++ Caramel            2025-06-21   2025-06-21 c0okeesncr3em@gmail.com             
++ Kaia               2025-07-04   2025-07-04 kaia.sky01@gmail.com                
++ EarlyRetirement8   2025-10-14   2025-10-14 earlyretirement8@gmail.com          
++ Ferret             2025-10-17   2025-10-17 themoonisbrighttoblueeyes@gmail.com 
++ nix                2025-10-18   2025-10-18 agora@nullarch.com                  
++ mqyhlkahu          2025-11-06   2025-11-06 mqyhlkahu@gmail.com                 
++ grok               2025-11-08   2025-11-08 grokagora@gmail.com                 
+- omd                2011-02-03   2024-02-12 comexk@gmail.com                    
+- sprock             2025-01-05   2025-10-17 sprocklem@gmail.com                 
+- Burning Beef       2025-07-07   2025-10-31 burning.beef.agora@gmail.com        
+
+Conventions:
+* Player: Latest player name.
+* Registered: Date of latest registration.
+* Latest: Date of latest change in Activity.
+* Contact: Email address or URI for eir prefered contact method
+
+Legend for symbols:
+a Activity
++ Active
+- Inactive
+" Same value as cell to the left
+
+
+-------------------------------------------------------------------------------
+FORA
+
+------------------------------
+[Public] agora-official@agoranomic.org
+
+Official reports
+
+Subscribe or unsubscribe:
+
+    http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+------------------------------
+[Public] agora-business@agoranomic.org
+
+Other business
+
+Subscribe or unsubscribe:
+
+    http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+------------------------------
+[Public] agoranomic@groups.io
+
+Backup
+
+The forum is specifically just that email list. You can subscribe to
+GIO by messaging the following email
+
+    main+subscribe at agoranomic.groups.io
+
+------------------------------
+[Discussion] agora-discussion@agoranomic.org
+
+Discussion
+
+Subscribe or unsubscribe:
+
+    http://www.agoranomic.org/cgi-bin/mailman/listinfo
+
+------------------------------
+[Discussion] https://discord.gg/JCC6YGc
+
+Discussion
+
+------------------------------
+[Discussion] agora-talk@agora.nomic.space
+
+Discussion
+
+------------------------------
+[Foreign] agora@listserver.tue.nl
+
+Backup
+
+Subscribe or unsubscribe:
+
+    http://listserver.tue.nl/mailman/listinfo/agora
+
+------------------------------
+[Foreign] irc://irc.libera.chat:6667/##nomic
+
+Discussion
+
+The IRC channel does not require subscription; set your IRC client to
+server irc.libera.chat, port 6667, channel ##nomic or ##nomic-drafting.
+
+------------------------------
+[Foreign] matrix:r/#agoranomiccommunity:mozilla.org
+
+Discussion
+
+There is also a Matrix foreign forum:
+https://matrix.to/#/#agoranomiccommunity:mozilla.org
+matrix:r/#agoranomiccommunity:mozilla.org?via=mozilla.org&via=matrix.org&via=gharbeia.net
+matrix:roomid/gRbsbOgIxyniozlrXO:mozilla.org?via=mozilla.org&via=matrix.org&via=gharbeia.net
+(Hopefully one of the links should work)
+
+------------------------------
+[Foreign] irc://irc.libera.chat:6667/##nomic-drafting
+
+Discussion
+
+Note that some of the channels in Discord, IRC and Matrix are linked
+through bridges. Specifically, the ##nomic-drafting IRC channel is
+bridged to the Discord one, which is bridged to the Matrix one, though
+those mechanisms are not always working.
+
+-------------------------------------------------------------------------------
+BANNED PEOPLE
+
+-------------------
+Person  Date of ban
+------  -----------
+Madrid  2022-09-11
+-------------------
+
+-------------------------------------------------------------------------------
+INTERNAL
+
+Regarding what information is included in the report and why.
+
+- List of players (R2139)
+- List of players' contact information (R2139)
+- Date of latest registration (R2139)
+- Fora (R2139)
+- Date of latest activation (convenience for deregistrations as per R2646)
+- Number of players (petition by nix on 2023-02-23)
+- Banned people (R2679)
+- agora.nomic.space forum (P9146, message://c1ba126e-d47c-4b4b-9fae-835b31f46cf5@unspecified.systems)
+
+-------------------------------------------------------------------------------
+EDITORIAL
+
+For any corrections,
+For any suggestions or complaints of form,
+Please contact the Registrar.
+
+
+===============================================================================
+
+-- 
+juan
+Registrar, Absurdor

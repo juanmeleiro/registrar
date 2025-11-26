@@ -1357,5 +1357,11 @@
   {
     "what": "weekly",
     "when": 1764000359
+  },
+  {
+    "what": "deregister",
+    "when": 1764105768,
+    "where": "CANQxEFu40jsWmGDMCRrAMmsq8TXhF8h0RvU7QjAu2pXH2PhULw@mail.gmail.com",
+    "who": "EarlyRetirement8"
   }
 ]

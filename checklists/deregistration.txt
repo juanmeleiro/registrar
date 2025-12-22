@@ -1,0 +1,40 @@
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+               DEREGISTRATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+
+————————————————————————————————————————
+                 Intend
+————————————————————————————————————————
+
+* Player has been inactive
+  for 60 days .................... CHECK
+
+* Intend without 3 objections
+  to deregister
+
+* Create task to deregister in 4 days
+
+* Wait
+
+————————————————————————————————————————
+                 Perform
+————————————————————————————————————————
+
+Since intent it has been:
+
+* At least 4 days  ............... CHECK
+
+* No more than 14 days ........... CHECK
+
+Also:
+
+* Speaker hasn't objected OR
+  Speaker objected > 48h ago ...... CHECK
+
+Then:
+
+* Do the action
+ 
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
+             END OF DEACTIVATION
+━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━

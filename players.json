@@ -5768,11 +5768,10 @@
   "sprock": {
     "history": [
       {
-        "active": false,
         "contact": "sprocklem@gmail.com",
-        "latest": "2025-10-17",
+        "deregistration": "2025-12-26",
         "name": "sprock",
-        "reason": "s",
+        "reason": "a",
         "registration": "2025-01-05"
       }
     ]

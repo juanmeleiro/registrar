@@ -1381,5 +1381,11 @@
   {
     "what": "weekly",
     "when": 1766410503
+  },
+  {
+    "what": "deregister",
+    "when": 1766760610,
+    "where": "oK+ZwMTa@juanmeleiro.mat.br",
+    "who": "sprock"
   }
 ]

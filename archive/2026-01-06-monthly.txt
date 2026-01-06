@@ -1,0 +1,1997 @@
+Date: Tue, 6 Jan 2026 13:30:22 -0300
+From: juan <juan@juanmeleiro.mat.br>
+To: agora-official@agoranomic.org
+Subject: [Registrar] Monthly report: Arrivals and Departures
+Message-ID: <oMXeeDm+@juanmeleiro.mat.br>
+Mail-Followup-To: agora-official@agoranomic.org
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+Content-Disposition: inline
+Content-Transfer-Encoding: 8bit
+X-Mutt-Resume-Draft: 1
+
+===============================================================================
+Registrar: juan              Arrivals and Departures                 2026-01-06
+===============================================================================
+
+-------------------------------------------------------------------------------
+EVENTS
+
+* 2025-11-06 00:14 -0300 Registered mqyhlkahu
+* 2025-11-08 00:38 -0300 Registered grok
+* 2025-11-22 15:47 -0300 Deregistered Automaticat
+* 2025-11-25 18:22 -0300 Deregistered EarlyRetirement8
+* 2025-12-12 14:03 -0300 Deactivated Caramel
+* 2025-12-26 11:50 -0300 Deregistered sprock
+
+Selected commits:
+
+	46e40a8 Add checklist for deregistration
+
+-------------------------------------------------------------------------------
+EDITORIAL
+
+For any corrections,
+For any suggestions or complaints of form,
+Please contact the Registrar.
+
+-------------------------------------------------------------------------------
+WRITS OF FAGE
+
+
+PLAYER    DATE
+--------  ----------
+Kelly     1995-09-17
+Andre     1999-02-13
+BobTHJ    2008-01-16
+P1        2008-11-05
+P2        2008-11-05
+P3-P100   2008-11-06
+Wooble    2011-09-01
+G.        2017-06-29
+Telnaior  2019-01-29
+nix       2019-10-18
+Warrigal  2020-04-23
+Aspen     2022-04-08
+nix       2022-08-29
+ziproot   2022-11-07
+jimmy     2023-04-09
+4st       2024-03-14
+
+
+-------------------------------------------------------------------------------
+HISTORY
+
+Registration history of persons who have registered and deregistered
+at least once (imperfect, corrections welcomed)
+
+(a)bandoned       (l)awless
+(v)oluntary       (d)eported
+(w)rit of FAGE    deregistered emself by mista(k)e
+(p)roposal        d(e)stroyed
+(r)atification    (u)known
+e(x)iled          (s)till registered
+(b)anned
+
+===============
+"I create a Slave Golem whose name is the full body of this message.\n(Preemptive arguments: It's not confusing, merely long.)\nOn Fri, Jun 8, 2012 at 7:16 PM, Pavitra <celestialcognit...@gmail.com> wrote:\n> On 06/08/2012 07:03 PM, John Smith wrote:\n>> For good measure, I transfer Scapegoat to Pavitra.\n>\n> I transfer Scapegoat to the number four hundred forty-one thousand three\n> hundred forty-four."
+  (v) "I create a Slave Golem whose name is the full body of this message.\n(Preemptive arguments: It's not confusing, merely long.)\nOn Fri, Jun 8, 2012 at 7:16 PM, Pavitra <celestialcognit...@gmail.com> wrote:\n> On 06/08/2012 07:03 PM, John Smith wrote:\n>> For good measure, I transfer Scapegoat to Pavitra.\n>\n> I transfer Scapegoat to the number four hundred forty-one thousand three\n> hundred forty-four." <c/o omd> (2012-06-08--2012-07-13)
+
+===============
+0x44
+  (v) 0x44 <bnomic@indistinct.org> (2008-10-10--2008-12-30)
+
+===============
+4st
+  (r) 4st <notorious4st@gmail.com> (2022-06-25--2022-10-11)
+  (w) 4st <4st.nomic@gmail.com> (2023-01-27--2024-03-14)
+  (s) 4st <4st.nomic@gmail.com> (2024-05-15--now)
+
+===============
+AFO
+  (u) AFO <c/o Murphy> (2007-09-17--2009-02-11)
+
+===============
+ATMunn
+  (v) ATMunn <iamingodsarmy@gmail.com> (2017-09-21--2018-02-09)
+  (v) ATMunn <iamingodsarmy@gmail.com> (2018-03-11--2022-03-14)
+
+===============
+Aced7
+  (a) Aced7 <cadenomic@gmail.com> (2022-10-19--2023-06-12)
+
+===============
+Aenet
+  (a) Aenet <aidananthony14@gmail.com> (2021-03-16--2021-08-24)
+
+===============
+Agora Nomic
+  (d) Agora Nomic <?> (2011-06-23--2013-04-22)
+
+===============
+Agora's Child
+  (d) Agora's Child <agoras-child@googlegroups.com> (2007-12-03--2008-01-02)
+
+===============
+Alexis
+  (v)  <■■■■■■■@csclub.uwaterloo.ca> (2009-03-07--2011-01-26)
+  (v)  <■■■■■■■@csclub.uwaterloo.ca> (2011-03-03--2013-01-12)
+  (r)  <■■■■■■■@csclub.uwaterloo.ca> (2013-04-01--2013-04-30)
+  (r)  <■■■■■■■@csclub.uwaterloo.ca> (2013-04-30--2013-05-06)
+  (r)  <■■■■■■■@csclub.uwaterloo.ca> (2013-05-09--2013-05-12)
+  (r)  <■■■■■■■@csclub.uwaterloo.ca> (2013-05-13--20 2013-05)
+  (r)  <■■■■■■■@csclub.uwaterloo.ca> (2013-05-26--28 2013-05)
+  (v)  <■■■■■■■@csclub.uwaterloo.ca> (2014-01-02--2014-08-22)
+  (v)  <■■■■■■■@csclub.uwaterloo.ca> (2014-10-15--2015-04-06)
+  (d)  <■■■■■■■@csclub.uwaterloo.ca> (2015-04-23--2015-08-10)
+  (v) Alexis <alercah@gmail.com> (2016-09-14--2017-01-08)
+  (v) Alexis <alercah@gmail.com> (2017-09-27--2018-02-28)
+  (v) Alexis <alercah@gmail.com> (2020-01-06--2020-05-03)
+
+===============
+Alexx
+  (u) Alexx <alexx@world.std.com> (<= 1994-04-05--nil)
+
+===============
+Alice
+  (u) Alice <cat@orion.mrc.unm.edu> (<= 1994-04-05--unknown)
+
+===============
+Andon
+  (a) Andon <aozeba@gmail.com> (2010-03-01--2010-09-07)
+
+===============
+Andre
+  (v) Andre <engels@win.tue.nl> (1994-11--1998-01-22)
+  (w) Andre <engels@win.tue.nl> (1998-11-28--1999-02-13)
+  (v) Andre <engels@win.tue.nl> (2000-08-18--2000-12-06)
+
+===============
+Andy Latto
+  (u) Andy Latto <andyl@harlequin.com> (<= 1994-04-05--nil)
+
+===============
+Annabel
+  (v) Annabel <lenore@sdf.lonestar.org> (1999-07-29--1999-10-01)
+  (v) Annabel <lenore@sdf.lonestar.org> (2001-05-16--2001-05-31)
+
+===============
+Anneke-Constantine
+  (a) Anneke-Constantine <agora.quarentine@gmail.com> (2023-05-23--2024-04-19)
+
+===============
+Anthony
+  (u) Anthony <abriggs@iinet.net.au> (2000-02-11--2001-09-10)
+
+===============
+Anti-Cleisthenes
+  (r) Anti-Cleisthenes <agoranepitaph@gmail.com> (2022-09-09--2022-10-03)
+
+===============
+Antimatter
+  (v) Antimatter <rmorganl@fred.fhcrc.org> (1998-03-5--1998-10-31)
+
+===============
+Aris
+  (w) Aspen <thoughtsoflifeandlight17@gmail.com> (2016-09-13--2022-04-08)
+      Formerly Aris
+  (s) Aris <thoughtsoflifeandlight17@gmail.com> (2022-11-07--now)
+
+===============
+Arkady
+  (a) Arkady <arkadyenglish+agora@gmail.com> (2011-07-18--2013-05-21)
+
+===============
+Arufonsu
+  (v) Arufonsu <swettt@mail.gvsu.edu> (2013-12-15--29 2013-12)
+
+===============
+Automaticat
+  (v) Automaticat <owenpchamberlin@gmail.com> (2025-01-04--2025-03-08)
+  (v) Automaticat <automaticat.agora@gmail.com> (2025-10-25--2025-11-22)
+
+===============
+Bank of Agora
+  (d) Bank of Agora <c/o Ivan Hope CXXVII> (2008-04-14--2008-06-29)
+
+===============
+Baron von Vaderham
+  (a) Baron von Vaderham <davidseeber@outlook.com> (2019-02-04--2020-11-29)
+
+===============
+Bayes
+  (d) Bayes <> (2008-10-01--2009-05-26)
+
+===============
+Bayushi
+  (a) Bayushi <thelas.staloras@gmail.com> (2013-10-19--2015-07-16)
+  (d) Bayushi <thelas.staloras@gmail.com> (2017-06-29--2017-11-16)
+
+===============
+Beefurabi
+  (l) Beefurabi <david@kasey.umkc.edu> (1999-04-19--1999-09-07)
+
+===============
+Ben
+  (s) Ben <amdwagora@gmail.com> (2023-11-26--now)
+
+===============
+Ben Daniel
+  (a) Ben Daniel <ben@bendaniel.us> (2009-04-28--2009-08-24)
+
+===============
+Benbot²
+  (a) Benbot² <benjaminfrancisrodriguez@gmail.com> (2021-10-03--2022-04-08)
+
+===============
+Bernie
+  (a) Bernie <hidreigon@gmail.com> (2019-04-06--2020-04-23)
+
+===============
+Big Brother
+  (d) Big Brother <c/o comex> (2007-09-17--2008-01-02)
+      (Big Brother's registration status was UNDETERMINED per CFJ 1744)
+
+===============
+BigBobBingo !
+  (a) BigBobBingo ! <arran.soule@gmail.com> (2021-09-22--2022-04-08)
+
+===============
+Billy Pilgrim
+  (a) Billy Pilgrim <bad.leprechaun@gmail.com> (2008-10-22--2009-06-05)
+
+===============
+Blaise
+  (-) Blaise <bmbuck@14850.com> (2001-09-10--2002-03-11)
+
+===============
+Blob
+  (u) Blob <malcolmr@cse.unsw.edu.au> (1996-01-06--1996-03-31)
+  (u) Blob <malcolmr@cse.unsw.edu.au> (1996-11--<=1997-11-20)
+  (u) Blob <malcolmr@cse.unsw.edu.au> (1997-11-20--2001-09-10)
+  (a) Blob <malcolmr@cse.unsw.edu.au> (2003-01-21--2004-02-22)
+
+===============
+BobTHJ
+  (v) BobTHJ <pidgepot@gmail.com> (2007-04-30--2007-10-01)
+  (w) BobTHJ <pidgepot@gmail.com> (2007-11-05--2008-01-16)
+  (a) BobTHJ <pidgepot@gmail.com> (2008-01-17--2010-08-01)
+  (a) BobTHJ <pidgepot@gmail.com> (2010-12-28--2011-06-26)
+  (a) BobTHJ <pidgepot@gmail.com> (2011-07-13--2011-12-08)
+  (a) BobTHJ <pidgepot@gmail.com> (2012-06-03--2013-04-07)
+
+===============
+Brian Greer
+  (u) Brian Greer <> (1995-08--nil)
+
+===============
+BuckyBot
+  (e) BuckyBot <c/o Bucky spambait3@yahoo.com> (2012-03-31--2013-04-20)
+
+===============
+Burning Beef
+  (s) Burning Beef <burning.beef.agora@gmail.com> (2025-07-07--now)
+
+===============
+Bögtil
+  (v) Bögtil <stefan.fjellander@gmail.com> (2020-05-22--2020-06-20)
+
+===============
+Cainech
+  (a) Cainech <cainech@hotmail.com> (2004-02-09--2004-06-19)
+
+===============
+Calabresi
+  (a) Calabresi <mcdaniel@law.harvard.edu> (1997-12-05--nil)
+
+===============
+Cap'n
+  (a) Cap'n <acadia_but_real@protonmail.com> (2022-08-15--2023-01-20)
+
+===============
+Caramel
+  (s) Caramel <c0okeesncr3em@gmail.com> (2025-06-21--now)
+
+===============
+Caste8a
+  (d) Caste8a <c/o C-walker> (2009-06-18--2009-06-18)
+      Questioned
+  (d) Caste8a <c/o C-walker?> (2009-06-18--2009-07-10)
+      Questioned
+
+===============
+Caste8b
+  (d) Caste8b <c/o C-walker> (2009-06-18--2009-06-18)
+      Questioned
+  (d) Caste8b <c/o C-walker?> (2009-06-18--2009-07-10)
+      Questioned
+
+===============
+Caste8c
+  (d) Caste8c <c/o C-walker> (2009-06-18--2009-06-18)
+      Questioned
+  (d) Caste8c <c/o C-walker?> (2009-06-18--2009-07-10)
+      Questioned
+
+===============
+Caste8d
+  (d) Caste8d <c/o C-walker> (2009-06-18--2009-06-18)
+      Questioned
+  (d) Caste8d <c/o C-walker?> (2009-06-18--2009-07-10)
+      Questioned
+
+===============
+Caste8e
+  (d) Caste8e <c/o C-walker> (2009-06-18--2009-06-18)
+      Questioned
+  (d) Caste8e <c/o C-walker?> (2009-06-18--2009-07-10)
+      Questioned
+
+===============
+Caste8f
+  (d) Caste8f <c/o C-walker> (2009-06-18--2009-06-18)
+      Questioned
+  (d) Caste8f <c/o C-walker?> (2009-06-18--2009-07-10)
+      Questioned
+
+===============
+Cecilius
+  (v) Cecilius <cecilius@vivace.homelinux.net> (2002-12-04--2003-08-10)
+  (v) Cecilius <organist@gmail.com> (2006-12-22--2007-03-23)
+
+===============
+Celeste
+  (a) Celeste <celesteatagora@gmail.com> (2024-08-26--2025-05-26)
+
+===============
+Charles
+  (d) Charles <charles.w.walker@gmail.com> (2016-07-11--2017-05-31)
+
+===============
+Cheese
+  (a) Cheese <alexip013@gmail.com> (2024-09-15--2025-05-26)
+
+===============
+Chester Mealer
+  (v) Chester Mealer <cdm014@gmail.com> (2014-07-03--2014-10-24)
+
+===============
+ChrisM
+  (v) ChrisM <cmonsour@Princeton.EDU> (<= 1995-10-23--1997-11-11)
+
+===============
+Chuck <carroll.charles.e@gmail.com>
+  (a) Chuck <games_na@chuckcarroll.org> (1993-09-01--2001-06-08)
+
+===============
+CoCo
+  (u) CoCo <> (1995-10--1995-11)
+  (u) CoCo <> (1995-12-03--nil)
+
+===============
+Cole Jackson
+  (a) Cole Jackson <colejackson@gmail.com> (2014-01-26--2014-05-06)
+
+===============
+Coren
+  (u) Coren <coren@teleport.com> (<= 1996-02-21--1996-03)
+  (a) Coren <coren@teleport.com> (1996-09--1996-12-20)
+
+===============
+Corona
+  (a) Corona <liliumalbum.agora@gmail.com> (2017-11-17--2019-08-24)
+
+===============
+Cosmo
+  (s) Cosmo <agorancosmo@gmail.com> (2025-04-01--now)
+
+===============
+Craig
+  (a) Craig <raganok@intrex.net> (2002-04-25--2003-03-09)
+  (a) Craig <teucer@pobox.com> (2009-01-03--2009-04-19)
+
+===============
+CreateSource
+  (a) CreateSource <createsource.nomic@gmail.com> (2022-05-14--2022-10-31)
+
+===============
+Crito
+  (v) Crito <dalbertz@mrb.state.ma.us> (1997-02-19--2002-05-29)
+
+===============
+Crystalizedmire
+  (a) Crystalizedmire <awwellth@gmail.com> (2023-11-10--2024-04-19)
+
+===============
+Cuddlebeam
+  (v) Cuddlebeam <cuddlebeam@googlemail.com> (2017-05-20--2017-07-21)
+
+===============
+D. Margaux
+  (a) D. Margaux <dmargaux000@gmail.com> (2018-08-25--2020-11-29)
+      Also known as D Margaux.
+
+===============
+D. Wet
+  (v) D. Wet <d.wet@nomica.nl> (2021-07-27--2021-09-26)
+
+===============
+Darth Cliche
+  (v) Darth Cliche <kennercat@gmail.com> (2009-07-24--2009-07-31)
+  (a) Darth Cliche <kennercat@gmail.com> (2009-09-22--2010-01-26)
+  (a) Darth Cliche <kennercat@gmail.com> (2010-12-16--2011-04-06)
+
+===============
+Dave Bowen
+  (u) Dave Bowen <david.bowen@cray.com> (<= 1994-04-05--unknown)
+  (u) Dave Bowen <david.bowen@cray.com> (<=1995-01-10--1996-02-21)
+
+===============
+David
+  (u) David <David.Dickens@pepperdine.edu> (2000-12-18--2001-09-10)
+
+===============
+Doug
+  (u) Doug <dchatham@utk.edu> (<= 1996-02-02--1996-04-13)
+
+===============
+Douglas Jahnke
+  (u) Douglas Jahnke <chaotic@ksuvm.ksu.edu> (<= 1994-04-05--nil)
+
+===============
+Droowl
+  (a) Droowl <droowl@gmail.com> (2011-06-04--2011-12-08)
+
+===============
+Duane
+  (u) Duane <duanew@atlas.com> (<= 1994-04-05--unknown)
+
+===============
+Dvorak Herring
+  (a) Dvorak Herring <dvorak.herring@gmail.com> (2008-09-10--2009-09-27)
+
+===============
+EarlyRetirement8
+  (v) EarlyRetirement8 <earlyretirement8@gmail.com> (2025-10-14--2025-11-25)
+
+===============
+Edmond Dantes
+  (a) Edmond Dantes <dmarketdantes@gmail.com> (2009-08-02--2009-11-17)
+
+===============
+Eileen
+  (e) Eileen <c/o Pavitra> (2012-06-05--2013-01-22)
+
+===============
+Einstein
+  (u) Einstein <> (1995-10--nil)
+
+===============
+Elde
+  (u) Elde <elde@hurricane.net> (<= 1997-04-16--1997-10-04)
+
+===============
+Epaeris
+  (a) Epaeris <hermitchipmunk@gmail.com> (2010-04-18--2010-09-07)
+
+===============
+Eric Scheirer
+  (u) Eric Scheirer <escheire@cim470.mitre.org> (<= 1994-04-05--unknown)
+
+===============
+Eritivus
+  (r) Eritivus <eritivus@gmail.com> (2014-10-11--11 2014-10)
+  (v) Eritivus <eritivus@gmail.com> (2014-10-19--2014-12-16)
+
+===============
+Evantine
+  (u) Evantine <gordonhogenson@hotmail.com> (2001-02-09--2001-11-01)
+
+===============
+FKA441344
+  (a) FKA441344 <441344@gmail.com> (2012-01-13--2013-04-07)
+  (a) FKA441344 <441344@gmail.com> (2013-07-02--2014-02-12)
+
+===============
+FSX
+  (v) FSX <flameshadowxeroshin@gmail.com> (2012-01-09--2012-02-28)
+  (a) FSX <flameshadowxeroshin@gmail.com> (2012-04-03--2014-02-12)
+
+===============
+Falsifian
+  (v) Falsifian <agora@falsifian.org> (2019-02-13--2022-02-22)
+
+===============
+Ferret
+  (s) Ferret <themoonisbrighttoblueeyes@gmail.com> (2025-10-17--now)
+
+===============
+Flameshadowxeroshin
+  (a) Flameshadowxeroshin <Flameshadowxeroshin@gmail.com> (2010-11-10--2011-04-06)
+  (a) Flameshadowxeroshin <Flameshadowxeroshin@gmail.com> (2011-07-05--2011-12-08)
+
+===============
+Florw
+  (a) Florw <florwx@gmail.com> (2011-04-13--2011-07-31)
+  (a) Florw <florwx@gmail.com> (2012-03-17--2012-10-19)
+
+===============
+Fool
+  (a) Fool <fool1901@gmail.com> (2013-06-24--2014-07-22)
+
+===============
+Fred
+  (a) Fred <zarathustraincandenza@gmail.com> (2020-07-03--2020-11-20)
+
+===============
+G.
+  (v) Goethe <kerim@u.washington.edu> (2001-02-04--2003-03-24)
+  (v) Goethe <kerim@u.washington.edu> (2003-07-14--2007-01-22)
+      (Writ of FAGE published 2020-12-1806, resolved by Prop 4882)
+  (v) Goethe <kerim@u.washington.edu> (2007-02-23--2007-05-14)
+  (v) Goethe <kerim@u.washington.edu> (2007-10-27--2008-05-16)
+  (v) Goethe <kerim@u.washington.edu> (2008-06-19--2009-04-01)
+  (v) G. <kerim@u.washington.edu> (2009-05-04--2009-08-10)
+  (v) G. <kerim@u.washington.edu> (2009-10-29--2011-08-09)
+  (v) G. <kerim@u.washington.edu> (2011-10-18--2014-08-11)
+  (w) G. <kerim@u.washington.edu> (2017-06-29--2017-06-29)
+  (d) G. <kerim@uw.edu> (2017-08-25--2023-08-30)
+
+===============
+Gaelan
+  (s) Gaelan <gbs@canishe.com> (2017-05-15--now)
+      Previously known as Gaelan Steele
+  (d) Gaelan Steele <gbs@canishe.com> (2015-05-27--2015-08-10)
+
+===============
+Garth
+  (u) Garth <> (1995-09--1995-10)
+
+===============
+Ghost
+  (u) Ghost <labrown@dg-rtp.dg.com> (<= 1996-02-21--1996-03-25)
+  (v) Ghost <spambait3@yahoo.com> (2012-03-31--2012-03-31)
+
+===============
+Goddess Eris
+  (v) Goddess Eris <taral@taral.net> (2000-04-03--2006-12-13)
+
+===============
+Golem-1-50
+  (v) Golem-1-50 <c/o FKA441344> (2012-03-04--2012-03-05)
+
+===============
+Gondolier
+  (a) Gondolier <gondola43@gmail.com> (2011-06-24--2011-11-11)
+
+===============
+Goren Barak
+  (a) Goren Barak <gorenbk@riseup.net> (2023-11-18--2024-11-29)
+
+===============
+Grech
+  (u) Grech <xe5j0y4halv3ev001@sneakemail.com> (2001-02-05--2001-09-10)
+
+===============
+GreyKnight
+  (p) GreyKnight <greyknight3@yahoo.com> (2006-09-06--2007-05-31)
+
+===============
+Greycell
+  (u) Greycell <dshannon@ga.com.au> (1996-03--1996-03-21)
+
+===============
+Gustalff Zibrowski
+  (u) Gustalff Zibrowski <clarkc@cpsc.ucalgary.ca> (<= 1994-04-05--unknown)
+
+===============
+Harlequin
+  (u) Harlequin <charlequin@yahoo.com> (1997-01--1998-11-27)
+  (u) Harlequin <charlequin@yahoo.com> (2000-01-10--2001-08-20)
+
+===============
+Henri
+  (d) Henri <henrib736@gmail.com> (2013-05-07--31 2017-05)
+
+===============
+Hooloovoo
+  (u) Hooloovoo <mhui421@hotmail.com> (2001-02-22--2001-10-08)
+
+===============
+Human Point Eight
+  (p) Human Point Eight <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Human Point Eleven
+  (p) Human Point Eleven <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Human Point Five
+  (p) Human Point Five <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Human Point Four
+  (p) Human Point Four <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Human Point Fourteen
+  (p) Human Point Fourteen <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Human Point Nine
+  (p) Human Point Nine <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Human Point Seven
+  (p) Human Point Seven <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Human Point Six
+  (p) Human Point Six <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Human Point Ten
+  (p) Human Point Ten <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Human Point Thirteen
+  (p) Human Point Thirteen <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Human Point Three
+  (p) Human Point Three <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Human Point Twelve
+  (p) Human Point Twelve <c/o Murphy> (2007-05-14--2007-05-23)
+
+===============
+Human Point Two
+  (d) Human Point Two <c/o OscarMeyr> (2007-04-29--2008-01-02)
+  (d) Human Point Two <quazienomic@gmail.com> (2008-06-20--2009-05-26)
+
+===============
+Hālian
+  (p) Hālian <halian@safiria.net> (2018-10-20--2019-09-18)
+
+===============
+IBA
+  (d) IBA <c/o comex?> (2009-08-21--2010-03-02)
+
+===============
+Iammars
+  (a) Iammars <iammars21@gmail.com> (2007-12-09--2008-10-02)
+
+===============
+Ian
+  (u) Ian <oneiros@ferret.lmh.ox.ac.uk> (2001-04-02--2001-10-08)
+
+===============
+Ian Cabell
+  (a) Ian Cabell <ian@yak.net> (1996-01-02--nil)
+
+===============
+Ienpw III
+  (a) Ienpw III <james.m.beirne@gmail.com> (2009-08-04--2010-06-15)
+  (a) Ienpw III <james.m.beirne@gmail.com> (2010-10-02--2011-03-08)
+  (a) Ienpw III <james.m.beirne@gmail.com> (2013-05-14--2014-02-12)
+  (d) Ienpw III <james.m.beirne@gmail.com> (2014-10-08--2015-08-10)
+  (d) Ienpw III <james.m.beirne@gmail.com> (2017-05-21--2017-11-16)
+
+===============
+Immae
+  (v) Immae <jeux+agora@mail.immae.eu> (2024-07-28--2024-08-21)
+
+===============
+Ivan Hope CXXVII
+  (k) Ivan Hope CXXVII <ihope127@gmail.com> (2008-01-30--2008-07-14)
+  (k) Ivan Hope CXXVII <ihope127@gmail.com> (2008-08-16--2008-10-07)
+
+===============
+JTAC
+  (a) JTAC <hmcl.supv@gmail.com> (2021-01-03--2021-06-30)
+
+===============
+Jackrabbit
+  (a) Jackrabbit <badatnamingthis@gmail.com> (2024-03-17--2024-11-29)
+
+===============
+Jacob Arduino
+  (a) Jacob Arduino <jacobarduino@gmail.com> (2018-11-12--2019-11-19)
+
+===============
+Jaff
+  (a) Jaff <jaffie2718@gmail.com> (2024-03-26--2024-11-29)
+
+===============
+Janet
+  (s) Janet <janet.agora@unspecified.systems> (2019-06-02--now)
+      Previously known as Jason. Previous email <jason.e.cobb at gmail.com>
+
+===============
+Jason2
+  (u) Jason2 <> (1995--nil)
+
+===============
+Jeffrey S.
+  (u) Jeffrey S. <> (--1995-10-25)
+
+===============
+Jeremy
+  (a) Jeremy <koojeremy@gmail.com> (2008-01-28--2008-06-20)
+
+===============
+Jester
+  (v) Jester <KJarvis@interworx.com.au> (1998-01-2--1998-05-01)
+
+===============
+Jim
+  (u) Jim <jcs@zycor.lgc.com> (<= 1994-04-05--nil)
+
+===============
+Jimmy
+  (w) jimmy <bibbapblap2@gmail.com> (2023-04-09--2023-04-09)
+  (s) Jimmy <returnofjimmy@gmail.com> (2023-12-03--now)
+
+===============
+Joe Piercey
+  (d) Joe Piercey <joerpiercey@gmail.com> (2014-10-15--2015-08-10)
+
+===============
+Joe [57]
+  (a) Joe [57] <arran.soule@gmail.com> (2021-01-19--2021-08-24)
+      Slam_Joe_Jr_Supreme
+
+===============
+JonRock
+  (u) JonRock <> (--1995-10)
+
+===============
+JonnyRotten
+  (a) JonnyRotten <jon.gilmour@gmail.com> (2009-07-30--2009-11-17)
+
+===============
+Jtael
+  (u) Jtael <mhough@leland.stanford.edu> (<= 1996-02-21--1996-07-24)
+
+===============
+Jumble
+  (a) Jumble <notajumbleofnumbers@gmail.com> (2021-03-21--2021-10-22)
+
+===============
+Juniper
+  (s) Juniper <matthew.f.smyth@gmail.com> (2024-04-10--now)
+
+===============
+Kaia
+  (s) Kaia <kaia.sky01@gmail.com> (2025-07-04--now)
+      Also on Discord as @kaiasky.
+
+===============
+Karl Anderson
+  (u) Karl Anderson <karl@reed.edu> (<= 1994-04-05--nil)
+
+===============
+Kate
+  (a) twg <me@timon.red> (2018-05-24--2020-12-27)
+  (s) Kate <lists@qenya.tel> (2023-08-21--now)
+
+===============
+Keba
+  (a) Keba <agora@kebay.org> (2010-08-12--2011-03-08)
+
+===============
+Kelly
+  (w) Kelly <> (1995-11-07--1995-09-17)
+      The date for Kelly's Writ was recorded as 1995-09-17, and the correct one is unknown
+  (u) Kelly <> (1995-11-17--1996-07-29)
+  (u) Kelly <> (1996-10--1996-11-07)
+  (u) Kelly <> (1997-03--1999-04-12)
+  (u) Kelly <kmartin@pyrzqxgl.org> (2000-05-01--2001-07-10)
+
+===============
+Kenyon
+  (a) Kenyon <kprater3.14@gmail.com> (2018-02-27--2018-10-16)
+
+===============
+Khoyo
+  (a) Khoyo <khoyobegenn@gmail.com> (2013-11-13--2015-07-16)
+
+===============
+Kirt
+  (u) Kirt <dankmyer@ac.grin.edu> (<= 1994-04-05--nil)
+
+===============
+KoJen
+  (u) KoJen <cogen@ll.mit.edu> (1996-01-01--nil)
+  (v) KoJen <cogen@ll.mit.edu> (1996-01-2--1997-06-12)
+
+===============
+Kolja
+  (a) Kolja <kolja_nomic@yahoo.de> (2004-02-03--2006-01-19)
+
+===============
+Kolja A.
+  (v) Kolja A. <herrmanns@rhein-neckar.netsurf.de> (1997-07-02--1999-12-16)
+
+===============
+Kyle Anderson
+  (v) Kyle Anderson <kyescott513c@gmail.com> (2017-08-23--24 2017-08)
+
+===============
+L
+  (a) L <prmcd16@yahoo.com> (2018-09-20--2019-08-24)
+
+===============
+Lance
+  (u) Lance <lab@biostat.mc.duke.edu> (<= 1994-04-05--unknown)
+
+===============
+Larry Smithmier
+  (u) Larry Smithmier <smithmierjr@uamont.edu> (<= 1994-04-05--unknown)
+
+===============
+Left Hand
+  (d) Left Hand <c/o Murphy> (2008-01-12--2008-12-08)
+
+===============
+LegallyBearded
+  (a) LegallyBearded <legallybearded@gmail.com> (2024-03-05--2024-11-29)
+  (s) LegallyBearded <legallybearded@gmail.com> (2025-04-06--now)
+
+===============
+Levi
+  (v) Levi <levi.stephen@optusnet.com.au> (2007-03-07--2008-02-17)
+
+===============
+Liberonscien
+  (a) Liberonscien <x1122334455@Writing.Com> (2014-04-23--2014-07-22)
+      also x1122334455
+
+===============
+Lily
+  (a) Lily <soupgirl.agora@gmail.com> (2024-08-20--2025-05-26)
+
+===============
+Lindar
+  (a) Lindar <lindarthebard@gmail.com> (2013-07-08--2014-02-12)
+
+===============
+Lindrum
+  (u) Lindrum <lindrum@panix.com> (2001-02-09--2001-11-01)
+
+===============
+Livenomic Partn...
+  (d) Livenomic Partn... <livenomic@nomictools.com> (2009-09-17--2009-10-10)
+
+===============
+Liz Wake
+  (s) Liz Wake <vagueposted@gmail.com> (2023-12-10--now)
+
+===============
+Lucidiot
+  (a) Lucidiot <Lucidot@brainshit.fr> (2020-11-08--2021-06-30)
+
+===============
+Ludwig
+  (a) Ludwig <tysger.nomic@gmail.com> (2013-04-08--2014-05-06)
+
+===============
+Luke Lockhart
+  (a) Luke Lockhart <luke.lockhart@gmail.com> (2009-06-04--2009-09-27)
+
+===============
+Machiavelli
+  (v) Machiavelli <swettt@mail.gvsu.edu> (2009-09-01--2012-02-29)
+  (v) Machiavelli <swettt@mail.gvsu.edu> (2012-04-25--2013-08-25)
+
+===============
+Macross
+  (v) Macross <macross@bellatlantic.net> (1998-05-21--1999-03-22)
+
+===============
+Madrid
+  (b) Madrid <cuddlebeam@gmail.com> (2017-08-25--2022-09-11)
+
+===============
+Magu
+  (a) Magu <mschmahl@acsalaska.net> (2003-12-24--2004-04-11)
+
+===============
+Maloney
+  (a) Maloney <maloneyagora@gmail.com> (2024-01-24--2024-11-29)
+
+===============
+Manu
+  (a) Manu <pacu@sympatico.ca> (2003-03-14--2003-08-20)
+  (p) Manu <sensoz@gmail.com> (2004-12-16--2007-10-18)
+  (a) Manu <sensoz@gmail.com> (2009-05-01--2009-09-27)
+
+===============
+Marb
+  (a) Marb <marb@shabu.town> (2022-11-27--2023-06-12)
+
+===============
+Marc Slager
+  (u) Marc Slager <> (1995-11-22--1995-12)
+
+===============
+Mask
+  (a) Mask <OatmealSurprise@protonmail.com> (2021-07-03--2021-09-05)
+
+===============
+Math321
+  (a) Math321 <math321@ymail.com> (2011-06-28--2011-12-08)
+
+===============
+Matt
+  (u) Matt <pardo@gibbs.oit.unc.edu> (<= 1994-04-05--nil)
+
+===============
+Maud
+  (v) harvel <> (1999-04-20--2006-12-13)
+  (v) Maud <m.slone@gmail.com> (2007-03-07--2007-05-14)
+
+===============
+Max Schutz
+  (a) Max Schutz <maxschutz777@gmail.com> (2012-11-05--2014-02-12)
+
+===============
+Mercury
+  (a) Mercury <mercuryagora1@gmail.com> (2024-01-10--2024-11-29)
+
+===============
+Michael
+  (v) Michael <michael.norrish@nicta.com.au> (1993-06-29--2007-03-13)
+
+===============
+Mischief
+  (u) Elysion <elysion@mindspring.com> (1999-02-23--2001-11-01)
+  (v) Elysion <boehmejo@msu.edu> (2004-02-10--2004-09-09)
+  (a) Elysion <boehmejo@msu.edu> (2008-10-20--2009-04-07)
+  (s) Mischief <agoran.mischief@gmail.com> (2024-05-15--now)
+
+===============
+Morendil
+  (u) Morendil <laurent@netdive.com> (<= 1995-10-11--<=1997-11-03)
+  (l) Morendil <laurent@netdive.com> (1997-11-03--1999-06-28)
+
+===============
+Mr. Incredible
+  (v) Mr. Incredible <c/o omd> (2012-02-16--2012-02-17)
+
+===============
+Murphy
+  Birthday: 1996-01-19
+  (v) Murphy <emurphy42@socal.rr.com> (< 1996-01-23--2007-09-24)
+  (d) Murphy <emurphy42@zoho.com> (2007-10-27--2017-11-17)
+  (s) Murphy <murphy.agora@gmail.com> (2017-12-17--now)
+      Previously emurphy42 at zoho.com
+
+===============
+Nameless
+  (v) Nameless <pr76952a@hotmail.com> (2009-04-22--2009-05-13)
+
+===============
+Narcisse
+  (u) Narcisse <hap@iglou.com> (1996-04--1996-05-21)
+
+===============
+Nathan
+  (a) Nathan <nathans.agora.email@gmail.com> (2020-08-19--2022-02-22)
+
+===============
+Nicol
+  (u) Nicol <dnicol@primus.cstp.umkc.edu> (<= 1994-04-05--unknown)
+
+===============
+Noah
+  (a) Noah <blackbeangirl919@gmail.com> (2021-01-14--2021-06-30)
+
+===============
+Normish Partnership 2
+  (d) Normish Partnership 2 <root@normish.org> (2008-08-12--2010-01-17)
+
+===============
+Novalis
+  (u) Novalis <turnerd@reed.edu> (2000-02-14--2001-09-10)
+
+===============
+Number Two
+  (e) Number Two <c/o Murphy> (2012-02-17--2012-06-05)
+
+===============
+Oerjan
+  (u) Oerjan <> (1995-09--1995-12)
+  (u) Oerjan <> (1996-01-03--nil)
+  (u) Oerjan <> (1996-04--2000-03-22)
+  (a) Oerjan <oerjan@nvg.ntnu.no> (2000-07-15--2004-11-14)
+
+===============
+Offhanded
+  (a) Offhanded <clarion.rain@gmail.com> (2008-04-29--2008-10-02)
+
+===============
+Olipro
+  (a) Olipro <olipro+agora@gmail.com> (2008-07-07--2008-12-07)
+
+===============
+OscarMeyr
+  (a) OscarMeyr <ke3om@verizon.net> (2002-03-04--2009-09-27)
+  (v) OscarMeyr <ben.dov.schultz@gmail.com> (2013-07-09--2014-01-28)
+
+===============
+Our Lady of Perpetual Responsibility
+  (e) Our Lady of Perpetual Responsibility <?> (2012-06-30--2013-01-22)
+
+===============
+Ouri
+  (a) Ouri <ouri.poupko@gmail.com> (2018-04-03--2018-10-16)
+
+===============
+Ozymandias
+  (a) Ozymandias <ozymandias.haynes@gmail.com> (2012-06-28--2013-04-07)
+
+===============
+P.S.S.
+  (a) P.S.S. <pscriboniusscholasticus@gmail.com> (2017-04-16--2019-09-22)
+      also known as Publius Scribonius Scholasticus / officially, but technically equivalent: p.scribonius.scholasticus at googlemail.com
+  (v) P.S.S. <p.scribonius.scholasticus@gmail.com> (2020-03-01--2020-12-31)
+      also known as Publius Scribonius Scholasticus
+
+===============
+P1
+  (w) P1 <c/o comex> (2008-11-05--2008-11-05)
+
+===============
+P1 - P100
+  (d) P1 - P100 <c/o comex> (2008-11-16--2008-11-25)
+
+===============
+P2
+  (w) P2 <c/o comex> (2008-11-05--2008-11-05)
+
+===============
+P2P Partnership
+  (d) P2P Partnership <c/o root> (2007-12-22--2008-01-02)
+
+===============
+P3-P100
+  (w) P3-P100 <c/o comex> (2008-11-06--2008-11-06)
+      Each P deregistered in a Writ of FAGE on the recorded date
+
+===============
+PNP
+  (d) PNP <perlnomic@nomictools.com> (2008-01-21--2009-06-28)
+
+===============
+Pakaran
+  (l) Pakaran <windrunner@gmail.com> (2002-10-04--2005-04-07)
+
+===============
+Palnatoke
+  (v) Palnatoke <palnatoke@get2net.dk> (1999-07-27--2001-03-27)
+
+===============
+Pascal
+  (u) Pascal <jreed@waun.tdsnet.com> (1995--1995-08)
+  (u) Pascal <jreed@waun.tdsnet.com> (1995-11-15--1996-01-21)
+
+===============
+Pat
+  (a) Pat <zettels_traum@tutanota.com> (2021-07-23--2022-02-22)
+
+===============
+Pavitra
+  (a) Pavitra <celestialcognition@gmail.com> (2007-08-10--2007-12-20)
+  (v) Pavitra <celestialcognition@gmail.com> (2008-01-25--2010-04-14)
+
+===============
+Peekee
+  (u) Peekee <pkpeekee@hotmail.com> (1998-12-25--2001-10-07)
+  (a) Peekee <peekee@blueyonder.co.uk> (2002-09-06--2004-04-11)
+  (v) Peekee <agora@peekee.co.uk> (2007-08-03--2007-08-12)
+  (a) Peekee <agora@peekee.co.uk> (2007-09-11--2008-03-31)
+
+===============
+People's Bank of Agora
+  (a) People's Bank of Agora <c/o PNP?> (2008-10-14--2009-11-14)
+
+===============
+Peter
+  (p) Peter <civilianjones@gmail.com> (2006-12-24--2007-05-31)
+
+===============
+Philomory
+  (a) Philomory <philomory@gmail.com> (2013-10-18--2014-05-06)
+
+===============
+Phlogistique
+  (a) Phlogistique <rnoe.rubinstein@gmail.com> (2012-06-25--2013-05-21)
+  (v) Phlogistique <noe.rubinstein@gmail.com> (2014-01-30--2014-02-28)
+
+===============
+Phoenix
+  (a) Phoenix <benuphoenix2@gmail.com> (2009-12-17--2010-06-15)
+
+===============
+Pilgore
+  (a) Pilgore <drpilgore@gmail.com> (2022-08-15--2023-01-20)
+
+===============
+Pineapple P
+  (a) Pineapple P <pineapple@fysh.org> (2007-02-26--2009-02-16)
+
+===============
+Primo Corporation
+  (d) Primo Corporation <c/o BobTHJ> (2007-05-11--2007-10-23)
+
+===============
+Proglet
+  (a) Proglet <proglet@usa.net> (1998-11-09--1999-01-15)
+
+===============
+ProofTechnique
+  (d) ProofTechnique <jhenahan@me.com> (2017-09-23--2017-11-16)
+
+===============
+Protection Racket
+  (p) Protection Racket <c/o BobTHJ> (2008-06-23--2009-02-22)
+
+===============
+Quadrantal
+  (a) Quadrantal <oliver.rb.burton+agora@gmail.com> (2024-04-07--2024-11-29)
+
+===============
+Quazie
+  (p) Quazie <quazienomic@gmail.com> (2005-02-15--2007-10-18)
+  (a) Quazie <quazienomic@gmail.com> (2008-06-05--2009-01-12)
+  (a) Quazie <quazienomic@gmail.com> (2009-04-27--2010-01-26)
+  (a) Quazie <quazienomic@gmail.com> (2011-04-12--2011-07-31)
+  (a) Quazie <quazienomic@gmail.com> (2017-04-15--2018-10-16)
+
+===============
+R. Lee
+  (v) R. Lee <edwardostrange@gmail.com> (2017-12-29--2019-07-29)
+      also known as V.J. Rada/Later changed to SarahEstrange0 at gmail.com.
+  (v) R. Lee <edwardostrange@gmail.com> (2019-12-29--2020-01-25)
+      Later changed to SarahEstrange0 at gmail.com.
+  (r) R. Lee <edwardostrange@gmail.com> (2020-02-28--2020-03-01)
+      Later changed to SarahEstrange0 at gmail.com.
+  (x) R. Lee <edwardostrange@gmail.com> (2020-03-16--2020-06-30)
+      Later changed to SarahEstrange0 at gmail.com.
+  (v) R. Lee <Sarahestrange0@gmail.com> (2020-06-30--2021-09-19)
+  (a) R. Lee <Sarahestrange0@gmail.com> (2021-10-22--2023-01-20)
+  (a) R. Lee <sarahestrange0@gmail.com> (2023-01-31--2023-06-12)
+  (v) V.J. Rada <vijarada@gmail.com> (2017-06-07--2017-08-11)
+      later known as R. Lee
+  (v) V.J. Rada <vijarada@gmail.com> (2017-09-05--2017-11-28)
+  (x) R. Lee <edwardostrange@gmail.com> (2020-06-30--2020-06-30)
+      (55 deregistrations)
+  (v) R. Lee <sarahestrange0@gmail.com> (2024-03-17--2024-04-27)
+
+===============
+RadicalRose
+  (a) RadicalRose <agoranomic@fastmail.com> (2024-11-16--2025-05-26)
+  (s) RadicalRose <agoranomic@fastmail.com> (2025-06-16--now)
+
+===============
+Rance
+  (a) Rance <rance_28@yahoo.com> (2019-04-09--2020-04-23)
+
+===============
+Randy Olsha
+  (a) Randy Olsha <moronservices@gmail.com> (2009-04-06--2009-08-17)
+
+===============
+Razl
+  (-) Razl <agora@peng.dyndns.org> (2001-02-08--2002-03-25)
+
+===============
+RedKnight
+  (a) RedKnight <redwallknight@hotmail.com> (2002-07-21--2006-01-19)
+
+===============
+Reformed Bank of Agora
+  (p) Reformed Bank of Agora <c/o BobTHJ> (2008-06-23--2009-02-22)
+
+===============
+Riail
+  (v) Riail <cpatti@gmail.com> (2004-05-19--2005-07-29)
+
+===============
+Rodlen
+  (a) Rodlen <rodlenjack@gmail.com> (2009-03-24--2009-11-14)
+
+===============
+Roujo
+  (v) Roujo <jonathan.rouillard@gmail.com> (2010-12-16--2017-05-27)
+
+===============
+S.
+  (u) S. <bookfool2001@hotmail.com> (2001-05-30--2001-11-17)
+
+===============
+SCHWA
+  (d) SCHWA <c/o Warrigal?> (2009-06-28--2009-11-14)
+
+===============
+SaltWater
+  (u) SaltWater <gorgonne@becker.u.washington.edu> (1995-12-11--nil)
+
+===============
+Sam (disputed)
+  (v) Sam (disputed) <c/o Walker> (2013-08-14--2014-03-26)
+
+===============
+Scapegoat
+  (v) Scapegoat <c/o the number 441,344> (2012-06-08--2012-08-06)
+
+===============
+Schneidster
+  (u) Schneidster <Et3schneid@aol.com> (1999-06-12--2001-09-10)
+
+===============
+Schrodinger's Cat
+  (a) Schrodinger's Cat <schrodingers.katana@gmail.com> (2008-06-12--2008-10-24)
+  (a) Schrodinger's Cat <schrodingers.katana@gmail.com> (2008-11-17--2009-11-17)
+  (a) Schrodinger's Cat <agora@lesidhetree.com> (2013-09-15--2014-05-06)
+
+===============
+Sci_Guy12
+  (d) Sci_Guy12 <jwc.science@gmail.com> (2016-07-14--2017-05-31)
+
+===============
+Second System Effect
+  (v) Second System Effect <c/o Murphy> (2007-05-13--2007-05-20)
+
+===============
+SeventeenMachine
+  (a) SeventeenMachine <17sagoranomicinbox@gmail.com> (2021-04-17--2022-02-22)
+
+===============
+Sgeo
+  (a) Sgeo <sgeoster@gmail.com> (2008-06-27--2011-07-31)
+  (a) Sgeo <sgeoster@gmail.com> (2011-10-21--2014-02-12)
+  (a) Sgeo <sgeoster@gmail.com> (2022-01-28--2022-06-04)
+
+===============
+Sheeple
+  (v) Sheeple <c/o ehird> (2008-11-16--2008-12-01)
+
+===============
+Shelvacu
+  (a) Shelvacu <agora@shelvacu.com> (2020-08-08--2020-11-20)
+      Also known as Shel.
+
+===============
+Sherlock
+  (v) Sherlock <jfry77@yahoo.com> (1998-01-16--1998-05-14)
+  (v) Sherlock <jfry77@yahoo.com> (2000-01-31--2000-07-25)
+  (v) Sherlock <jfry77@yahoo.com> (2003-01-29--2005-06-21)
+  (v) Sherlock <jfry77@yahoo.com> (2006-02-04--2007-05-14)
+
+===============
+Shredder
+  (a) Shredder <geoff@geoffschmidt.com> (2014-01-30--2014-05-06)
+
+===============
+Shy Owl
+  (a) Shy Owl <shy.owlman@gmail.com> (2020-11-11--2021-05-01)
+  (v) Shy Owl <shy.owlman@gmail.com> (2021-10-03--2021-11-03)
+  (a) Shy Owl <iamashyowl@proton.me> (2022-10-07--2023-06-12)
+  (v) Shy Owl <iamashyowl@proton.me> (2025-02-24--2025-03-18)
+
+===============
+Siege
+  (a) Siege <thesiege@gmail.com> (2008-11-26--2009-11-14)
+
+===============
+Sir Toby
+  (a) Sir Toby <jjweston@kenny.sir-toby.com> (2002-02-03--2005-05-20)
+  (a) Sir Toby <jjweston@gmail.com> (2008-09-10--2009-04-19)
+
+===============
+Solider-*-*
+  (e) Solider-*-* <c/o Pavitra> (2013-01-16--16 2013-01)
+      Many entities; effectiveness disputed.
+
+===============
+Sonny Jim
+  (a) Sonny Jim <sonny_jim@studiofrobel.com> (2012-01-23--2012-10-19)
+
+===============
+Spitemaster
+  (a) Spitemaster <bennerguy@gmail.com> (2009-03-07--2009-09-27)
+  (a) Spitemaster <bennerguy@gmail.com> (2010-03-08--2010-09-07)
+
+===============
+Sprocklem
+  (d) Sprocklem <sprocklem@gmail.com> (2013-10-19--2017-09-10)
+
+===============
+Stella?
+  (u) Stella? <kunne@cernvm.cern.ch> (<= 1994-04-05--unknown)
+
+===============
+Steve
+  (a) Steve <gardner@sng.its.monash.edu.au> (1994-07-01--2004-06-19)
+
+===============
+Stuart
+  (v) Stuart <stuart.presnell@bristol.ac.uk> (2001-02-24--2001-04-26)
+
+===============
+Surprise
+  (a) Surprise <surprisenomic@gmail.com> (2021-06-20--2022-02-22)
+
+===============
+Susan
+  (u) Susan <> (1995--nil)
+
+===============
+Swann
+  (u) Swann <saswann@gwis.com> (1995-11-14--1996-02-23)
+  (a) Swann <saswann@gwis.com> (1997-10-29--1998-09-15)
+
+===============
+Syllepsis
+  (a) Syllepsis <agora@syllepsis.org> (2001-02-05--2002-09-30)
+
+===============
+TABBAT
+  (a) TABBAT <tabchesnut@gmail.com> (2022-02-07--2022-06-04)
+
+===============
+TAL
+  (u) TAL <kunne@ipno.in2p3.fr> (1995-08--nil)
+
+===============
+TB148
+  (a) TB148 <tb148@proton.me> (2023-02-06--2023-06-12)
+      Initially known as Anthony Brown
+
+===============
+Taral
+  (v) Taral <taralx@gmail.com> (2007-04-28--2011-02-04)
+
+===============
+Tarhalindur
+  (a) Tarhalindur <ahzin23@icstudents.org> (2018-10-31--2019-07-13)
+
+===============
+Tcbapo
+  (a) Tcbapo <tcbapoagora@gmail.com> (2020-01-28--2020-07-12)
+
+===============
+Ted
+  (e) Ted <c/o Italy> (2013-01-16--16 2013-01)
+
+===============
+Teh Cltohed Mna Ni Teh Drak Woh Wtaches Adn Nevre Sasy A Wrod Execpt Wehn Psoessed Yb Dmeons Mcuhly Precocupied
+  (v) Teh Cltohed Mna Ni Teh Drak Woh Wtaches Adn Nevre Sasy A Wrod Execpt Wehn Psoessed Yb Dmeons Mcuhly Precocupied <penguinofthegods@gmail.com> (2008-05-08--2008-06-24)
+
+===============
+Tekneek
+  (d) Tekneek <tekgora@theglycerintekneek.com2015-06-12> (2017-05-31--nil)
+
+===============
+Telna
+  (v) Telna <agoratelna@iprimus.com.au> (2021-06-14--2021-10-26)
+      Formerly Telnaior
+  (a) Telnaior <JDGA@iinet.net.au> (2013-10-18--2014-05-06)
+  (a) Telnaior <jdga@iinet.net.au> (2019-01-15--nil)
+  (w) Telnaior <jdga@iinet.net.au> (2019-01-29--2019-01-29)
+  (a) Telnaior <jdga@iinet.net.au> (2019-01-29--2019-09-22)
+  (a) Telnaior <JDGA@iinet.net.au> (2020-03-21--2020-11-29)
+
+===============
+The Colonel
+  (v) The Colonel <blafard@uclink4.berkeley.edu> (1999-08-07--1999-08-08)
+
+===============
+The Diplomat
+  (e) The Diplomat <c/o Blognomic (blognomic.com)> (2012-03-31--2012-06-05)
+
+===============
+The Hanging Judge
+  (-) The Hanging Judge <c/o Zefram and comex> (2007-05-22--2007-06-09)
+
+===============
+The Host
+  (-) The Host <c/o Levi and Murphy> (2007-08-21--2007-08-30)
+
+===============
+The President
+  (v) The President <c/o the Speaker> (2011-03-03 or 2011-07-31--2012-05-13)
+
+===============
+Thimblefox
+  (a) Thimblefox <brianblomlie@icloud.com> (2014-02-14--2014-05-06)
+
+===============
+Tiger
+  (a) Tiger <jonatan.kilhamn@gmail.com> (2009-02-02--2011-03-08)
+      Later switched to natalie.kilhamn at gmail.com
+  (v) Tiger <jonatan.kilhamn@gmail.com> (2011-07-12--2012-01-26)
+      Later switched to natalie.kilhamn at gmail.com
+  (d) Tiger <jonatan.kilhamn@gmail.com> (2013-12-17--2015-08-10)
+      Later switched to natalie.kilhamn at gmail.com
+
+===============
+Tiger Jr.
+  (d) Tiger Jr. <c/o Tiger> (2009-06-18--2009-06-18)
+      Questioned
+  (d) Tiger Jr. <c/o Tiger?> (2009-06-18--2009-07-10)
+      Questioned
+
+===============
+Time Agent
+  (a) Time Agent <dAndreasen@pctb.com> (1998-01-16--1998-04-16)
+
+===============
+Timothy
+  (u) Timothy <timothy.ferguson@jcu.edu.au> (<= 1994-09-12--nil)
+
+===============
+Trapdoorspyder
+  (a) Trapdoorspyder <tdsagora@gmail.com> (2021-09-25--2022-04-08)
+
+===============
+Trigon
+  (a) Trigon <reuben.staley@gmail.com> (2017-09-24--2022-10-31)
+  (s) Trigon <reuben.staley@gmail.com> (2025-05-01--now)
+
+===============
+Tristan Bredeweg
+  (d) Tristan Bredeweg <trstnbrdwg0@gmail.com> (2015-07-28--2015-08-10)
+
+===============
+Turiski
+  (a) Turiski <turiski.nomic@gmail.com> (2011-04-20--2011-12-08)
+  (v) Turiski <turiski.nomic@gmail.com> (2013-07-26--30 2013-07)
+
+===============
+Tweedledee
+  (e) Tweedledee <c/o G.> (2012-02-16--2012-02-22)
+  (e) Tweedledee <?> (2013-01-28--2013-04-20)
+
+===============
+Tweedledum
+  (e) Tweedledum <c/o G.> (2012-02-16--2012-02-22)
+  (e) Tweedledum <?> (2013-01-28--2013-04-20)
+
+===============
+Tyler
+  (a) Tyler <tylermeady@gmail.com> (2020-06-06--2020-11-20)
+
+===============
+Ubercrow
+  (a) Ubercrow <unicationsmith2009@gmail.com> (2021-01-11--2021-08-24)
+
+===============
+Ur
+  (e) Ur <?> (2012-03-31--2013-01-22)
+
+===============
+Vanyel
+  (a) Vanyel <dpb@cs.brown.edu> (<= 1996-02-21--1997-12-05)
+
+===============
+Veggiekeks
+  (d) Veggiekeks <martinjroensch@gmail.com> (2017-05-25--2017-09-15)
+
+===============
+Vir
+  (a) Vir <eer@nwu.edu> (1997-09-4--1998-01-13)
+
+===============
+Vitor Gonçalves
+  (a) Vitor Gonçalves <vitorg@tilde.team> (2022-07-23--2023-01-20)
+
+===============
+Vlad
+  (a?) Vlad <c647100@showme.missouri.edu> (1995-11-14--1996-01-01)
+  (u) Vlad <c647100@showme.missouri.edu> (1996-01--1996-02-21)
+  (v) Vlad <c647100@showme.missouri.edu> (1999-01-28--1999-06-20)
+
+===============
+WALRUS
+  (d) WALRUS <c/o pikhq> (2007-12-20--2008-01-02)
+
+===============
+Waggie
+  (v) Waggie <dgwagner@math.uwaterloo.ca> (<= 1994-04-05--nil)
+
+===============
+Walker
+  (v) Walker <charles.w.walker@googlemail.com> (2009-04-25--2009-10-24)
+  (v) Walker <charles.w.walker@googlemail.com> (2009-12-05--2010-01-30)
+  (a) Walker <charles.w.walker@gmail.com> (2011-03-19--2014-02-12)
+  (a) Walker <charles.w.walker@gmail.com> (2014-03-26--2014-07-22)
+  (a) Walker <charles.w.walker@gmail.com> (2019-06-02--2020-04-17)
+
+===============
+Warrigal
+  (v) Warrigal <ihope127+w@gmail.com> (2008-11-06--2009-02-13)
+  (v) Warrigal <ihope127+w@gmail.com> (2009-03-16--2009-07-06)
+  (v) Warrigal <ihope127+@gmail.com> (2009-08-06--2009-08-06)
+  (w) Warrigal <tannerswett@gmail.com> (2020-01-24--2020-04-23)
+
+===============
+Warrigal, the
+  (d) Warrigal, the <tannerswett@gmail.com> (2015-04-25--2017-05-31)
+      previously Alfonso Machiavelli, the Warrigal
+
+===============
+Wes
+  (u) Wes <wesc@ichips.intel.com> (<= 1994-04-05--nil)
+  (v) Wes <wesc@antitribu.com> (<= 1995-11-08--1996-02-21)
+  (u) Wes <gecko@magika.com> (1996-03-06--nil)
+  (u) Wes <wesc@antitribu.com> (1999-05-18--2001-09-07)
+  (a) Wes <netgecko99@yahoo.com> (2004-04-12--2004-11-14)
+  (a) Wes <wesc@antitribu.com> (2013-01-29--2014-02-12)
+
+===============
+William Eisenburg
+  (a) William Eisenburg <william.eisenberg@gmail.com> (2013-08-14--2014-05-06)
+
+===============
+Wofi
+  (a) Wofi <wofi253@yahoo.com> (2011-03-30--2011-06-26)
+
+===============
+Wooble
+  (v) Wooble <geoffspear@gmail.com> (2007-07-03--2007-09-30)
+  (l) Wooble <geoffspear@gmail.com> (2007-11-16--2009-10-17)
+  (v) Wooble <geoffspear@gmail.com> (2009-11-17--2010-01-30)
+  (v) Wooble <geoffspear@gmail.com> (2010-03-21--2010-04-01)
+  (k) Wooble <geoffspear@gmail.com> (2010-05-02--2010-11-22)
+  (v) Wooble <geoffspear@gmail.com> (2010-12-22--2011-01-31)
+  (v) Wooble <geoffspear@gmail.com> (2011-03-03--2011-04-15)
+  (v) Wooble <geoffspear@gmail.com> (2011-05-17--2011-06-28)
+  (w) Wooble <wooble@nomictools.com> (2011-07-29--2011-09-01)
+  (v) Wooble <wooble@nomictools.com> (2011-10-03--2013-08-12)
+  (v) Wooble <wooble@nomictools.com> (2013-10-24--2014-02-28)
+
+===============
+Xanadu
+  (u) Xanadu <A.Bishop@student.anu.edu.au> (1995-10-26--nil)
+
+===============
+Yachay Wayllukuq
+  (a) Yachay Wayllukuq <yachaywayllukuq@gmail.com> (2023-03-16--2025-05-26)
+      a.k.a. Yachay
+
+===============
+Yally
+  (a) Yally <aarongoldfein@gmail.com> (2009-02-07--2014-07-22)
+  (d) Yally <aarongoldfein@gmail.com> (2016-07-11--2017-05-31)
+
+===============
+Yang Corp
+  (p) Yang Corp <> (2007-05-21--2007-05-31)
+
+===============
+Yin Corp
+  (p) Yin Corp <> (2007-05-21--2007-05-31)
+
+===============
+Yoz420
+  (v) Yoz420 <tlifschitz@empirix.com> (2001-03-08--2001-06-26)
+
+===============
+Zachary Watterson
+  (d) Zachary Watterson <tannerswett@gmail.com> (2017-03-26--2017-08-27)
+      also known as Gumball
+
+===============
+Zefram
+  (u) Zefram <zefram@tao.co.uk> (<= 1995-06-16--1995-12)
+  (v) Zefram <zefram@tao.co.uk> (1996-01-4--1997-10-29)
+  (a) Zefram <zefram@fysh.org> (2007-01-10--2009-02-16)
+
+===============
+Ziggy
+  (v) Ziggy <me@davidglasser.net> (2001-01-14--2001-07-09)
+
+===============
+Zipzap
+  (a) Zipzap <itszipzap@gmail.com> (2023-10-04--2024-04-19)
+
+===============
+Zyborg
+  (a) Zyborg <zyborgmao@gmail.com> (2020-06-21--2020-11-20)
+
+===============
+a person announcing support or intent to do so
+  (e) a person announcing support or intent to do so <c/o G.> (2012-09-28--2013-01-22)
+
+===============
+ais523
+  (v) ais523 <ais523@bham.ac.uk> (2008-04-28--2011-02-04)
+  (v) ais523 <ais523@alumni.bham.ac.uk> (2011-03-20--2017-09-23)
+      also callforjudgement at yahoo.co.uk
+  (s) ais523 <callforjudgement@yahoo.co.uk> (2021-06-08--now)
+
+===============
+ais523's imaginary friend
+  (e) ais523's imaginary friend <?> (2012-06-29--2013-04-20)
+
+===============
+allispaul
+  (a) allispaul <allispaul@gmail.com> (2009-06-03--2009-11-14)
+  (a) allispaul <allispaul@gmail.com> (2010-02-26--2010-09-07)
+
+===============
+aperfectring
+  (a) aperfectring <jstefek@gmail.com> (2013-08-15--2014-05-06)
+
+===============
+aranea
+  (d) aranea <aranea@aixea.de> (2014-08-31--2017-05-31)
+
+===============
+arkestra
+  (p) arkestra <arkestra@gmail.com> (2006-03-02--2007-05-31)
+  (a) arkestra <arkestra@gmail.com> (2008-07-31--2009-01-12)
+  (a) arkestra <arkestra@gmail.com> (2013-06-28--2014-02-12)
+
+===============
+avpx
+  (a) avpx <nickv111@gmail.com> (2007-11-24--2008-10-24)
+
+===============
+babelian
+  (d) babelian <kumarraja.ajay@gmail.com> (2017-07-29--2017-09-15)
+
+===============
+bd_
+  (a) bd_ <bdonlan@fushizen.net> (2007-06-20--2007-12-20)
+
+===============
+beokirby
+  (d) beokirby <beokirbyagora@gmail.com> (2023-05-18--2023-12-26)
+
+===============
+blob
+  (a) blob <cearguinzoni1@gmail.com> (2023-05-18--2024-04-19)
+      Not the same blob as that other one
+
+===============
+cctoide
+  (a) cctoide <cctoide@gmail.com> (2008-06-30--2008-11-16)
+
+===============
+cdm014
+  (a) cdm014 <cdm014@gmail.com> (2008-06-17--2009-01-12)
+
+===============
+cmealerjr
+  (a) cmealerjr <cdm014@gmail.com> (2009-01-26--2009-06-05)
+
+===============
+cuddlybanana
+  (a) cuddlybanana <rose.strong42@gmail.com> (2021-03-16--2024-11-29)
+
+===============
+dahuman
+  (a) dahuman <hdrussell@outlook.com> (2022-04-01--2022-08-24)
+
+===============
+davidcjackman
+  (a) davidcjackman <davidcjackman@gmail.com> (2012-01-02--2012-10-19)
+
+===============
+dcuman
+  (u) dcuman <shodan@indirect.com> (<= 1996-01-31--1996-04-23)
+
+===============
+doopy
+  (a) doopy <groberts80906@gmail.com> (2008-06-15--2008-11-16)
+
+===============
+duck
+  (a) duck <> (2022-03-12--2022-10-31)
+
+===============
+ehird
+  (k) ehird <penguinofthegods@gmail.com> (2008-05-08--2008-06-24)
+  (v) ehird <penguinofthegods@googlemail.com> (2008-08-09--2009-01-26)
+  (v) ehird <penguinofthegods@googlemail.com> (2009-02-26--2011-10-14)
+  (v) ehird <penguinofthegods@gmail.com> (2011-12-05--2012-02-28)
+  (v) ehird <penguinofthegods@googlemail.com> (2012-04-09--2012-09-28)
+  (a) ehird <penguinofthegods@gmail.com> (2013-01-29--2014-02-12)
+
+===============
+ehrid
+  (d) ehrid <c/o ehird> (2008-06-09--2008-06-27)
+
+===============
+elJefe
+  (u) elJefe <eljefe@eastpac.com> (1995-11-22--nil)
+  (v) elJefe <eljefe@eastpac.com> (1996-01--2000-04-16)
+
+===============
+else...if
+  (u) else...if <htowsner@stanford.edu> (1996-07-30--1996-08-21)
+      aka Henry
+  (v) else...if <htowsner@stanford.edu> (2000-04-15--2000-05-21)
+      aka Henry
+
+===============
+favor
+  (v) favor <chess@watson.ibm.com> (<= 1995-11-7--1997-06-12)
+
+===============
+gavin
+  (a) gavin <hawkblack13@gmail.com> (2008-10-17--2009-02-16)
+
+===============
+gazebo_dude
+  (v) gazebo_dude <no.spoon.neo@gmail.com> (2005-03-12--2005-04-11)
+
+===============
+grok
+  (v) grok <grokagora@gmail.com> (2017-05-18--2017-05-29)
+  (v) grok <grokagora@gmail.com> (2017-07-24--2017-09-27)
+  (a) grok <grokagora@gmail.com> (2020-05-20--2021-05-01)
+  (s) grok <grokagora@gmail.com> (2025-11-08--now)
+
+===============
+gwen
+  (a) gwen <quazienomic@gmail.com> (2009-05-06--2009-09-27)
+
+===============
+harblcat
+  (a) harblcat <cblair1986@gmail.com> (2008-11-28--2009-04-19)
+
+===============
+hedgehogcull
+  (a) hedgehogcull <jon@peekee.co.uk> (2007-08-16--2008-02-01)
+
+===============
+innalienableWright
+  (d) innalienableWright <inalienablewright@mailfence.com> (2023-05-16--2023-12-26)
+
+===============
+ironiridis
+  (v) ironiridis <ironiridis@gmail.com> (2015-05-01--2015-07-29)
+
+===============
+j
+  (a) j <agora@jaycampbell.com> (2009-12-13--2009-06-05)
+
+===============
+juan
+  (s) juan <juan@juanmeleiro.mat.br> (2022-03-14--now)
+
+===============
+justine sells
+  (a) justine sells <dudebabe3@gmail.com> (2012-06-18--2013-04-07)
+
+===============
+kambri
+  (s) kambri <kamaddoke@gmail.com> (2025-03-23--now)
+
+===============
+kcnomic
+  (a) kcnomic <kcnomic@gmail.com> (2012-03-25--2012-10-19)
+
+===============
+kiako
+  (s) kiako <agora@kiako.me> (2023-08-05--now)
+
+===============
+lare290
+  (a) lare290 <kauhanen44@gmail.com> (2024-07-21--2025-05-26)
+
+===============
+lee
+  (v) lee <lee@pyrzqxgl.org> (1998-07-18--1999-02-08)
+  (u) lee <lee@pyrzqxgl.org> (1999-06-04--2000-09-02)
+  (u) lee <lee@pyrzqxgl.org> (2000-12-13--2001-07-08)
+
+===============
+literallyAmbiguous
+  (s) literallyAmbiguous <paulmcdowell18@gmail.com> (2024-05-29--now)
+
+===============
+loh
+  (v) loh <loh@lohnet.org> (2001-01-19--2001-05-23)
+
+===============
+mcdg
+  (a) mcdg <mcdelgaudio@outlook.it> (2024-01-28--2024-11-29)
+
+===============
+modulus
+  (a) modulus <david@miradoiro.com> (2009-04-22--2009-08-24)
+
+===============
+moonroof
+  (a) moonroof <roycewoodspam@gmail.com> (2012-07-13--2013-05-21)
+
+===============
+mqyhlkahu
+  (a) mqyhlkahu <mqyhlkahu@gmail.com> (2024-04-22--2024-11-29)
+      aka kotnen; aka truffle
+  (s) mqyhlkahu <mqyhlkahu@gmail.com> (2025-11-06--now)
+
+===============
+neil
+  (a) neil <neil@s-z.org> (2001-06-24--2003-03-02)
+
+===============
+nix
+  (v) nch <nichdel@gmail.com> (2019-07-14--2019-07-25)
+      known as nichdel, nch, then later (in 2020) nix
+  (a) nichdel <nichdel@gmail.com> (2013-08-14--2014-05-06)
+  (v) nichdel <nichdel@gmail.com> (2014-10-15--2015-04-06)
+  (v) nichdel <nichdel@gmail.com> (2015-12-01--2017-05-29)
+  (a) nichdel <nichdel@gmail.com> (2017-06-29--2019-05-24)
+      known as nichdel, nch, then later (in 2020) nix
+  (w) nix <nixagora@protonmail.com> (2019-10-18--2022-08-29)
+  (w) nix <nixagora@protonmail.com> (2022-08-29--2019-10-18)
+  (d) nix <agora@nullarch.com> (2022-10-09--2023-06-13)
+  (a) nix <agora@nullarch.com> (2023-10-12--2024-11-29)
+  (s) nix <agora@nullarch.com> (2025-10-18--now)
+
+===============
+o
+  (a) o <owen@grimoire.ca> (2016-07-12--2018-10-16)
+  (a) o <owen@grimoire.ca> (2019-05-23--2020-04-09)
+
+===============
+oklopol
+  (a) oklopol <oklopol@gmail.com> (2008-10-07--2009-02-16)
+
+===============
+oliver.n
+  (s) oliver.n <olivern0@proton.me> (2024-08-19--now)
+
+===============
+omd
+  (v) omd <comexk@gmail.com> (2007-05-01--2010-12-27)
+      Cantus Cygneus submitted 25 Dec, published 28 Dec, but omd deregistered voluntarily 27 Dec
+  (s) omd <comexk@gmail.com> (2011-02-03--now)
+      officially, but technically equivalent c.ome.xk at gmail.com
+
+===============
+orb
+  (a) orb <hereuplay@gmail.com> (2022-10-05--2023-01-20)
+
+===============
+pTang
+  (a) pTang <nau@treyarch.com> (2000-09-21--2002-05-12)
+
+===============
+pikhq
+  (a) pikhq <josiahw@gmail.com> (2007-09-16--2009-02-16)
+  (a) pikhq <josiahw@gmail.com> (2009-03-10--2009-11-14)
+  (a) pikhq <josiahw@gmail.com> (2011-10-21--19 2012-10)
+  (a) pikhq <agora@ada.pikhq.com> (2019-10-20--2020-05-30)
+
+===============
+pokes
+  (a) pokes <pokes@botnoise.org> (2017-12-11--2019-02-03)
+
+===============
+redtara
+  (a) redtara <redxtara@gmail.com> (2021-10-07--2022-04-08)
+      Formerly Ienpw III
+
+===============
+root
+  (v) root <kellyia@udel.edu> (2001-05-13--2006-12-18)
+  (v) root <ian.g.kelly@gmail.com> (2007-05-22--2009-01-26)
+  (v) root <ian.g.kelly@gmail.com> (2009-03-27--2009-05-26)
+  (v) root <ian.g.kelly@gmail.com> (2011-06-29--2011-06-29)
+
+===============
+scat
+  (a) scat <agora@lesidhetree.com> (2012-05-18--2013-04-07)
+      Also schrodingers.katana at gmail.com
+
+===============
+snail
+  (s) snail <secretsnail9@gmail.com> (2022-01-29--now)
+      Previously known as secretsnail
+
+===============
+solublefish
+  (u) solublefish <WGarner@Empirix.com> (2001-03-31--2001-11-12)
+
+===============
+sprock
+  (a) sprock <sprocklem@gmail.com> (2025-01-05--2025-12-26)
+
+===============
+sproingie
+  (p) sproingie <cja987@gmail.com> (2006-12-20--2007-05-31)
+
+===============
+stadjer
+  (d) stadjer <stadjernomic@gmail.com> (2015-03-23--2015-08-10)
+
+===============
+sukil
+  (a) sukil <sukiletxe+agora@gmail.com> (2020-02-12--2020-11-29)
+
+===============
+t
+  (a) t <scurra@iki.fi> (1999-10-14--2005-01-05)
+
+===============
+teucer
+  (a) teucer <teucer@pobox.com> (2009-06-04--2009-11-14)
+  (a) teucer <teucer@pobox.com> (2013-08-05--2014-02-12)
+
+===============
+the Astrally Forged
+  (a) the Astrally Forged <irc://libera.chat/AstrallyForged,isnick> (2022-10-14--2023-02-21)
+      Also @moonbolt@mst3k.interlinked.me on Fediverse and mailto://theastrallyforged@disroot.org
+
+===============
+the Cayman Islands
+  (e) the Cayman Islands <c/o G.> (2012-05-04--2013-01-22)
+
+===============
+the Warrigal
+  (v) the Warrigal <tannerswett@gmail.com> (2014-08-05--2014-11-24)
+
+===============
+thespyguy
+  (a) thespyguy <thespyguy@gmail.com> (2009-05-19--2009-09-27)
+
+===============
+thimble
+  (a) thimble <blomlie@proton.me> (2024-12-06--2025-05-26)
+
+===============
+tmanthe2nd
+  (d) tmanthe2nd <trstnbrdwg0@gmail.com> (2017-05-13--2017-08-27)
+
+===============
+tris
+  (a) tris <trstnbrdwg0@gmail.com> (2021-11-12--2022-04-08)
+
+===============
+w1n5t0n
+  (a) w1n5t0n <chuckles11489@gmail.com> (2008-11-30--2009-05-17)
+
+===============
+woggle
+  (a) woggle <woggling@gmail.com> (2007-12-23--2010-01-26)
+  (a) woggle <woggling@gmail.com> (2007-12-23--2010-10-11)
+  (a) woggle <woggling@gmail.com> (2011-05-30--2012-10-19)
+  (d) woggle <woggling@gmail.com> (2013-01-19--2015-08-10)
+
+===============
+wunst
+  (a) wunst <matthiesbe@gmail.com> (2024-04-04--2024-11-29)
+
+===============
+wutold
+  (u) wutold <> (1995-10--1995-10)
+
+===============
+zeckalpha
+  (a) zeckalpha <zeckalpha@gmail.com> (2009-05-30--2009-11-14)
+
+===============
+ziproot
+  (w) ziproot <agora.ziproot@erine.email> (2022-09-07--2022-11-07)
+
+===============
+天火狐
+  (a) 天火狐 <draconicdarkness@gmail.com> (2016-11-06--2019-02-03)
+      Alternative/transliteration: Tenhigitsune
+
+
+
+===============================================================================
+
+-- 
+juan
+Registrar, Absurdor

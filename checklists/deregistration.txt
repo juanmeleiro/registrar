@@ -12,6 +12,8 @@
 * Intend without 3 objections
   to deregister
 
+* Cc the player
+
 * Create task to deregister in 4 days
 
 * Wait

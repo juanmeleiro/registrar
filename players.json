@@ -657,11 +657,10 @@
   "Burning Beef": {
     "history": [
       {
-        "active": false,
         "contact": "burning.beef.agora@gmail.com",
-        "latest": "2025-10-31",
+        "deregistration": "2026-01-12",
         "name": "Burning Beef",
-        "reason": "s",
+        "reason": "a",
         "registration": "2025-07-07"
       }
     ]

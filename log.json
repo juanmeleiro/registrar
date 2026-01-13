@@ -1403,5 +1403,11 @@
   {
     "what": "weekly",
     "when": 1768228832
+  },
+  {
+    "what": "deregister",
+    "when": 1768229113,
+    "where": "oNHKvww9@juanmeleiro.mat.br",
+    "who": "Burning Beef"
   }
 ]

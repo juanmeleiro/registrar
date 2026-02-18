@@ -1436,5 +1436,11 @@
   {
     "what": "weekly",
     "when": 1770636057
+  },
+  {
+    "what": "deactivation",
+    "when": 1770989936,
+    "where": "oRISe0H8@juanmeleiro.mat.br",
+    "who": "Jimmy"
   }
 ]

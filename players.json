@@ -711,11 +711,10 @@
   "Caramel": {
     "history": [
       {
-        "active": false,
         "contact": "c0okeesncr3em@gmail.com",
-        "latest": "2025-12-12",
+        "deregistration": "2026-02-23",
         "name": "Caramel",
-        "reason": "s",
+        "reason": "a",
         "registration": "2025-06-21"
       }
     ]

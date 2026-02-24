@@ -1450,5 +1450,11 @@
   {
     "what": "weekly",
     "when": 1771865394
+  },
+  {
+    "what": "deregister",
+    "when": 1771847179,
+    "where": "oSYICqgV@juanmeleiro.mat.br",
+    "who": "Caramel"
   }
 ]

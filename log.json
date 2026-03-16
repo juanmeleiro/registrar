@@ -1468,5 +1468,11 @@
   {
     "what": "weekly",
     "when": 1773065699
+  },
+  {
+    "what": "deactivation",
+    "when": 1773413165,
+    "where": "oUp9-auC@juanmeleiro.mat.br",
+    "who": "Ferret"
   }
 ]

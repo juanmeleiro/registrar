@@ -1494,5 +1494,12 @@
   {
     "what": "weekly",
     "when": 1774273012
+  },
+  {
+    "what": "register",
+    "when": 1774437788,
+    "whence": "gregoryscotthayes@gmail.com",
+    "where": "D63A5ED2-18CE-4554-8796-8041801DA620@gmail.com",
+    "who": "Galle"
   }
 ]

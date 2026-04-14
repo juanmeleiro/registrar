@@ -1486,9 +1486,9 @@
   "Gaelan": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "gbs@canishe.com",
-        "latest": "2023-06-06",
+        "latest": "2026-04-13",
         "name": "Gaelan",
         "observations": "Previously known as Gaelan Steele",
         "reason": "s",

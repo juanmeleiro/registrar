@@ -1524,5 +1524,12 @@
   {
     "what": "weekly",
     "when": 1776124411
+  },
+  {
+    "what": "register",
+    "when": 1776093644,
+    "whence": "mosw.agora@proton.me",
+    "where": "vhHyTASrRKO48dXvkUcwDesKCalYg63zEThxKeaYjKqSkSnUt5jzA42fy-JkjclGp-7t9aCN84851FuS9WZ8UVazhpmRuR-AzimNQIHoRm8=@proton.me",
+    "who": "mosw"
   }
 ]

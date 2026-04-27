@@ -2065,11 +2065,10 @@
         "registration": "2023-04-09"
       },
       {
-        "active": false,
         "contact": "returnofjimmy@gmail.com",
-        "latest": "2026-02-13",
+        "deregistration": "2026-04-27",
         "name": "Jimmy",
-        "reason": "s",
+        "reason": "a",
         "registration": "2023-12-03"
       }
     ]

@@ -1541,5 +1541,11 @@
   {
     "what": "weekly",
     "when": 1776870547
+  },
+  {
+    "what": "deregister",
+    "when": 1777304835,
+    "where": "oaUaRAfv@juanmeleiro.mat.br",
+    "who": "Jimmy"
   }
 ]

@@ -6,7 +6,7 @@ define(module, shl`$1
 include($2)')dnl
 Date: MAILDATE
 `To: <agora-official@agoranomic.org>'
-`Subject: [Registrar] Monthly report: Arrivals and Departures'
+`Subject: [Registrar] Monthly report: Arrivals and Departures' (YEAR-MONTH))
 dhl
 `Registrar: juan              Arrivals and Departures                 'YEAR-MONTH-DAY
 dhl

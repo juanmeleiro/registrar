@@ -1,7 +1,7 @@
 Date: MAILDATE
 From: juan <juan@juanmeleiro.mat.br>
 To: <agora-official@agoranomic.org>
-Subject: [Registrar] Writ of FAGE
+Subject: [Registrar] Writ of FAGE (NAME)
 ===============================================================================
 `Registrar: juan                 Writ of FAGE                         'esyscmd(date +%Y-%m-%d | tr -d '\n')
 ===============================================================================
@@ -12,7 +12,7 @@ DATE
 
                                the player known as
 
-NAME
+PADDEDNAME
 
                       has submited to me, the Registrar, a
 

@@ -24,7 +24,8 @@ function cantus(args, players, log)
 
 	local defs = {
 		MAILDATE = os.date("%a, %d %b %Y %T %z"),
-		NAME = namepad .. args.who,
+		NAME = args.who,
+		PADDEDNAME = namepad .. args.who,
 		DATE = datepad .. datestring,
 		FILEPATH = args.cantus,
 		FULLTEXT = string.format("include(%s)", FILEPATH)

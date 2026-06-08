@@ -7,7 +7,7 @@ include($2)')dnl
 Date: MAILDATE
 `To: <agora-official@agoranomic.org>'
 `From: juan <juan@juanmeleiro.mat.br>'
-`Subject: [Registrar] Weekly report' (esyscmd(`date +%Y-%U'))
+`Subject: [Registrar] Weekly report' (esyscmd(`date +%Y-%U | tr -d \n'))
 dhl
 `Registrar: juan              The Agoran Directory                    'YEAR-MONTH-DAY
 dhl

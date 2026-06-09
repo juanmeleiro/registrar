@@ -5515,11 +5515,10 @@
         "registration": "2024-04-22"
       },
       {
-        "active": false,
         "contact": "mqyhlkahu@gmail.com",
-        "latest": "2026-03-13",
+        "deregistration": "2026-06-08",
         "name": "mqyhlkahu",
-        "reason": "s",
+        "reason": "a",
         "registration": "2025-11-06"
       }
     ]

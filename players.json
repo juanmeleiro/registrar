@@ -1341,11 +1341,10 @@
   "Ferret": {
     "history": [
       {
-        "active": false,
         "contact": "themoonisbrighttoblueeyes@gmail.com",
-        "latest": "2026-03-13",
+        "deregistration": "2026-06-08",
         "name": "Ferret",
-        "reason": "s",
+        "reason": "a",
         "registration": "2025-10-17"
       }
     ]

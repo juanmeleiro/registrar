@@ -5269,11 +5269,10 @@
         "registration": "2020-05-20"
       },
       {
-        "active": false,
         "contact": "grokagora@gmail.com",
-        "latest": "2026-03-13",
+        "deregistration": "2026-06-08",
         "name": "grok",
-        "reason": "s",
+        "reason": "a",
         "registration": "2025-11-08"
       }
     ]

@@ -112,11 +112,11 @@ function format_event(e)
 end
 
 function ord(num)
-	if (num == 1) then
+	if (num == 1 or num == "1") then
 		return "st"
-	elseif (num == 2) then
+	elseif (num == 2 or num == "2") then
 		return "nd"
-	elseif (num == 3) then
+	elseif (num == 3 or num == "3") then
 		return "rd"
 	else
 		return "th"

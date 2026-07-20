@@ -3461,9 +3461,9 @@
         "registration": "2024-11-16"
       },
       {
-        "active": false,
+        "active": true,
         "contact": "agoranomic@fastmail.com",
-        "latest": "2026-07-17",
+        "latest": "2026-07-18",
         "name": "RadicalRose",
         "reason": "s",
         "registration": "2025-06-16"

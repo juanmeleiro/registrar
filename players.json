@@ -5391,9 +5391,9 @@
   "kiako": {
     "history": [
       {
-        "active": false,
+        "active": true,
         "contact": "agora@kiako.me",
-        "latest": "2026-07-17",
+        "latest": "2026-07-19",
         "name": "kiako",
         "reason": "s",
         "registration": "2023-08-05"

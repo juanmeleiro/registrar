@@ -468,9 +468,9 @@
   "Ben": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "amdwagora@gmail.com",
-        "latest": "2023-11-26",
+        "latest": "2026-07-17",
         "name": "Ben",
         "reason": "s",
         "registration": "2023-11-26"
@@ -1485,9 +1485,9 @@
   "Gaelan": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "gbs@canishe.com",
-        "latest": "2026-06-23",
+        "latest": "2026-07-17",
         "name": "Gaelan",
         "observations": "Previously known as Gaelan Steele",
         "reason": "s",
@@ -2154,9 +2154,9 @@
   "Kaia": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "kaia.sky01@gmail.com",
-        "latest": "2025-07-04",
+        "latest": "2026-07-17",
         "name": "Kaia",
         "observations": "Also on Discord as @kaiasky.",
         "reason": "s",
@@ -2379,9 +2379,9 @@
         "registration": "2024-03-05"
       },
       {
-        "active": true,
+        "active": false,
         "contact": "legallybearded@gmail.com",
-        "latest": "2025-04-06",
+        "latest": "2026-07-17",
         "name": "LegallyBearded",
         "reason": "s",
         "registration": "2025-04-06"
@@ -2458,9 +2458,9 @@
   "Liz Wake": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "vagueposted@gmail.com",
-        "latest": "2024-12-08",
+        "latest": "2026-07-17",
         "name": "Liz Wake",
         "reason": "s",
         "registration": "2023-12-10"
@@ -2841,9 +2841,9 @@
   "Ning": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "obpeter931@gmail.com",
-        "latest": "2026-04-04",
+        "latest": "2026-07-17",
         "name": "Ning",
         "reason": "s",
         "registration": "2026-04-04"
@@ -3461,9 +3461,9 @@
         "registration": "2024-11-16"
       },
       {
-        "active": true,
+        "active": false,
         "contact": "agoranomic@fastmail.com",
-        "latest": "2025-06-16",
+        "latest": "2026-07-17",
         "name": "RadicalRose",
         "reason": "s",
         "registration": "2025-06-16"
@@ -5391,8 +5391,9 @@
   "kiako": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "agora@kiako.me",
+        "latest": "2026-07-17",
         "name": "kiako",
         "reason": "s",
         "registration": "2023-08-05"
@@ -5494,9 +5495,9 @@
   "mosw": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "mosw.agora@proton.me",
-        "latest": "2026-04-13",
+        "latest": "2026-07-17",
         "name": "mosw",
         "reason": "s",
         "registration": "2026-04-13"
@@ -5613,9 +5614,9 @@
         "registration": "2023-10-12"
       },
       {
-        "active": true,
+        "active": false,
         "contact": "agora@nullarch.com",
-        "latest": "2025-10-18",
+        "latest": "2026-07-17",
         "name": "nix",
         "reason": "s",
         "registration": "2025-10-18"
@@ -5654,9 +5655,9 @@
   "oliver.n": {
     "history": [
       {
-        "active": true,
+        "active": false,
         "contact": "olivern0@proton.me",
-        "latest": "2025-04-08",
+        "latest": "2026-07-17",
         "name": "oliver.n",
         "reason": "s",
         "registration": "2024-08-19"

@@ -5451,11 +5451,10 @@
   "literallyAmbiguous": {
     "history": [
       {
-        "active": true,
         "contact": "paulmcdowell18@gmail.com",
-        "latest": "2024-05-29",
+        "deregistration": "2026-07-28",
         "name": "literallyAmbiguous",
-        "reason": "s",
+        "reason": "v",
         "registration": "2024-05-29"
       }
     ]

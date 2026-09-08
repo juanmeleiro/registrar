@@ -1788,5 +1788,19 @@
   {
     "what": "monthly",
     "when": 1788275353
+  },
+  {
+    "what": "rename",
+    "when": 1788707554,
+    "where": "DM8PR04MB7848473BBB83CCE979D60BA1BFB32@DM8PR04MB7848.namprd04.prod.outlook.com",
+    "whither": "Ilaja",
+    "who": "Despi"
+  },
+  {
+    "what": "readdress",
+    "when": 1788707554,
+    "where": "DM8PR04MB7848473BBB83CCE979D60BA1BFB32@DM8PR04MB7848.namprd04.prod.outlook.com",
+    "whither": "edgecaseGirl@mailfence.com",
+    "who": "Ilaja"
   }
 ]

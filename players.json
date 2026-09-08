@@ -1132,18 +1132,6 @@
       }
     ]
   },
-  "Despi": {
-    "history": [
-      {
-        "active": true,
-        "contact": "despiaz@hotmail.com",
-        "latest": "2026-07-17",
-        "name": "Despi",
-        "reason": "s",
-        "registration": "2026-07-17"
-      }
-    ]
-  },
   "Doug": {
     "history": [
       {
@@ -1923,6 +1911,18 @@
         "name": "Ienpw III",
         "reason": "d",
         "registration": "2017-05-21"
+      }
+    ]
+  },
+  "Ilaja": {
+    "history": [
+      {
+        "active": true,
+        "contact": "edgecaseGirl@mailfence.com",
+        "latest": "2026-07-17",
+        "name": "Ilaja",
+        "reason": "s",
+        "registration": "2026-07-17"
       }
     ]
   },
